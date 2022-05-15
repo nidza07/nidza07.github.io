@@ -1,0 +1,1633 @@
+Game1:
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 501 points.
+Round #1. afrim shuffles the cards and deals 7 to each player.
+afrim returns the first card of the pile and makes it visible on the table. It is a green 0.
+It's your turn.
+Your cards are now sorted by ascending number.
+green 0
+You play a blue 0.
+It's afrim's turn.
+You play a blue 9.
+It's afrim's turn.
+afrim plays a wild draw four.
+afrim wants green.
+It's your turn.
+You draw 4 cards.
+You play a green draw two.
+It's afrim's turn.
+afrim plays a green draw two.
+It's your turn.
+You draw 4 cards.
+You play a wild.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim plays a red 5.
+It's your turn.
+You play a red 8.
+It's afrim's turn.
+You play a red 7.
+It's afrim's turn.
+Nikola says: interception!
+You play a green 7.
+It's your turn.
+You play a green 6.
+It's afrim's turn.
+afrim plays a green 9.
+It's your turn.
+green 9
+You play a green 2.
+It's afrim's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a red 1.
+It's afrim's turn.
+afrim plays a wild draw four.
+afrim wants yellow.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's afrim's turn.
+afrim draws 8 cards.
+afrim plays a blue 6.
+It's your turn.
+You play a blue 5.
+It's afrim's turn.
+You play a blue 4.
+It's afrim's turn.
+You play a blue 3.
+afrim gets 85 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 0.
+afrim: 85.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #2. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 8.
+It's afrim's turn.
+yellow 8
+afrim plays a yellow 8.
+It's your turn.
+yellow 8
+You play a yellow 2.
+It's afrim's turn.
+You play a yellow 1.
+It's afrim's turn.
+afrim plays a yellow 1.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim draws 4 cards.
+afrim plays a wild.
+afrim wants green.
+It's your turn.
+You draw a card.
+You play a green draw two.
+It's afrim's turn.
+afrim plays a green draw two.
+It's your turn.
+You draw 4 cards.
+You can't play.
+It's afrim's turn.
+afrim plays a red draw two.
+It's your turn.
+You draw 2 cards.
+red
+You play a wild.
+Choose a color:
+You want blue.
+It's afrim's turn.
+afrim plays a blue 3.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a blue reverse.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a red 9.
+It's afrim's turn.
+afrim plays a red reverse.
+It's afrim's turn.
+afrim plays a red 8.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+red 8
+You play a red 7.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+You play a yellow 6.
+It's afrim's turn.
+afrim plays a blue 6.
+It's your turn.
+blue 6
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim draws 4 cards.
+afrim can't play.
+It's your turn.
+You play a red 5.
+It's afrim's turn.
+You play a red 4.
+It's afrim's turn.
+You play a red 3.
+afrim gets 50 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 0.
+afrim: 141.
+
+Next round in 15 seconds.
+The game has been paused.
+Scores:
+Nikola: 0.
+afrim: 141.
+The score limit is fixed to 501 points.
+Round #3. afrim shuffles the cards and deals 7 to each player.
+afrim returns the first card of the pile and makes it visible on the table. It is a blue 6.
+It's your turn.
+blue 6
+You play a blue 0.
+It's afrim's turn.
+afrim plays a blue 6.
+It's your turn.
+blue 6
+You play a blue 3.
+It's afrim's turn.
+afrim plays a yellow 3.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim draws 4 cards.
+afrim plays a wild.
+afrim wants yellow.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim draws 4 cards.
+afrim plays a wild.
+afrim wants yellow.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a yellow 0.
+It's your turn.
+afrim plays a yellow 1.
+It's your turn.
+afrim says: interception!
+afrim plays a green 1.
+It's afrim's turn.
+green 1
+afrim plays a green 9.
+It's your turn.
+afrim says: interception!
+afrim plays a yellow 9.
+It's afrim's turn.
+yellow 9
+Nikola says: interception!
+You play a green 9.
+It's your turn.
+You play a green 5.
+It's afrim's turn.
+afrim plays a wild.
+afrim wants yellow.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a yellow skip.
+Your turn is skipped.
+It's afrim's turn.
+afrim plays a yellow 7.
+It's your turn.
+afrim says: interception!
+afrim plays a red 7.
+It's afrim's turn.
+red 7
+afrim plays a wild draw four.
+wild draw four
+afrim wants red.
+It's your turn.
+afrim says: uno!
+You draw 4 cards.
+You play a red reverse.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a red 7.
+It's afrim's turn.
+You play a red 6.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a red 5.
+It's your turn.
+afrim says: uno!
+You play a red 4.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+Scores:
+Nikola: 0.
+afrim: 144.
+The score limit is fixed to 501 points.
+afrim draws a card.
+afrim plays a red draw two.
+It's your turn.
+You play a green draw two.
+It's afrim's turn.
+afrim plays a yellow draw two.
+It's your turn.
+You draw 6 cards.
+You play a yellow reverse.
+It's your turn.
+You play a green reverse.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a green 7.
+It's afrim's turn.
+Nikola says: interception!
+You play a blue 7.
+It's your turn.
+afrim plays a blue 8.
+It's your turn.
+blue 8
+afrim says: uno!
+You play a blue 9.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 9.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+Scores:
+Nikola: 0.
+afrim: 150.
+The score limit is fixed to 501 points.
+yellow 9
+You play a yellow 3.
+It's afrim's turn.
+afrim plays a blue 3.
+afrim gets 0 points.
+Nikola gets 11 points.
+Scores:
+Nikola: 11.
+afrim: 150.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #4. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 2.
+It's afrim's turn.
+green 2
+afrim plays a yellow 2.
+It's your turn.
+afrim says: interception!
+afrim plays a blue 2.
+It's afrim's turn.
+blue 2
+blue
+afrim plays a blue 4.
+It's your turn.
+afrim says: interception!
+afrim plays a red 4.
+It's afrim's turn.
+red 4
+afrim draws a card.
+afrim plays a wild draw four.
+afrim wants blue.
+It's your turn.
+You draw 4 cards.
+You play a blue reverse.
+It's your turn.
+You play a red reverse.
+It's your turn.
+afrim says: interception!
+afrim plays a blue reverse.
+It's afrim's turn.
+blue reverse
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You play a wild.
+Choose a color:
+You want yellow.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a yellow 9.
+It's your turn.
+afrim says: interception!
+afrim plays a green 9.
+It's afrim's turn.
+afrim plays a green 3.
+It's your turn.
+You can't play that card.
+afrim says: uno!
+green 3
+You play a green 8.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 8.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a yellow skip.
+afrim's turn is skipped.
+It's your turn.
+You play a yellow 6.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You play a yellow 1.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+afrim says: interception!
+afrim plays a green draw two.
+It's your turn.
+afrim says: uno!
+You draw 2 cards.
+green
+You play a green 4.
+It's afrim's turn.
+afrim plays a green 7.
+afrim gets 0 points.
+Nikola gets 31 points.
+Scores:
+Nikola: 42.
+afrim: 153.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 42.
+afrim: 153.
+The score limit is fixed to 501 points.
+The game has been paused.
+Round #5. afrim shuffles the cards and deals 7 to each player.
+afrim returns the first card of the pile and makes it visible on the table. It is a blue 2.
+It's your turn.
+blue 2
+You play a blue skip.
+afrim's turn is skipped.
+It's your turn.
+You play a yellow skip.
+afrim's turn is skipped.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+afrim says: interception!
+afrim plays a yellow skip.
+Your turn is skipped.
+It's afrim's turn.
+yellow
+afrim plays a yellow 1.
+It's your turn.
+afrim says: interception!
+afrim plays a blue 1.
+It's afrim's turn.
+afrim plays a blue 0.
+It's your turn.
+blue 0
+You play a blue draw two.
+It's afrim's turn.
+afrim draws 2 cards.
+afrim plays a wild draw four.
+afrim wants yellow.
+It's your turn.
+yellow
+You play a wild draw four.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim draws 8 cards.
+afrim plays a red draw two.
+It's your turn.
+afrim says: interception!
+afrim plays a yellow draw two.
+It's your turn.
+You draw 4 cards.
+yellow
+You play a yellow 6.
+It's afrim's turn.
+afrim plays a wild.
+afrim wants blue.
+It's your turn.
+You play a wild.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim plays a red 9.
+It's your turn.
+afrim says: interception!
+afrim plays a yellow 9.
+It's afrim's turn.
+yellow 9
+It's afrim's turn.
+afrim draws a card.
+afrim plays a wild draw four.
+afrim wants blue.
+It's your turn.
+You draw 4 cards.
+You can't play.
+It's afrim's turn.
+It's afrim's turn.
+afrim plays a blue reverse.
+It's afrim's turn.
+afrim plays a blue reverse.
+It's afrim's turn.
+afrim plays a blue 6.
+It's your turn.
+blue 6
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a blue draw two.
+It's your turn.
+You play a green draw two.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow draw two.
+It's afrim's turn.
+afrim draws 6 cards.
+afrim plays a yellow reverse.
+It's afrim's turn.
+afrim draws a card.
+Too late!
+Nikola says: interception!
+You play a red reverse.
+It's your turn.
+You can't play that card.
+You play a red skip.
+afrim's turn is skipped.
+It's your turn.
+You play a red 8.
+It's afrim's turn.
+Nikola says: interception!
+You play a green 8.
+It's your turn.
+You play a green 9.
+It's afrim's turn.
+green 9
+afrim plays a blue 9.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a blue 3.
+It's your turn.
+afrim says: interception!
+afrim plays a red 3.
+It's afrim's turn.
+red 3
+afrim plays a red 5.
+It's your turn.
+afrim says: interception!
+afrim plays a red 5.
+It's afrim's turn.
+red 5
+afrim plays a red 0.
+It's your turn.
+afrim plays a red 1.
+It's your turn.
+red 1
+You play a red draw two.
+It's afrim's turn.
+afrim draws 2 cards.
+afrim plays a red 4.
+It's your turn.
+afrim says: interception!
+afrim plays a green 4.
+It's afrim's turn.
+green 4
+Nikola says: interception!
+You play a green 4.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a yellow 4.
+It's afrim's turn.
+afrim plays a yellow 6.
+It's your turn.
+afrim plays a yellow 5.
+It's your turn.
+yellow 5
+afrim has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a yellow 7.
+It's your turn.
+afrim says: uno!
+You play a red 7.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a blue 7.
+It's your turn.
+afrim says: uno!
+You can't play that card.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim draws a card.
+afrim plays a blue 9.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a blue 5.
+It's your turn.
+afrim says: uno!
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a blue 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a blue 7.
+It's your turn.
+You play a yellow 7.
+It's afrim's turn.
+You play a yellow 8.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You play a yellow 2.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+yellow 2
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You play a yellow 9.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You play a yellow 3.
+It's afrim's turn.
+Nikola says: interception!
+You play a green 3.
+It's your turn.
+green 3
+You play a green reverse.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a red 8.
+It's afrim's turn.
+afrim plays a red 6.
+It's your turn.
+afrim says: interception!
+afrim plays a green 6.
+It's afrim's turn.
+afrim plays a blue 6.
+It's your turn.
+You can't play that card.
+You play a green 6.
+It's afrim's turn.
+Nikola says: uno!
+afrim plays a green 5.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a green 1.
+It's your turn.
+You play a red 1.
+It's afrim's turn.
+Nikola says: uno!
+afrim plays a red 3.
+It's your turn.
+afrim says: uno!
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You play a wild.
+Choose a color:
+You want blue.
+It's afrim's turn.
+afrim plays a blue 4.
+It's your turn.
+afrim says: uno!
+You play a blue skip.
+afrim's turn is skipped.
+It's your turn.
+You play a blue 1.
+afrim gets 8 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 45.
+afrim: 173.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #6. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 9.
+It's afrim's turn.
+red 9
+Nikola says: interception!
+You play a green 9.
+It's your turn.
+You play a green 6.
+It's afrim's turn.
+Nikola says: interception!
+You play a green 6.
+It's your turn.
+You play a green 4.
+It's afrim's turn.
+afrim plays a green 7.
+It's your turn.
+You play a green 4.
+It's afrim's turn.
+Too late!
+green 4
+It's afrim's turn.
+afrim plays a wild.
+afrim wants yellow.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a yellow 1.
+It's your turn.
+afrim plays a yellow 2.
+It's your turn.
+afrim says: interception!
+afrim plays a red 2.
+It's afrim's turn.
+afrim plays a red 3.
+It's your turn.
+red 3
+red 3
+afrim says: uno!
+You play a red draw two.
+It's afrim's turn.
+afrim draws 2 cards.
+afrim can't play.
+It's your turn.
+You draw a card.
+You play a red 1.
+It's afrim's turn.
+Nikola says: interception!
+You play a green 1.
+It's your turn.
+You play a green 8.
+afrim gets 32 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 48.
+afrim: 205.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #7. afrim shuffles the cards and deals 7 to each player.
+afrim returns the first card of the pile and makes it visible on the table. It is a green 4.
+It's your turn.
+green 4
+afrim has failed an interception and takes 3 penalty points.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim draws 4 cards.
+red
+afrim plays a wild.
+afrim wants blue.
+It's your turn.
+blue
+You play a wild draw four.
+Choose a color:
+You want yellow.
+It's afrim's turn.
+afrim draws 4 cards.
+afrim plays a yellow draw two.
+It's your turn.
+You play a red draw two.
+It's afrim's turn.
+afrim plays a blue draw two.
+It's your turn.
+You draw 6 cards.
+You play a blue 6.
+It's afrim's turn.
+Nikola says: interception!
+You play a red 6.
+It's your turn.
+You play a yellow 6.
+It's afrim's turn.
+afrim plays a yellow 9.
+It's your turn.
+afrim says: interception!
+afrim plays a blue 9.
+It's afrim's turn.
+blue 9
+afrim plays a blue skip.
+Your turn is skipped.
+It's afrim's turn.
+afrim plays a red skip.
+Your turn is skipped.
+It's afrim's turn.
+Nikola says: interception!
+You play a green skip.
+afrim's turn is skipped.
+It's your turn.
+You play a yellow skip.
+afrim's turn is skipped.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+yellow
+afrim plays a wild.
+afrim wants red.
+It's your turn.
+You play a red 8.
+It's afrim's turn.
+afrim plays a red 3.
+It's your turn.
+afrim says: interception!
+afrim plays a red 3.
+It's afrim's turn.
+afrim plays a red 7.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+red 7
+You play a red 5.
+It's afrim's turn.
+afrim plays a red 5.
+It's your turn.
+You play a red 2.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a wild draw four.
+afrim wants yellow.
+It's your turn.
+You draw 4 cards.
+You play a yellow 9.
+It's afrim's turn.
+afrim plays a yellow 8.
+It's your turn.
+yellow 8
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a yellow 3.
+It's your turn.
+You play a green 3.
+It's afrim's turn.
+afrim plays a green 1.
+It's your turn.
+You play a green 4.
+It's afrim's turn.
+Nikola says: interception!
+You play a blue 4.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+afrim has failed an interception and takes 3 penalty points.
+afrim has failed an interception and takes 3 penalty points.
+You play a blue 1.
+It's afrim's turn.
+afrim plays a red 1.
+It's your turn.
+afrim says: interception!
+afrim plays a green 1.
+afrim gets 0 points.
+Nikola gets 60 points.
+Scores:
+Nikola: 108.
+afrim: 220.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 108.
+afrim: 220.
+The score limit is fixed to 501 points.
+The game has been paused.
+Round #8. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 9.
+It's afrim's turn.
+red 9
+Nikola says: interception!
+You play a blue 9.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a wild.
+Choose a color:
+You want yellow.
+It's afrim's turn.
+afrim plays a yellow 6.
+It's your turn.
+You play a yellow 4.
+It's afrim's turn.
+afrim plays a red 4.
+It's your turn.
+afrim plays a red 3.
+It's your turn.
+red 3
+You play a red 6.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a red 1.
+It's your turn.
+You draw a card.
+afrim has failed an interception and takes 3 penalty points.
+You play a red 9.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You play a red 7.
+It's afrim's turn.
+afrim plays a blue 7.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a blue 2.
+It's afrim's turn.
+Nikola says: interception!
+You play a green 2.
+It's your turn.
+You play a green reverse.
+afrim gets 57 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 108.
+afrim: 283.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #9. afrim shuffles the cards and deals 7 to each player.
+afrim returns the first card of the pile and makes it visible on the table. It is a red 8.
+It's your turn.
+red 8
+red 8
+You play a red draw two.
+It's afrim's turn.
+afrim plays a yellow draw two.
+It's your turn.
+You draw 4 cards.
+You play a yellow skip.
+afrim's turn is skipped.
+It's your turn.
+afrim says: interception!
+afrim plays a green skip.
+Your turn is skipped.
+It's afrim's turn.
+green
+afrim plays a green 4.
+It's your turn.
+afrim plays a green 3.
+It's your turn.
+green 3
+You play a green 9.
+It's afrim's turn.
+Nikola says: interception!
+You play a blue 9.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a blue 3.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 3.
+It's your turn.
+You play a green 3.
+It's afrim's turn.
+afrim plays a green 6.
+It's your turn.
+You play a green 7.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a green 4.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim draws 4 cards.
+afrim plays a red 1.
+It's your turn.
+You play a red 8.
+It's afrim's turn.
+Nikola says: uno!
+afrim plays a green 8.
+It's your turn.
+You can't play that card.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a yellow 8.
+It's your turn.
+You play a yellow 1.
+It's afrim's turn.
+Nikola says: uno!
+afrim plays a yellow reverse.
+It's afrim's turn.
+afrim plays a blue reverse.
+It's afrim's turn.
+afrim plays a blue 5.
+It's your turn.
+afrim says: uno!
+You draw a card.
+You play a blue 4.
+It's afrim's turn.
+Nikola says: uno!
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You play a yellow 4.
+It's afrim's turn.
+afrim plays a yellow skip.
+Your turn is skipped.
+It's afrim's turn.
+afrim plays a yellow 7.
+It's your turn.
+yellow 7
+You play a red 7.
+It's afrim's turn.
+afrim plays a red 0.
+It's your turn.
+afrim says: uno!
+You play a red skip.
+afrim's turn is skipped.
+It's your turn.
+You play a red 5.
+afrim gets 2 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 108.
+afrim: 288.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #10. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 7.
+It's afrim's turn.
+green 7
+afrim plays a blue 7.
+It's your turn.
+You can't play that card.
+You can't play that card.
+blue 7
+You play a blue skip.
+afrim's turn is skipped.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a blue 4.
+It's afrim's turn.
+afrim plays a wild.
+afrim wants green.
+It's your turn.
+You play a green 3.
+It's afrim's turn.
+You play a green 2.
+It's afrim's turn.
+afrim plays a green 6.
+It's your turn.
+afrim plays a green 5.
+It's your turn.
+green 5
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a green 8.
+It's your turn.
+You draw a card.
+You play a red 8.
+It's afrim's turn.
+afrim plays a wild draw four.
+afrim wants yellow.
+It's your turn.
+afrim says: uno!
+You draw 4 cards.
+afrim has failed an interception and takes 3 penalty points.
+You play a yellow 8.
+It's afrim's turn.
+afrim plays a yellow 3.
+afrim gets 0 points.
+Nikola gets 114 points.
+Scores:
+Nikola: 222.
+afrim: 294.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 222.
+afrim: 294.
+The score limit is fixed to 501 points.
+The game has been paused.
+Round #11. afrim shuffles the cards and deals 7 to each player.
+afrim returns the first card of the pile and makes it visible on the table. It is a red 9.
+It's your turn.
+red 9
+You play a red 3.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 3.
+It's your turn.
+You play a yellow 8.
+It's afrim's turn.
+afrim plays a wild.
+afrim wants red.
+It's your turn.
+You play a red 7.
+It's afrim's turn.
+afrim plays a red skip.
+Your turn is skipped.
+It's afrim's turn.
+afrim plays a red reverse.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+red reverse
+You play a red draw two.
+It's afrim's turn.
+afrim draws 2 cards.
+Nikola says: interception!
+You play a green draw two.
+It's afrim's turn.
+Nikola says: uno!
+afrim draws 2 cards.
+afrim plays a green skip.
+Your turn is skipped.
+It's afrim's turn.
+afrim plays a green 8.
+It's your turn.
+afrim says: interception!
+afrim plays a blue 8.
+It's afrim's turn.
+Too late!
+blue 8
+afrim plays a blue 1.
+It's your turn.
+afrim says: interception!
+afrim plays a blue 1.
+It's afrim's turn.
+afrim plays a yellow 1.
+It's your turn.
+yellow 1
+You can't play that card.
+You draw a card.
+You play a yellow draw two.
+It's afrim's turn.
+Nikola says: uno!
+afrim draws 2 cards.
+afrim plays a yellow 2.
+It's your turn.
+afrim says: interception!
+afrim plays a red 2.
+It's afrim's turn.
+red 2
+afrim plays a red draw two.
+It's your turn.
+You draw 2 cards.
+You play a red 9.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a wild draw four.
+afrim wants green.
+It's your turn.
+You draw 4 cards.
+You play a green 6.
+It's afrim's turn.
+Nikola says: interception!
+You play a blue 6.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a blue skip.
+afrim's turn is skipped.
+It's your turn.
+You play a wild.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You play a red 4.
+It's afrim's turn.
+Nikola says: uno!
+afrim draws a card.
+afrim plays a red reverse.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You play a red 2.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 2.
+afrim gets 12 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 225.
+afrim: 309.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 225.
+afrim: 309.
+The score limit is fixed to 501 points.
+The game has been paused.
+Round #12. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 7.
+It's afrim's turn.
+blue 7
+You play a blue 6.
+It's afrim's turn.
+afrim plays a blue 0.
+It's your turn.
+You play a blue 2.
+It's afrim's turn.
+afrim plays a blue draw two.
+It's your turn.
+You play a yellow draw two.
+It's afrim's turn.
+afrim plays a green draw two.
+It's your turn.
+You draw 6 cards.
+green
+You play a green 5.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 5.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+afrim says: interception!
+afrim plays a red 5.
+It's afrim's turn.
+Too late!
+You play a red 6.
+It's afrim's turn.
+afrim plays a wild draw four.
+Too late!
+afrim wants blue.
+It's your turn.
+You draw 4 cards.
+You play a blue skip.
+afrim's turn is skipped.
+It's your turn.
+You play a blue skip.
+afrim's turn is skipped.
+It's your turn.
+You play a red skip.
+afrim's turn is skipped.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a red skip.
+afrim's turn is skipped.
+It's your turn.
+You play a red 4.
+It's afrim's turn.
+You play a red 3.
+It's afrim's turn.
+Nikola says: interception!
+You play a blue 3.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a blue 9.
+It's afrim's turn.
+afrim plays a blue 2.
+It's your turn.
+afrim says: uno!
+blue 2
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a wild draw four.
+You draw 4 cards.
+afrim gets 0 points.
+Nikola gets 58 points.
+Scores:
+Nikola: 289.
+afrim: 318.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 289.
+afrim: 318.
+The score limit is fixed to 501 points.
+The game has been paused.
+Round #13. afrim shuffles the cards and deals 7 to each player.
+afrim returns the first card of the pile and makes it visible on the table. It is a green 8.
+It's your turn.
+green 8
+You play a green 5.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 5.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a yellow 4.
+It's afrim's turn.
+Too late!
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You play a wild.
+Choose a color:
+You want red.
+It's afrim's turn.
+afrim plays a red reverse.
+It's afrim's turn.
+afrim plays a red 8.
+It's your turn.
+You play a red 3.
+It's afrim's turn.
+Nikola says: interception!
+You play a blue 3.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a blue draw two.
+afrim draws 2 cards.
+afrim gets 85 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 292.
+afrim: 409.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #14. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 9.
+It's afrim's turn.
+green 9
+afrim plays a red 9.
+It's your turn.
+You play a red 7.
+It's afrim's turn.
+Nikola says: interception!
+You play a green 7.
+It's your turn.
+You play a green 6.
+It's afrim's turn.
+afrim plays a yellow 6.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You play a yellow 4.
+It's afrim's turn.
+afrim plays a blue 4.
+It's your turn.
+You play a blue 3.
+It's afrim's turn.
+afrim plays a blue 1.
+It's your turn.
+You play a blue 1.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a wild draw four.
+afrim wants red.
+It's your turn.
+You draw 4 cards.
+You play a wild.
+Choose a color:
+You want yellow.
+It's afrim's turn.
+afrim plays a yellow 9.
+It's your turn.
+You play a yellow 9.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You play a yellow 2.
+It's afrim's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a red 8.
+It's afrim's turn.
+Nikola says: interception!
+You play a green 8.
+It's your turn.
+You play a green 3.
+afrim gets 37 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 292.
+afrim: 449.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #15. afrim shuffles the cards and deals 7 to each player.
+afrim returns the first card of the pile and makes it visible on the table. It is a blue 9.
+It's your turn.
+blue 9
+You play a blue 6.
+It's afrim's turn.
+afrim plays a blue 8.
+It's your turn.
+You draw a card.
+You play a blue 7.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a yellow 0.
+It's afrim's turn.
+Nikola says: interception!
+You play a red 0.
+It's your turn.
+You play a red 2.
+It's afrim's turn.
+afrim plays a red reverse.
+It's afrim's turn.
+afrim plays a green reverse.
+It's afrim's turn.
+afrim plays a green 0.
+It's your turn.
+You play a green 4.
+It's afrim's turn.
+Nikola says: uno!
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You play a wild.
+Choose a color:
+You want red.
+It's afrim's turn.
+Nikola says: uno!
+afrim plays a red 9.
+It's your turn.
+afrim says: interception!
+afrim plays a yellow 9.
+It's afrim's turn.
+afrim plays a yellow 8.
+It's your turn.
+You can't play that card.
+afrim has failed an interception and takes 3 penalty points.
+You can't play that card.
+afrim says: uno!
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim plays a yellow 2.
+afrim gets 0 points.
+Nikola gets 25 points.
+Scores:
+Nikola: 317.
+afrim: 455.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 317.
+afrim: 455.
+The score limit is fixed to 501 points.
+The game has been paused.
+Round #16. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 8.
+It's afrim's turn.
+blue 8
+Nikola says: interception!
+You play a red 8.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a wild.
+Choose a color:
+You want green.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a green 3.
+It's your turn.
+afrim says: interception!
+afrim plays a red 3.
+It's afrim's turn.
+Too late!
+red 3
+afrim plays a red 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a blue 4.
+It's your turn.
+afrim has failed an interception and takes 3 penalty points.
+You play a blue reverse.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a green 1.
+It's afrim's turn.
+Nikola says: interception!
+You play a blue 1.
+It's your turn.
+You play a blue 2.
+It's afrim's turn.
+Nikola says: uno!
+afrim plays a blue 2.
+It's your turn.
+afrim says: interception!
+afrim plays a green 2.
+It's afrim's turn.
+green 2
+afrim draws a card.
+afrim plays a green 0.
+It's your turn.
+You draw a card.
+You can't play.
+It's afrim's turn.
+afrim draws a card.
+afrim plays a yellow 0.
+It's your turn.
+You play a yellow 6.
+It's afrim's turn.
+Nikola says: uno!
+afrim plays a yellow 5.
+It's your turn.
+afrim says: interception!
+afrim plays a blue 5.
+It's afrim's turn.
+afrim plays a blue 9.
+It's your turn.
+afrim says: interception!
+afrim plays a blue 9.
+afrim gets 0 points.
+Nikola gets 1 points.
+Scores:
+Nikola: 321.
+afrim: 461.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 321.
+afrim: 461.
+The score limit is fixed to 501 points.
+The game has been paused.
+Round #17. afrim shuffles the cards and deals 7 to each player.
+afrim returns the first card of the pile and makes it visible on the table. It is a yellow 7.
+It's your turn.
+yellow 7
+You play a yellow 2.
+It's afrim's turn.
+Nikola says: interception!
+You play a blue 2.
+It's your turn.
+You play a blue 1.
+It's afrim's turn.
+Nikola says: interception!
+You play a red 1.
+It's your turn.
+afrim says: interception!
+afrim plays a yellow 1.
+It's afrim's turn.
+afrim plays a red 1.
+It's your turn.
+red 1
+You play a red 4.
+It's afrim's turn.
+Nikola says: interception!
+You play a yellow 4.
+It's your turn.
+Nikola says: uno!
+afrim says: interception!
+afrim plays a yellow 4.
+It's afrim's turn.
+yellow 4
+afrim plays a wild.
+afrim wants red.
+It's your turn.
+You can't play that card.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's afrim's turn.
+Nikola says: uno!
+afrim draws 4 cards.
+afrim plays a blue reverse.
+It's afrim's turn.
+afrim draws a card.
+afrim can't play.
+It's your turn.
+You play a blue 0.
+afrim gets 43 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 321.
+afrim: 504.
+
+afrim has reached the score limit of 501 points and is now out of the game.
+You are the winner!
+The table is now open for new players.

@@ -1,0 +1,1371 @@
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 6.
+It's ibraheemmohsen's turn.
+Your cards are now sorted by ascending number.
+red 6
+Nikola says: interception!
+You play a blue 6.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 4 cards.
+ibraheemmohsen plays a red 8.
+It's your turn.
+You play a red draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue draw two.
+It's your turn.
+You draw 4 cards.
+You play a yellow draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen plays a red draw two.
+It's your turn.
+You draw 2 cards.
+You play a red 9.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a yellow 9.
+It's your turn.
+You play a yellow 4.
+It's ibraheemmohsen's turn.
+You play a yellow 3.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 3.
+It's your turn.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 5.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a blue 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 5.
+It's your turn.
+blue 5
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a blue 8.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 2.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a yellow 2.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a blue 2.
+It's your turn.
+You play a yellow 2.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen plays a yellow skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants blue.
+It's your turn.
+You draw a card.
+You play a blue skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 9.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 7.
+It's your turn.
+You play a yellow 7.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You play a yellow skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You draw a card.
+You play a red skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You play a red 1.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 1.
+It's your turn.
+You play a green 6.
+Nikola gets 0 points.
+ibraheemmohsen gets 13 points.
+Scores:
+Nikola: 0.
+ibraheemmohsen: 19.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #2. ibraheemmohsen shuffles the cards and deals 7 to each player.
+ibraheemmohsen returns the first card of the pile and makes it visible on the table. It is a red 9.
+It's your turn.
+red 9
+You play a green 9.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 9.
+It's your turn.
+blue 9
+You play a blue skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You draw a card.
+You play a yellow skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You play a yellow draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen plays a yellow 8.
+It's your turn.
+You play a yellow 7.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 1.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a green 1.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 2.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 0.
+It's your turn.
+You draw a card.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a green 4.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants red.
+It's your turn.
+ibraheemmohsen says: uno!
+You play a red 3.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a yellow 3.
+It's your turn.
+You play a yellow 2.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen draws 4 cards.
+ibraheemmohsen plays a blue 5.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a yellow 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 4.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a blue 4.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You play a blue 9.
+Nikola gets 0 points.
+ibraheemmohsen gets 43 points.
+Scores:
+Nikola: 0.
+ibraheemmohsen: 65.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #3. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 7.
+It's ibraheemmohsen's turn.
+red 7
+You play a red 6.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 6.
+It's your turn.
+yellow 6
+You can't play that card.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 1.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a blue 1.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a blue 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red 5.
+It's your turn.
+You play a red skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You play a red 4.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a red 4.
+It's your turn.
+You play a red 2.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 2.
+Nikola gets 0 points.
+ibraheemmohsen gets 10 points.
+Scores:
+Nikola: 0.
+ibraheemmohsen: 75.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #4. ibraheemmohsen shuffles the cards and deals 7 to each player.
+ibraheemmohsen returns the first card of the pile and makes it visible on the table. It is a green 1.
+It's your turn.
+green 1
+You play a red 1.
+It's ibraheemmohsen's turn.
+You play a red 2.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red reverse.
+It's ibraheemmohsen's turn.
+Too late!
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a red 7.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a blue 7.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 7.
+It's your turn.
+yellow 7
+You can't play that card.
+ibraheemmohsen plays a yellow 6.
+It's your turn.
+You play a yellow 9.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 5.
+It's your turn.
+yellow 5
+You play a yellow 3.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 3.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You want blue.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen says: You're bluffing!
+ibraheemmohsen accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+ibraheemmohsen draws 6 cards.
+ibraheemmohsen draws a card.
+It's your turn.
+You play a blue skip.
+ibraheemmohsen's turn is skipped.
+Nikola gets 0 points.
+ibraheemmohsen gets 45 points.
+Scores:
+Nikola: 3.
+ibraheemmohsen: 123.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #5. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 1.
+It's ibraheemmohsen's turn.
+blue 1
+ibraheemmohsen plays a blue reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen draws a card.
+It's your turn.
+You play a blue 5.
+It's ibraheemmohsen's turn.
+You didn't choose the right card.
+Nikola says: interception!
+You play a red 5.
+It's your turn.
+You play a yellow 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+red
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+red
+You play a wild.
+Choose a color:
+You want yellow.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+You play a yellow 2.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a red reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You play a red 7.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 7.
+It's your turn.
+You play a green 4.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a blue 4.
+It's your turn.
+You play a blue skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You play a blue 3.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a yellow 3.
+Nikola gets 0 points.
+ibraheemmohsen gets 23 points.
+Scores:
+Nikola: 3.
+ibraheemmohsen: 146.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #6. ibraheemmohsen shuffles the cards and deals 7 to each player.
+ibraheemmohsen returns the first card of the pile and makes it visible on the table. It is a green 0.
+It's your turn.
+green 0
+You play a blue 0.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 9.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a red 9.
+It's ibraheemmohsen's turn.
+red 9
+ibraheemmohsen plays a wild draw four.
+ibraheemmohsen wants green.
+It's your turn.
+You draw 4 cards.
+You play a green draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+blue
+You play a blue skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You play a wild.
+Choose a color:
+You want red.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+yellow
+ibraheemmohsen plays a yellow reverse.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a yellow reverse.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a red 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red 9.
+It's your turn.
+red 9
+ibraheemmohsen says: uno!
+You draw a card.
+You play a red 3.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a red 7.
+It's your turn.
+You play a blue 7.
+It's ibraheemmohsen's turn.
+You play a blue 8.
+It's ibraheemmohsen's turn.
+blue 8
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You play a blue 6.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 6.
+It's your turn.
+You play a green 1.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 1.
+It's your turn.
+Nikola says: uno!
+ibraheemmohsen plays a green 2.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a yellow 2.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 5.
+Nikola gets 2 points.
+ibraheemmohsen gets 0 points.
+Scores:
+Nikola: 5.
+ibraheemmohsen: 146.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 5.
+ibraheemmohsen: 146.
+The score limit is fixed to 500 points.
+Pause. Press Shift+P to start the next round.
+Round #7. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 6.
+It's ibraheemmohsen's turn.
+yellow 6
+ibraheemmohsen plays a blue 6.
+It's your turn.
+You draw a card.
+You play a red 6.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants blue.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You play a blue 2.
+It's ibraheemmohsen's turn.
+Too late!
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a green 2.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 3.
+It's your turn.
+ibraheemmohsen plays a green 4.
+It's your turn.
+You play a green draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+Nikola says: interception!
+You play a green draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+You play a yellow 4.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a wild draw four.
+ibraheemmohsen wants red.
+It's your turn.
+You draw 4 cards.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a red reverse.
+It's your turn.
+You play a red 8.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a red 8.
+It's your turn.
+You play a wild.
+Choose a color:
+You want red.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red 9.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a red 9.
+It's ibraheemmohsen's turn.
+red 9
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You play a red 7.
+It's ibraheemmohsen's turn.
+Too late!
+Nikola says: interception!
+You play a green 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 8.
+It's your turn.
+ibraheemmohsen says: uno!
+green 8
+You draw a card.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a green 7.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 0.
+Nikola gets 27 points.
+ibraheemmohsen gets 0 points.
+Scores:
+Nikola: 38.
+ibraheemmohsen: 155.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #8. ibraheemmohsen shuffles the cards and deals 7 to each player.
+ibraheemmohsen returns the first card of the pile and makes it visible on the table. It is a red 8.
+It's your turn.
+red 8
+You play a red reverse.
+It's your turn.
+You play a red 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+It's your turn.
+You play a red draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+Nikola says: interception!
+You play a green draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen plays a green skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a yellow skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a wild draw four.
+ibraheemmohsen wants yellow.
+It's your turn.
+You draw 4 cards.
+You play a yellow 9.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 2.
+It's your turn.
+yellow 2
+ibraheemmohsen plays a yellow 3.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a green 3.
+It's ibraheemmohsen's turn.
+green 3
+ibraheemmohsen plays a green 5.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 4 cards.
+ibraheemmohsen plays a blue 9.
+It's your turn.
+You play a blue 8.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 6.
+It's your turn.
+You play a blue 4.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red 4.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a yellow 4.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 8.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's ibraheemmohsen's turn.
+ibraheemmohsen says: You're bluffing!
+ibraheemmohsen accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+ibraheemmohsen draws 6 cards.
+ibraheemmohsen plays a red 3.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a red 3.
+It's ibraheemmohsen's turn.
+You play a red 2.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants yellow.
+It's your turn.
+You can't play that card.
+You draw a card.
+You play a yellow 7.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen plays a yellow 5.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 1.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a blue 1.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 1.
+It's your turn.
+green 1
+You can't play that card.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a blue 1.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen plays a blue 6.
+It's your turn.
+ibraheemmohsen says: uno!
+You play a blue 3.
+Nikola gets 0 points.
+ibraheemmohsen gets 50 points.
+Scores:
+Nikola: 38.
+ibraheemmohsen: 208.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #9. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 8.
+It's ibraheemmohsen's turn.
+green 8
+Nikola says: interception!
+You play a yellow 8.
+It's your turn.
+You play a yellow 9.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 9.
+It's your turn.
+You play a green draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen draws a card.
+It's your turn.
+You play a wild.
+Choose a color:
+You want yellow.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 1.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a green 1.
+It's ibraheemmohsen's turn.
+Too late!
+green 1
+ibraheemmohsen plays a green 3.
+It's your turn.
+You play a wild.
+Choose a color:
+You want yellow.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen plays a wild draw four.
+ibraheemmohsen wants blue.
+It's your turn.
+You say: You're bluffing!
+ibraheemmohsen is not bluffing... you must draw 2 more cards.
+You draw 6 cards.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 8.
+It's your turn.
+blue 8
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 6.
+It's your turn.
+blue 6
+You play a yellow 6.
+It's ibraheemmohsen's turn.
+Too late!
+Too late!
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants red.
+It's your turn.
+ibraheemmohsen says: uno!
+You play a red reverse.
+It's your turn.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a red 9.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red 4.
+Nikola gets 24 points.
+ibraheemmohsen gets 0 points.
+Scores:
+Nikola: 71.
+ibraheemmohsen: 211.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #10. ibraheemmohsen shuffles the cards and deals 7 to each player.
+ibraheemmohsen returns the first card of the pile and makes it visible on the table. It is a blue 1.
+It's your turn.
+blue 1
+You play a blue 2.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants green.
+It's your turn.
+green
+You play a green reverse.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a red reverse.
+It's your turn.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+red reverse
+You play a wild.
+Choose a color:
+You want yellow.
+It's ibraheemmohsen's turn.
+wild
+yellow
+ibraheemmohsen plays a yellow 5.
+It's your turn.
+You play a yellow 7.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen plays a yellow 3.
+It's your turn.
+You play a wild draw four.
+ibraheemmohsen draws 4 cards.
+Nikola gets 0 points.
+ibraheemmohsen gets 54 points.
+Scores:
+Nikola: 71.
+ibraheemmohsen: 268.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #11. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 1.
+It's ibraheemmohsen's turn.
+blue 1
+ibraheemmohsen plays a yellow 1.
+It's your turn.
+You play a yellow draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+Nikola says: interception!
+You play a green draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen plays a green reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red reverse.
+It's ibraheemmohsen's turn.
+red reverse
+ibraheemmohsen plays a red reverse.
+It's ibraheemmohsen's turn.
+red reverse
+red
+ibraheemmohsen plays a wild draw four.
+ibraheemmohsen wants green.
+It's your turn.
+You draw 4 cards.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a green skip.
+ibraheemmohsen's turn is skipped.
+It's your turn.
+You play a green draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+green
+ibraheemmohsen plays a green 5.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a green 5.
+It's ibraheemmohsen's turn.
+green 5
+Nikola says: interception!
+You play a yellow 5.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a blue 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 4.
+It's your turn.
+blue 4
+You play a wild.
+Choose a color:
+You want red.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants green.
+It's your turn.
+You play a green 7.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 2.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a blue 2.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 1.
+Nikola gets 27 points.
+ibraheemmohsen gets 0 points.
+Scores:
+Nikola: 98.
+ibraheemmohsen: 274.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 98.
+ibraheemmohsen: 274.
+The score limit is fixed to 500 points.
+Pause. Press Shift+P to start the next round.
+Round #12. ibraheemmohsen shuffles the cards and deals 7 to each player.
+ibraheemmohsen returns the first card of the pile and makes it visible on the table. It is a green 2.
+It's your turn.
+green 2
+You play a green 4.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 1.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a blue 1.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red 1.
+It's your turn.
+You can't play that card.
+red 1
+You play a red draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+Nikola says: interception!
+You play a yellow draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen plays a yellow 6.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a yellow 6.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a red 6.
+It's your turn.
+You can't play that card.
+You draw a card.
+You play a red 1.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red 3.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a blue 3.
+It's ibraheemmohsen's turn.
+blue 3
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants yellow.
+It's your turn.
+You play a yellow 8.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 4.
+It's your turn.
+ibraheemmohsen plays a yellow 5.
+It's your turn.
+ibraheemmohsen says: uno!
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a wild draw four.
+ibraheemmohsen wants blue.
+It's your turn.
+You draw 4 cards.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a blue 9.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 9.
+It's your turn.
+You can't play that card.
+You can't play that card.
+You can't play that card.
+green 9
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a green 7.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen says: uno!
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a green 6.
+It's your turn.
+ibraheemmohsen says: uno!
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You play a green 8.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+You play a red 8.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen says: uno!
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You play a red 4.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 4.
+It's your turn.
+ibraheemmohsen says: uno!
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a red 4.
+It's your turn.
+ibraheemmohsen says: uno!
+You draw a card.
+You play a red 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You play a yellow 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You play a yellow 1.
+It's ibraheemmohsen's turn.
+You play a yellow 2.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a blue 2.
+Nikola gets 0 points.
+ibraheemmohsen gets 31 points.
+Scores:
+Nikola: 98.
+ibraheemmohsen: 311.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #13. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 2.
+It's ibraheemmohsen's turn.
+blue 2
+You play a blue 1.
+It's ibraheemmohsen's turn.
+You play a blue 0.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 4.
+It's your turn.
+You play a blue 5.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants yellow.
+It's your turn.
+You play a yellow 7.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a red 7.
+It's your turn.
+You play a red draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen plays a green draw two.
+It's your turn.
+You draw 2 cards.
+You play a green 7.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green 9.
+It's your turn.
+You play a green 6.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 6.
+It's your turn.
+You play a yellow 3.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen plays a yellow 4.
+It's your turn.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 1.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a yellow 1.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen draws a card.
+It's your turn.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You play a wild.
+Choose a color:
+You want green.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a green reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red reverse.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green reverse.
+It's your turn.
+You play a green draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red draw two.
+It's your turn.
+You draw 4 cards.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a yellow draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen draws a card.
+It's your turn.
+yellow
+You draw a card.
+You play a yellow 6.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 4.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a green 4.
+It's ibraheemmohsen's turn.
+You play a green 3.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a blue 3.
+It's your turn.
+You draw a card.
+You play a blue 6.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 2.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a green 2.
+It's ibraheemmohsen's turn.
+You play a green 1.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a green skip.
+Your turn is skipped.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a wild draw four.
+ibraheemmohsen wants red.
+It's your turn.
+You draw 4 cards.
+You play a red 9.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red 8.
+It's your turn.
+red 8
+You play a yellow 8.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 8.
+It's your turn.
+You play a green 5.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a red 5.
+It's your turn.
+You play a red 4.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen plays a red 3.
+It's your turn.
+ibraheemmohsen says: uno!
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a red 0.
+Nikola gets 14 points.
+ibraheemmohsen gets 0 points.
+Scores:
+Nikola: 112.
+ibraheemmohsen: 320.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #14. ibraheemmohsen shuffles the cards and deals 7 to each player.
+ibraheemmohsen returns the first card of the pile and makes it visible on the table. It is a yellow 7.
+It's your turn.
+yellow 7
+You play a yellow 8.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 4.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 4 cards.
+ibraheemmohsen draws a card.
+It's your turn.
+You play a green 1.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a blue 1.
+It's your turn.
+You play a blue 6.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a red 6.
+It's your turn.
+You play a red 0.
+Nikola gets 0 points.
+ibraheemmohsen gets 176 points.
+Scores:
+Nikola: 112.
+ibraheemmohsen: 496.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #15. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 7.
+It's ibraheemmohsen's turn.
+blue 7
+You play a blue 6.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a yellow 6.
+It's your turn.
+You play a yellow 2.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 2.
+It's your turn.
+You play a green 2.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow 2.
+It's your turn.
+yellow 2
+You draw a card.
+You can't play.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a yellow reverse.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a wild.
+Scores:
+Nikola: 112.
+ibraheemmohsen: 496.
+The score limit is fixed to 500 points.
+ibraheemmohsen wants green.
+It's your turn.
+green
+You play a green draw two.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws 2 cards.
+ibraheemmohsen plays a green 8.
+It's your turn.
+ibraheemmohsen says: interception!
+ibraheemmohsen plays a yellow 8.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a wild.
+ibraheemmohsen wants blue.
+It's your turn.
+You draw a card.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a blue 1.
+It's ibraheemmohsen's turn.
+ibraheemmohsen plays a blue 9.
+It's your turn.
+ibraheemmohsen says: uno!
+You draw a card.
+ibraheemmohsen has failed an interception and takes 3 penalty points.
+You play a wild.
+Choose a color:
+You want red.
+It's ibraheemmohsen's turn.
+ibraheemmohsen draws a card.
+ibraheemmohsen plays a red 2.
+It's your turn.
+You play a red 5.
+It's ibraheemmohsen's turn.
+Nobody has uno!
+Nobody has uno!
+ibraheemmohsen hasn't said uno!
+Nobody has uno!
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You play a red 0.
+It's ibraheemmohsen's turn.
+Nikola says: uno!
+ibraheemmohsen draws a card.
+ibraheemmohsen can't play.
+It's your turn.
+You draw a card.
+You play a red 3.
+It's ibraheemmohsen's turn.
+Nikola says: interception!
+You play a green 3.
+Nikola gets 0 points.
+ibraheemmohsen gets 88 points.
+Scores:
+Nikola: 112.
+ibraheemmohsen: 590.
+
+ibraheemmohsen has reached the score limit of 500 points and is now out of the game.
+You are the winner!
+The table is now open for new players.

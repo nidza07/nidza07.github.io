@@ -1,0 +1,1702 @@
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a red 7.
+It's your turn.
+Your cards are now sorted by ascending number.
+red 7
+You play a red 1.
+It's alsahad's turn.
+alsahad plays a red reverse.
+It's alsahad's turn.
+alsahad plays a red 9.
+It's your turn.
+red 9
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a red 5.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 5.
+It's alsahad's turn.
+alsahad plays a green 5.
+It's your turn.
+green 5
+You play a green skip.
+alsahad's turn is skipped.
+It's your turn.
+You can't play that card.
+You play a green draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+Nikola says: interception!
+You play a blue draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a wild.
+alsahad wants yellow.
+It's your turn.
+You can't play that card.
+You play a yellow 2.
+It's alsahad's turn.
+alsahad plays a yellow 8.
+It's your turn.
+alsahad plays a yellow 7.
+It's your turn.
+yellow 7
+You draw a card.
+You play a yellow 1.
+It's alsahad's turn.
+Nikola says: interception!
+You play a blue 1.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+You play a blue reverse.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You play a yellow reverse.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad draws 4 cards.
+alsahad plays a wild.
+alsahad wants yellow.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a yellow 4.
+It's your turn.
+You draw a card.
+You play a blue 4.
+It's alsahad's turn.
+alsahad plays a blue 5.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a blue 2.
+It's your turn.
+alsahad says: interception!
+alsahad plays a yellow 2.
+It's alsahad's turn.
+alsahad plays a yellow 1.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 1.
+alsahad gets 0 points.
+Nikola gets 18 points.
+Scores:
+alsahad: 3.
+Nikola: 18.
+
+Next round in 15 seconds.
+Scores:
+alsahad: 3.
+Nikola: 18.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #2. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 7.
+It's alsahad's turn.
+red 7
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 7.
+It's alsahad's turn.
+Nikola says: interception!
+You play a blue 7.
+It's your turn.
+You play a blue 9.
+It's alsahad's turn.
+alsahad plays a blue 3.
+It's your turn.
+You play a blue 2.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a green 2.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a yellow 2.
+It's your turn.
+alsahad plays a yellow 1.
+It's your turn.
+You play a yellow skip.
+alsahad's turn is skipped.
+alsahad gets 49 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 18.
+alsahad: 52.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #3. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 9.
+It's your turn.
+blue 9
+You play a blue 3.
+It's alsahad's turn.
+Nikola says: interception!
+You play a yellow 3.
+It's your turn.
+alsahad says: interception!
+alsahad plays a blue 3.
+It's alsahad's turn.
+blue 3
+alsahad plays a wild draw four.
+alsahad wants red.
+It's your turn.
+You draw 4 cards.
+You play a red reverse.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+alsahad says: interception!
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+yellow reverse
+alsahad plays a yellow 5.
+It's your turn.
+You play a yellow skip.
+alsahad's turn is skipped.
+It's your turn.
+You play a green skip.
+alsahad's turn is skipped.
+It's your turn.
+You play a green 6.
+It's alsahad's turn.
+alsahad plays a green 7.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 7.
+It's alsahad's turn.
+alsahad says: uno!
+green 7
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You play a green 4.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You play a green 2.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 1.
+It's your turn.
+You play a blue 1.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a blue draw two.
+It's your turn.
+alsahad says: interception!
+alsahad plays a red draw two.
+It's your turn.
+alsahad says: uno!
+You draw 4 cards.
+red
+You play a wild.
+Choose a color:
+You want blue.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue 0.
+It's your turn.
+alsahad says: uno!
+You play a blue skip.
+alsahad's turn is skipped.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue 4.
+It's your turn.
+alsahad says: interception!
+alsahad plays a red 4.
+It's alsahad's turn.
+alsahad draws a card.
+red 4
+Too late!
+alsahad plays a wild.
+alsahad wants yellow.
+It's your turn.
+You play a yellow draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+Nikola says: interception!
+You play a green draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+green
+alsahad plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+You play a yellow 9.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You play a red 4.
+It's alsahad's turn.
+alsahad plays a blue 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You play a blue 7.
+It's alsahad's turn.
+alsahad plays a yellow 7.
+It's your turn.
+alsahad plays a yellow 8.
+It's your turn.
+yellow 8
+You play a yellow 2.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 2.
+It's alsahad's turn.
+green 2
+alsahad plays a green reverse.
+It's alsahad's turn.
+alsahad plays a green reverse.
+It's alsahad's turn.
+alsahad plays a red reverse.
+alsahad gets 0 points.
+Nikola gets 11 points.
+Scores:
+Nikola: 32.
+alsahad: 55.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 32.
+alsahad: 55.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #4. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 5.
+It's alsahad's turn.
+red 5
+alsahad plays a yellow 5.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad says: interception!
+alsahad plays a green 5.
+It's alsahad's turn.
+green 5
+alsahad plays a green skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad wants blue.
+It's your turn.
+You play a blue 8.
+It's alsahad's turn.
+You play a blue 7.
+It's alsahad's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+yellow 7
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a yellow 2.
+It's your turn.
+You play a green 2.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 5.
+It's your turn.
+You play a blue 5.
+It's alsahad's turn.
+You play a blue 4.
+It's alsahad's turn.
+Nikola says: interception!
+You play a yellow 4.
+It's your turn.
+You draw a card.
+You play a red 4.
+It's alsahad's turn.
+alsahad plays a red 1.
+It's your turn.
+You play a red 9.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a blue 9.
+It's your turn.
+alsahad says: uno!
+You can't play that card.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You play a wild.
+Choose a color:
+You want red.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a red 8.
+It's your turn.
+You play a red 0.
+It's alsahad's turn.
+You play a red 1.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You can't play that card.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a red draw two.
+It's your turn.
+You play a green draw two.
+It's alsahad's turn.
+Nikola says: interception!
+You play a yellow draw two.
+alsahad draws 6 cards.
+alsahad gets 62 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 32.
+alsahad: 120.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #5. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a green 6.
+It's your turn.
+green 6
+You play a green 4.
+It's alsahad's turn.
+alsahad plays a green 4.
+It's your turn.
+green
+alsahad says: interception!
+alsahad plays a blue 4.
+It's alsahad's turn.
+blue 4
+alsahad plays a blue reverse.
+It's alsahad's turn.
+blue reverse
+alsahad plays a blue 2.
+It's your turn.
+You play a blue 5.
+It's alsahad's turn.
+alsahad plays a blue 0.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants blue.
+It's your turn.
+alsahad says: uno!
+You draw 8 cards.
+You play a blue 3.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad gets 0 points.
+Nikola gets 117 points.
+Scores:
+alsahad: 120.
+Nikola: 149.
+
+Next round in 15 seconds.
+Scores:
+alsahad: 120.
+Nikola: 149.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #6. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 3.
+It's alsahad's turn.
+red 3
+alsahad plays a red 7.
+It's your turn.
+red 7
+red
+You play a yellow 7.
+It's alsahad's turn.
+You play a yellow 8.
+It's alsahad's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+You play a green 8.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You play a green draw two.
+It's alsahad's turn.
+alsahad plays a blue draw two.
+It's your turn.
+You play a yellow draw two.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad draws 6 cards.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+blue reverse
+alsahad plays a blue 4.
+It's your turn.
+alsahad says: interception!
+alsahad plays a yellow 4.
+It's alsahad's turn.
+Too late!
+alsahad: 7.
+Nikola: 1.
+Deck: 85.
+Pile: 15.
+Total: 108. 
+alsahad plays a yellow 7.
+It's your turn.
+alsahad plays a yellow 6.
+It's your turn.
+You play a wild draw four.
+alsahad draws 4 cards.
+alsahad gets 63 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 152.
+alsahad: 183.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #7. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a yellow 6.
+It's your turn.
+yellow 6
+You play a wild.
+Choose a color:
+You want green.
+It's alsahad's turn.
+alsahad plays a green 3.
+It's your turn.
+You play a green skip.
+alsahad's turn is skipped.
+It's your turn.
+You play a green 8.
+It's alsahad's turn.
+alsahad plays a green reverse.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 5.
+It's your turn.
+alsahad says: interception!
+alsahad plays a red 5.
+It's alsahad's turn.
+alsahad plays a yellow 5.
+It's your turn.
+yellow 5
+You play a wild.
+Choose a color:
+You want blue.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You play a blue 3.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a wild draw four.
+alsahad wants red.
+It's your turn.
+You draw 4 cards.
+You play a red draw two.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's your turn.
+You draw 4 cards.
+You play a red 5.
+It's alsahad's turn.
+Too late!
+alsahad plays a red skip.
+Your turn is skipped.
+It's alsahad's turn.
+Too late!
+red
+red skip
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+red
+You play a red 3.
+It's alsahad's turn.
+You play a red 4.
+It's alsahad's turn.
+Nikola says: interception!
+You play a blue 4.
+It's your turn.
+You play a blue 4.
+It's alsahad's turn.
+Nikola says: interception!
+You play a green 4.
+It's your turn.
+You play a green 7.
+It's alsahad's turn.
+alsahad plays a green 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 6.
+It's your turn.
+You draw a card.
+You play a green 9.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You draw a card.
+You play a red 7.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You play a red 2.
+It's alsahad's turn.
+Nikola says: interception!
+You play a blue 2.
+It's your turn.
+You play a yellow 2.
+It's alsahad's turn.
+You play a yellow 1.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a green 1.
+It's your turn.
+alsahad says: interception!
+alsahad plays a yellow 1.
+It's alsahad's turn.
+yellow 1
+alsahad plays a yellow 8.
+It's your turn.
+You draw a card.
+You play a yellow 9.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a yellow 3.
+It's your turn.
+alsahad says: uno!
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 3.
+It's your turn.
+alsahad says: uno!
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a green draw two.
+You draw 2 cards.
+alsahad gets 0 points.
+Nikola gets 68 points.
+Scores:
+alsahad: 183.
+Nikola: 226.
+
+Next round in 15 seconds.
+Scores:
+alsahad: 183.
+Nikola: 226.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #8. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 7.
+It's alsahad's turn.
+green 7
+alsahad plays a green 8.
+It's your turn.
+alsahad says: interception!
+alsahad plays a red 8.
+It's alsahad's turn.
+alsahad plays a yellow 8.
+It's your turn.
+yellow 8
+You play a yellow 6.
+It's alsahad's turn.
+Nikola says: interception!
+You play a blue 6.
+It's your turn.
+You play a green 6.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants red.
+It's your turn.
+You draw 4 cards.
+You play a red 7.
+It's alsahad's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a yellow 3.
+It's your turn.
+You play a red 3.
+It's alsahad's turn.
+alsahad plays a red skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a red 2.
+alsahad gets 0 points.
+Nikola gets 44 points.
+Scores:
+alsahad: 189.
+Nikola: 270.
+
+Next round in 15 seconds.
+Scores:
+alsahad: 189.
+Nikola: 270.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #9. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a green 7.
+It's your turn.
+green 7
+You play a green 2.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a red 0.
+It's alsahad's turn.
+alsahad plays a red 5.
+It's your turn.
+You play a yellow 5.
+It's alsahad's turn.
+alsahad plays a yellow 2.
+It's your turn.
+You play a yellow 7.
+It's alsahad's turn.
+alsahad plays a red 7.
+It's your turn.
+You can't play that card.
+You draw a card.
+You play a blue 7.
+It's alsahad's turn.
+alsahad plays a blue 6.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want yellow.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a wild.
+alsahad wants green.
+It's your turn.
+You play a green draw two.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad draws 2 cards.
+alsahad plays a green reverse.
+It's alsahad's turn.
+alsahad plays a red reverse.
+It's alsahad's turn.
+red reverse
+alsahad plays a red 1.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 1.
+It's alsahad's turn.
+green 1
+alsahad plays a green 8.
+It's your turn.
+alsahad says: interception!
+alsahad plays a blue 8.
+It's alsahad's turn.
+alsahad plays a blue skip.
+Your turn is skipped.
+It's alsahad's turn.
+blue skip
+alsahad says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You play a blue draw two.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a yellow draw two.
+It's your turn.
+alsahad says: uno!
+You draw 4 cards.
+yellow
+You play a yellow 3.
+It's alsahad's turn.
+Nikola says: interception!
+You play a green 3.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+alsahad accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+alsahad draws 6 cards.
+alsahad plays a blue 3.
+It's your turn.
+You play a blue 9.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You play a wild.
+Choose a color:
+You want red.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a red skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a yellow skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a yellow 7.
+It's your turn.
+You can't play that card.
+You draw a card.
+You play a yellow 4.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad draws a card.
+alsahad draws a card.
+It's your turn.
+You draw a card.
+You play a blue 4.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a red 4.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 4.
+It's alsahad's turn.
+green 4
+alsahad plays a green 5.
+It's your turn.
+You draw a card.
+You play a green 2.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad draws a card.
+alsahad draws a card.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad draws a card.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a blue 2.
+It's your turn.
+You play a blue 9.
+It's alsahad's turn.
+Nikola says: interception!
+You play a yellow 9.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a yellow 1.
+It's your turn.
+You draw a card.
+You play a yellow 3.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You play a red 3.
+It's alsahad's turn.
+alsahad plays a red 6.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 6.
+It's alsahad's turn.
+Too late!
+Too late!
+green 6
+green 6
+alsahad plays a green draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 6.
+It's your turn.
+You play a yellow 6.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You play a yellow skip.
+alsahad's turn is skipped.
+It's your turn.
+alsahad says: interception!
+alsahad plays a blue skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a blue 7.
+It's your turn.
+blue 7
+You play a blue 8.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 8.
+alsahad gets 4 points.
+Nikola gets 0 points.
+Scores:
+alsahad: 199.
+Nikola: 276.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #10. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 9.
+It's alsahad's turn.
+green 9
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You play a yellow 9.
+It's alsahad's turn.
+Nikola says: interception!
+You play a blue 9.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You can't play that card.
+You can't play that card.
+You play a blue 2.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad wants red.
+It's your turn.
+You play a red 5.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a red draw two.
+It's your turn.
+You draw 2 cards.
+You can't play that card.
+You play a green draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a green 6.
+It's your turn.
+alsahad says: interception!
+alsahad plays a blue 6.
+It's alsahad's turn.
+blue 6
+Nikola says: interception!
+You play a yellow 6.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+Nikola says: uno!
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a yellow 9.
+It's your turn.
+alsahad plays a yellow 8.
+It's your turn.
+yellow 8
+You draw a card.
+You play a red 8.
+It's alsahad's turn.
+alsahad plays a red skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+Too late!
+alsahad wants yellow.
+It's your turn.
+You draw 4 cards.
+alsahad says: uno!
+You play a yellow 1.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 1.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+You play a red 5.
+It's alsahad's turn.
+Nikola says: interception!
+You play a green 5.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+You play a green skip.
+alsahad's turn is skipped.
+It's your turn.
+You play a green 2.
+alsahad gets 50 points.
+Nikola gets 0 points.
+Scores:
+alsahad: 258.
+Nikola: 279.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #11. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a yellow 2.
+It's your turn.
+yellow 2
+You play a yellow 6.
+It's alsahad's turn.
+alsahad plays a yellow 9.
+It's your turn.
+alsahad says: interception!
+alsahad plays a blue 9.
+It's alsahad's turn.
+blue 9
+Too late!
+alsahad plays a wild.
+alsahad wants green.
+It's your turn.
+You play a green skip.
+alsahad's turn is skipped.
+It's your turn.
+You play a yellow skip.
+alsahad's turn is skipped.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green skip.
+Your turn is skipped.
+It's alsahad's turn.
+green
+alsahad plays a wild draw four.
+alsahad wants red.
+It's your turn.
+You draw 4 cards.
+You play a red draw two.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's your turn.
+alsahad says: uno!
+You play a yellow draw two.
+It's alsahad's turn.
+alsahad draws 6 cards.
+alsahad plays a wild.
+alsahad wants yellow.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+yellow
+You play a blue draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+blue
+alsahad plays a blue skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a blue 5.
+It's your turn.
+blue 5
+You play a blue reverse.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a red 0.
+It's alsahad's turn.
+alsahad plays a red 4.
+It's your turn.
+alsahad plays a red 3.
+It's your turn.
+red 3
+You draw a card.
+You play a red 5.
+It's alsahad's turn.
+Nikola says: interception!
+You play a green 5.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+green 5
+You play a green 1.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a wild draw four.
+alsahad wants red.
+It's your turn.
+You draw 4 cards.
+You play a wild.
+Choose a color:
+You want green.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a green 6.
+It's alsahad's turn.
+Nikola says: interception!
+You play a yellow 6.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a yellow 4.
+It's your turn.
+alsahad plays a yellow 3.
+It's your turn.
+alsahad plays a yellow 2.
+It's your turn.
+alsahad says: interception!
+alsahad plays a red 2.
+It's alsahad's turn.
+alsahad plays a red 8.
+alsahad gets 0 points.
+Nikola gets 37 points.
+Scores:
+alsahad: 264.
+Nikola: 319.
+
+Next round in 15 seconds.
+Scores:
+alsahad: 264.
+Nikola: 319.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #12. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 1.
+It's alsahad's turn.
+red 1
+alsahad plays a red 4.
+It's your turn.
+You play a red 2.
+It's alsahad's turn.
+It's alsahad's turn.
+red
+alsahad plays a wild draw four.
+alsahad wants yellow.
+It's your turn.
+You draw 4 cards.
+You play a yellow skip.
+alsahad's turn is skipped.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a wild.
+Choose a color:
+You want blue.
+It's alsahad's turn.
+alsahad plays a blue skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You play a blue 8.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue 1.
+It's your turn.
+You play a blue 3.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue 9.
+It's your turn.
+alsahad says: interception!
+alsahad plays a yellow 9.
+It's alsahad's turn.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+yellow reverse
+alsahad plays a yellow 9.
+It's your turn.
+yellow 9
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a yellow 7.
+It's your turn.
+alsahad says: uno!
+yellow 7
+You play a red 7.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 7.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+You play a red 6.
+It's alsahad's turn.
+Too late!
+alsahad draws a card.
+alsahad plays a wild.
+alsahad wants green.
+It's your turn.
+alsahad says: uno!
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+You play a green 7.
+It's alsahad's turn.
+alsahad plays a green draw two.
+You draw 2 cards.
+alsahad gets 0 points.
+Nikola gets 80 points.
+Scores:
+alsahad: 273.
+Nikola: 402.
+
+Next round in 15 seconds.
+Scores:
+alsahad: 273.
+Nikola: 402.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #13. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 2.
+It's your turn.
+blue 2
+You play a blue 3.
+It's alsahad's turn.
+alsahad plays a blue 1.
+It's your turn.
+alsahad says: interception!
+alsahad plays a red 1.
+It's alsahad's turn.
+red 1
+alsahad plays a red reverse.
+It's alsahad's turn.
+red reverse
+Nikola says: interception!
+You play a yellow reverse.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a blue draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a blue 6.
+It's your turn.
+alsahad plays a blue 5.
+It's your turn.
+blue 5
+You play a wild draw four.
+Choose a color:
+You want yellow.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a yellow 1.
+It's your turn.
+You play a yellow 6.
+It's alsahad's turn.
+Nikola says: interception!
+You play a green 6.
+alsahad gets 52 points.
+Nikola gets 0 points.
+Scores:
+alsahad: 325.
+Nikola: 402.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #14. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 5.
+It's alsahad's turn.
+green 5
+You play a green 4.
+It's alsahad's turn.
+alsahad plays a green 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a green 0.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 5.
+It's your turn.
+You play a red 5.
+It's alsahad's turn.
+Nikola says: interception!
+You play a yellow 5.
+It's your turn.
+You play a yellow skip.
+alsahad's turn is skipped.
+It's your turn.
+You play a yellow 7.
+It's alsahad's turn.
+alsahad plays a yellow skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a red skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a red reverse.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You play a red 3.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 3.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a blue skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad plays a red skip.
+Your turn is skipped.
+It's alsahad's turn.
+red skip
+alsahad plays a red 5.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a blue 9.
+It's your turn.
+alsahad says: interception!
+alsahad plays a yellow 9.
+It's alsahad's turn.
+yellow 9
+alsahad plays a yellow 0.
+It's your turn.
+alsahad says: interception!
+alsahad plays a red 0.
+It's alsahad's turn.
+red 0
+alsahad plays a red 6.
+It's your turn.
+You play a blue 6.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a blue 8.
+It's your turn.
+You play a blue 1.
+alsahad gets 7 points.
+Nikola gets 0 points.
+Scores:
+alsahad: 332.
+Nikola: 402.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #15. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a green 0.
+It's your turn.
+green 0
+alsahad plays a green 1.
+It's your turn.
+You play a green 1.
+It's alsahad's turn.
+green 1
+Too late!
+green 1
+It's alsahad's turn.
+alsahad plays a green 7.
+It's your turn.
+You draw a card.
+green
+You play a green 9.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You play a wild.
+Choose a color:
+You want yellow.
+It's alsahad's turn.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a blue 5.
+It's your turn.
+alsahad says: interception!
+alsahad plays a blue 5.
+It's alsahad's turn.
+alsahad says: uno!
+blue 5
+blue 5
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You play a blue draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad can't play.
+It's your turn.
+You play a yellow draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a yellow 8.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+You play a green 8.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad plays a green skip.
+Your turn is skipped.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 8.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a red 8.
+It's your turn.
+alsahad plays a red 7.
+It's your turn.
+red 7
+You play a blue 7.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad draws a card.
+alsahad plays a blue 4.
+It's your turn.
+alsahad says: interception!
+alsahad plays a yellow 4.
+It's alsahad's turn.
+yellow 4
+alsahad plays a yellow 6.
+It's your turn.
+alsahad says: uno!
+You play a yellow skip.
+alsahad's turn is skipped.
+alsahad gets 2 points.
+Nikola gets 0 points.
+Scores:
+alsahad: 337.
+Nikola: 405.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #16. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 2.
+It's alsahad's turn.
+red 2
+alsahad plays a red 5.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a blue 4.
+It's your turn.
+alsahad says: interception!
+alsahad plays a yellow 4.
+It's alsahad's turn.
+yellow 4
+Nikola says: interception!
+You play a blue 4.
+It's your turn.
+You play a blue skip.
+alsahad's turn is skipped.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a blue 0.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 0.
+It's alsahad's turn.
+green 0
+You play a green 9.
+It's alsahad's turn.
+You play a green 8.
+It's alsahad's turn.
+alsahad plays a green 1.
+It's your turn.
+alsahad says: interception!
+alsahad plays a blue 1.
+It's alsahad's turn.
+alsahad plays a blue 2.
+It's your turn.
+blue 2
+You draw a card.
+You play a blue 2.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue 3.
+It's your turn.
+alsahad says: interception!
+alsahad plays a red 3.
+It's alsahad's turn.
+alsahad plays a green 3.
+It's your turn.
+green 3
+You play a green reverse.
+It's your turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+You play a green 1.
+It's alsahad's turn.
+alsahad plays a green 7.
+It's your turn.
+alsahad plays a green 6.
+alsahad gets 0 points.
+Nikola gets 12 points.
+Scores:
+alsahad: 343.
+Nikola: 417.
+
+Next round in 15 seconds.
+Scores:
+alsahad: 343.
+Nikola: 417.
+The score limit is fixed to 500 points.
+The game has been paused.
+Scores:
+alsahad: 343.
+Nikola: 417.
+The score limit is fixed to 500 points.
+Round #17. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a green 3.
+It's your turn.
+green 3
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+You play a green 6.
+It's alsahad's turn.
+Nikola says: interception!
+You play a red 6.
+It's your turn.
+You play a red 8.
+It's alsahad's turn.
+alsahad plays a green 8.
+It's your turn.
+You draw a card.
+You can't play.
+It's alsahad's turn.
+alsahad plays a green 5.
+It's your turn.
+alsahad says: interception!
+alsahad plays a blue 5.
+It's alsahad's turn.
+alsahad plays a blue 6.
+It's your turn.
+blue 6
+You play a blue reverse.
+It's your turn.
+You play a blue 7.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad wants red.
+It's your turn.
+You play a red 2.
+It's alsahad's turn.
+alsahad plays a red 5.
+It's your turn.
+alsahad says: interception!
+alsahad plays a yellow 5.
+alsahad gets 0 points.
+Nikola gets 5 points.
+Scores:
+alsahad: 349.
+Nikola: 422.
+
+Next round in 15 seconds.
+Scores:
+alsahad: 349.
+Nikola: 422.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #18. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 0.
+It's alsahad's turn.
+yellow 0
+alsahad plays a yellow 1.
+It's your turn.
+yellow
+yellow 1
+You play a yellow 3.
+It's alsahad's turn.
+Nikola says: interception!
+You play a green 3.
+It's your turn.
+You play a green 3.
+It's alsahad's turn.
+alsahad plays a green 7.
+It's your turn.
+You play a green 6.
+It's alsahad's turn.
+Nikola says: interception!
+You play a blue 6.
+It's your turn.
+You play a blue 5.
+It's alsahad's turn.
+Nikola says: uno!
+alsahad draws a card.
+alsahad plays a blue 1.
+It's your turn.
+You play a blue 9.
+alsahad gets 54 points.
+Nikola gets 0 points.
+Scores:
+alsahad: 403.
+Nikola: 422.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #19. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 5.
+It's your turn.
+blue 5
+You play a blue 2.
+It's alsahad's turn.
+alsahad plays a blue 1.
+It's your turn.
+alsahad says: interception!
+alsahad plays a green 1.
+It's alsahad's turn.
+alsahad plays a green 4.
+It's your turn.
+green 4
+You play a green 8.
+It's alsahad's turn.
+alsahad plays a green 9.
+It's your turn.
+alsahad says: interception!
+alsahad plays a red 9.
+It's alsahad's turn.
+alsahad plays a red reverse.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad gets 0 points.
+Nikola gets 87 points.
+Scores:
+alsahad: 403.
+Nikola: 509.
+
+Nikola has reached the score limit of 500 points and is now out of the game.
+alsahad is the winner!
+The table is now open for new players.

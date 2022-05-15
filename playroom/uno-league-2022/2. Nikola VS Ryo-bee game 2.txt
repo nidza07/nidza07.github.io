@@ -1,0 +1,2262 @@
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a yellow 6.
+It's your turn.
+Your cards are now sorted by ascending number.
+yellow 6
+You play a yellow 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 5.
+It's your turn.
+Ryo-Bee plays a yellow 4.
+It's your turn.
+yellow 4
+You play a red 4.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 8.
+It's your turn.
+You play a red 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 9.
+It's your turn.
+green 9
+You play a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee can't play.
+It's your turn.
+You play a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 7.
+It's your turn.
+You draw a card.
+You play a red 5.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 5.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+yellow skip
+Ryo-Bee plays a yellow 7.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 8.
+It's your turn.
+yellow 8
+You play a blue 8.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You play a blue 4.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a blue 3.
+It's your turn.
+You draw a card.
+You play a yellow 3.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a yellow 0.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 5.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 5.
+It's Ryo-Bee's turn.
+You play a green 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow draw two.
+It's your turn.
+You draw 4 cards.
+yellow
+You play a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+yellow
+Ryo-Bee plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+You play a blue 1.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a wild.
+Choose a color:
+You want green.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 4.
+It's your turn.
+You play a green 8.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 8.
+It's your turn.
+You play a red 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 6.
+It's your turn.
+You play a red 2.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 2.
+Ryo-Bee gets 5 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 0.
+Ryo-Bee: 8.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #2. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 0.
+It's Ryo-Bee's turn.
+red 0
+You play a red 1.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 1.
+It's your turn.
+You play a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 2.
+It's your turn.
+You play a wild.
+Choose a color:
+You want blue.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants blue.
+It's your turn.
+You draw 4 cards.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's your turn.
+You draw 4 cards.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a green 8.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 5.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 5.
+Ryo-Bee gets 0 points.
+Nikola gets 138 points.
+Scores:
+Ryo-Bee: 23.
+Nikola: 138.
+
+Next round in 15 seconds.
+Scores:
+Ryo-Bee: 23.
+Nikola: 138.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #3. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 9.
+It's your turn.
+blue 9
+You play a blue 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 3.
+It's your turn.
+You play a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow reverse.
+It's your turn.
+You play a yellow 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 5.
+It's your turn.
+You play a yellow 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants red.
+It's your turn.
+You draw 4 cards.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 1.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 2.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 1.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 5.
+It's your turn.
+You play a green 5.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a blue 5.
+It's your turn.
+Ryo-Bee plays a blue 4.
+It's your turn.
+You play a blue 6.
+It's Ryo-Bee's turn.
+You play a blue 7.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+You play a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 9.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 9.
+It's Ryo-Bee's turn.
+Too late!
+green 9
+Ryo-Bee draws a card.
+Ryo-Bee plays a green 3.
+It's your turn.
+You play a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue draw two.
+It's your turn.
+Ryo-Bee says: uno!
+You draw 4 cards.
+You play a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red draw two.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You draw 2 cards.
+You play a red reverse.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a green 6.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a green skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a green 0.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 0.
+It's Ryo-Bee's turn.
+Too late!
+Ryo-Bee plays a yellow 0.
+It's your turn.
+yellow 0
+You play a yellow 8.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 8.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a green 4.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 4.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a red 9.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 8.
+It's your turn.
+Ryo-Bee plays a red 7.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 7.
+It's Ryo-Bee's turn.
+green 7
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a green 4.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Nikola says: uno!
+Ryo-Bee plays a yellow 4.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 4.
+It's Ryo-Bee's turn.
+blue 4
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants red.
+It's your turn.
+You draw 4 cards.
+You play a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a red 3.
+It's your turn.
+red
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 3.
+It's Ryo-Bee's turn.
+red 3
+Too late!
+Nikola says: interception!
+You play a yellow 3.
+It's your turn.
+You play a yellow 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 5.
+It's your turn.
+You play a green 5.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 5.
+Ryo-Bee gets 62 points.
+Nikola gets 0 points.
+Scores:
+Ryo-Bee: 91.
+Nikola: 147.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #4. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 7.
+It's Ryo-Bee's turn.
+red 7
+red 7
+Ryo-Bee plays a yellow 7.
+It's your turn.
+Ryo-Bee plays a yellow 6.
+It's your turn.
+You play a wild.
+Choose a color:
+You want blue.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 4.
+It's your turn.
+You play a wild.
+Choose a color:
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You want blue.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 2.
+It's your turn.
+You play a blue 5.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants yellow.
+It's your turn.
+You draw 4 cards.
+You play a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a blue reverse.
+It's your turn.
+You play a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's your turn.
+You play a yellow 0.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 2.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 2.
+It's Ryo-Bee's turn.
+blue 2
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 1.
+It's your turn.
+red 1
+You play a green 1.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a blue 1.
+It's your turn.
+You play a blue skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+It's your turn.
+You draw a card.
+You play a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow draw two.
+It's your turn.
+You play a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a wild.
+Ryo-Bee wants yellow.
+It's your turn.
+You play a yellow 3.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 5.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 4.
+It's your turn.
+You play a green 6.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a green 8.
+It's your turn.
+You play a yellow 8.
+Ryo-Bee gets 19 points.
+Nikola gets 0 points.
+Scores:
+Ryo-Bee: 116.
+Nikola: 147.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #5. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 9.
+It's your turn.
+blue 9
+You play a blue 0.
+It's Ryo-Bee's turn.
+You play a blue 9.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You play a green 9.
+It's Ryo-Bee's turn.
+green
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+blue reverse
+Ryo-Bee plays a blue 7.
+It's your turn.
+blue 7
+You play a blue 2.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a yellow 2.
+It's your turn.
+You play a yellow skip.
+Ryo-Bee's turn is skipped.
+Ryo-Bee gets 15 points.
+Nikola gets 0 points.
+Scores:
+Ryo-Bee: 131.
+Nikola: 147.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #6. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 5.
+It's Ryo-Bee's turn.
+blue 5
+You play a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 3.
+It's your turn.
+You play a blue 0.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 0.
+It's your turn.
+You play a green 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 9.
+It's your turn.
+green 9
+You play a wild.
+Choose a color:
+You want yellow.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants green.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's your turn.
+You play a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 4 cards.
+Ryo-Bee plays a red 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 5.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 4.
+It's your turn.
+yellow 4
+You play a yellow skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a yellow 9.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+You play a yellow 6.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 3.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 8.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 8.
+It's Ryo-Bee's turn.
+blue 8
+Ryo-Bee plays a green 8.
+It's your turn.
+You can't play that card.
+You play a green 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants yellow.
+It's your turn.
+You say: You're bluffing!
+Ryo-Bee is a bluffer!
+Ryo-Bee draws 6 cards.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 3.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 1.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 1.
+It's Ryo-Bee's turn.
+red 1
+Nikola says: interception!
+You play a green 1.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 1.
+It's Ryo-Bee's turn.
+red 1
+Ryo-Bee plays a red 2.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 2.
+It's Ryo-Bee's turn.
+red 2
+Ryo-Bee plays a red 7.
+It's your turn.
+You can't play that card.
+red 7
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 6.
+It's your turn.
+You can't play that card.
+blue 6
+You can't play that card.
+You play a blue reverse.
+It's your turn.
+You play a blue 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+blue reverse
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 9.
+It's your turn.
+Ryo-Bee says: uno!
+red 9
+You play a red 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+You draw 4 cards.
+Ryo-Bee gets 0 points.
+Nikola gets 43 points.
+Scores:
+Ryo-Bee: 131.
+Nikola: 190.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #7. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 6.
+It's your turn.
+blue 6
+You play a blue 3.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 3.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a green 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 4.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 4.
+It's Ryo-Bee's turn.
+Too late!
+blue 4
+blue 4
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's your turn.
+blue 9
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants yellow.
+It's your turn.
+You draw 4 cards.
+You play a yellow 2.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a blue 2.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 0.
+It's your turn.
+red 0
+You play a red 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red draw two.
+It's your turn.
+You draw 2 cards.
+red
+You play a red 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 8.
+It's your turn.
+You play a red 1.
+It's Ryo-Bee's turn.
+red 1
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red draw two.
+It's your turn.
+Ryo-Bee says: uno!
+You draw 2 cards.
+You play a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a green 8.
+It's your turn.
+You play a green 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 1.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 1.
+Ryo-Bee gets 0 points.
+Nikola gets 28 points.
+Scores:
+Ryo-Bee: 134.
+Nikola: 221.
+
+Next round in 15 seconds.
+Scores:
+Ryo-Bee: 134.
+Nikola: 221.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #8. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 3.
+It's Ryo-Bee's turn.
+green 3
+Ryo-Bee plays a red 3.
+It's your turn.
+You can't play that card.
+You can't play that card.
+red
+You play a red skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+green
+Ryo-Bee plays a green 4.
+It's your turn.
+You play a green 7.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a blue 7.
+It's your turn.
+You play a blue 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+You play a blue 6.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 6.
+It's your turn.
+You play a yellow 0.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's your turn.
+You can't play that card.
+You draw a card.
+You play a red 9.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+red
+Ryo-Bee plays a red 4.
+It's your turn.
+Ryo-Bee plays a red 3.
+It's your turn.
+You draw a card.
+You play a red 9.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a red 7.
+It's your turn.
+You can't play that card.
+Ryo-Bee plays a red 8.
+It's your turn.
+You draw a card.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 8.
+It's your turn.
+Ryo-Bee plays a green 9.
+It's your turn.
+Ryo-Bee says: uno!
+green 9
+You play a green skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue draw two.
+It's your turn.
+You draw 4 cards.
+You play a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a green skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a green 2.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 2.
+It's your turn.
+You play a yellow 5.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 5.
+It's your turn.
+You play a red 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 0.
+It's your turn.
+You draw a card.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You draw a card.
+It's Ryo-Bee's turn.
+Too late!
+Ryo-Bee plays a red 6.
+It's your turn.
+You play a red 2.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants blue.
+It's your turn.
+You draw 4 cards.
+You play a blue 9.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 9.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 8.
+It's your turn.
+You can't play that card.
+You play a yellow 8.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+You can't play that card.
+blue
+You play a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 1.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 1.
+It's your turn.
+Ryo-Bee says: uno!
+You play a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a yellow 4.
+It's your turn.
+You play a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a blue 0.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee plays a green 0.
+It's your turn.
+You play a wild draw four.
+Ryo-Bee draws 4 cards.
+Ryo-Bee gets 42 points.
+Nikola gets 0 points.
+Scores:
+Ryo-Bee: 179.
+Nikola: 224.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #9. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 9.
+It's your turn.
+blue 9
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a blue skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a green skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Too late!
+blue
+Ryo-Bee plays a blue 4.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 4.
+It's Ryo-Bee's turn.
+yellow 4
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a red 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 5.
+It's your turn.
+You play a yellow 5.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 5.
+It's your turn.
+You play a green 9.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+Ryo-Bee gets 0 points.
+Nikola gets 2 points.
+Scores:
+Ryo-Bee: 188.
+Nikola: 229.
+
+Next round in 15 seconds.
+Scores:
+Ryo-Bee: 188.
+Nikola: 229.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #10. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 3.
+It's Ryo-Bee's turn.
+blue 3
+Ryo-Bee plays a blue 5.
+It's your turn.
+You can't play that card.
+blue 5
+blue 5
+blue 5
+You play a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 7.
+It's your turn.
+You play a red 7.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+You can't play that card.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a yellow 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 0.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 8.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 8.
+It's Ryo-Bee's turn.
+red 8
+Ryo-Bee plays a red 1.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 2.
+It's your turn.
+green 2
+Ryo-Bee says: uno!
+You play a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants blue.
+It's your turn.
+Ryo-Bee says: uno!
+You draw 4 cards.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a blue 8.
+It's Ryo-Bee's turn.
+You play a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+Ryo-Bee gets 0 points.
+Nikola gets 49 points.
+Scores:
+Ryo-Bee: 197.
+Nikola: 278.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #11. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a red 4.
+It's your turn.
+red 4
+You play a red 2.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a red skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a wild.
+Choose a color:
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You want green.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 0.
+It's your turn.
+You play a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 7.
+It's your turn.
+Ryo-Bee plays a blue 6.
+It's your turn.
+You play a blue 5.
+It's Ryo-Bee's turn.
+You didn't choose the right card.
+Nikola says: interception!
+You play a yellow 5.
+It's your turn.
+You didn't choose the right card.
+You play a wild.
+Ryo-Bee gets 38 points.
+Nikola gets 0 points.
+Scores:
+Ryo-Bee: 238.
+Nikola: 278.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #12. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 3.
+It's Ryo-Bee's turn.
+yellow 3
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's your turn.
+You play a red 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 8.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a blue 9.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 9.
+It's Ryo-Bee's turn.
+Too late!
+Ryo-Bee plays a green skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+green skip
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 9.
+It's your turn.
+green 9
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's your turn.
+You draw 2 cards.
+green
+You play a green reverse.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a yellow 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 7.
+It's your turn.
+You play a blue skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a blue 4.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a blue 4.
+It's your turn.
+You didn't choose the right card.
+You play a blue 8.
+Ryo-Bee gets 9 points.
+Nikola gets 0 points.
+Scores:
+Ryo-Bee: 250.
+Nikola: 281.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #13. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a yellow 8.
+It's your turn.
+Ryo-Bee plays a yellow 9.
+It's your turn.
+yellow 9
+yellow 9
+You play a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's your turn.
+You play a red 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want yellow.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 4.
+It's your turn.
+You play a blue 3.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 3.
+It's your turn.
+You play a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 8.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 7.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 6.
+It's your turn.
+You draw a card.
+You play a red 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants green.
+It's your turn.
+Ryo-Bee says: uno!
+You draw 4 cards.
+You play a wild.
+Choose a color:
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You want yellow.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a yellow 4.
+It's Ryo-Bee's turn.
+Too late!
+Ryo-Bee plays a green 4.
+It's your turn.
+Ryo-Bee says: uno!
+You play a green 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 1.
+Ryo-Bee gets 0 points.
+Nikola gets 8 points.
+Scores:
+Ryo-Bee: 253.
+Nikola: 292.
+
+Next round in 15 seconds.
+Scores:
+Ryo-Bee: 253.
+Nikola: 292.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #14. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 0.
+It's Ryo-Bee's turn.
+blue 0
+Ryo-Bee plays a blue 2.
+It's your turn.
+blue 2
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue 5.
+It's your turn.
+You play a yellow 5.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 5.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a green skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a red skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+green skip
+green skip
+Ryo-Bee draws a card.
+Ryo-Bee plays a green 1.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 1.
+It's Ryo-Bee's turn.
+yellow 1
+Ryo-Bee plays a yellow 7.
+It's your turn.
+You play a yellow 9.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 9.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You draw a card.
+You play a wild.
+Choose a color:
+You want green.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red draw two.
+It's your turn.
+You play a red draw two.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants yellow.
+It's your turn.
+yellow
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants blue.
+It's your turn.
+You say: You're bluffing!
+Ryo-Bee is a bluffer!
+Ryo-Bee draws 6 cards.
+You draw a card.
+You play a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 4.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 4.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 4.
+It's Ryo-Bee's turn.
+green 4
+green 4
+Nikola says: interception!
+You play a green 4.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 3.
+It's your turn.
+Ryo-Bee plays a yellow 4.
+It's your turn.
+Ryo-Bee plays a yellow 5.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 6.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a green 9.
+It's your turn.
+Ryo-Bee plays a green 8.
+It's your turn.
+Ryo-Bee plays a green 7.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 7.
+It's Ryo-Bee's turn.
+Too late!
+red 7
+Ryo-Bee plays a red 1.
+It's your turn.
+Ryo-Bee plays a red 2.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 2.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 2.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Too late!
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants yellow.
+It's your turn.
+Ryo-Bee says: uno!
+You draw 4 cards.
+You play a yellow 3.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow draw two.
+It's your turn.
+Ryo-Bee says: uno!
+You draw 2 cards.
+You play a yellow 7.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 8.
+It's your turn.
+Ryo-Bee says: uno!
+You can't play that card.
+You can't play that card.
+yellow
+You draw a card.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+yellow
+yellow 8
+Ryo-Bee draws a card.
+Nikola says: interception!
+You play a red 8.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 8.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 8.
+It's your turn.
+green 8
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a green reverse.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a red 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 5.
+It's your turn.
+You play a red 7.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a blue 7.
+It's your turn.
+You play a blue 3.
+Ryo-Bee gets 3 points.
+Nikola gets 0 points.
+Scores:
+Ryo-Bee: 268.
+Nikola: 298.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #15. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a yellow 0.
+It's your turn.
+yellow 0
+yellow 0
+You play a yellow 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 2.
+It's your turn.
+yellow 2
+You play a yellow 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 9.
+It's your turn.
+You play a yellow skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a blue skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a red skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a red 7.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a red 9.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 9.
+It's Ryo-Bee's turn.
+Too late!
+Ryo-Bee plays a blue 6.
+It's your turn.
+You play a wild draw four.
+Ryo-Bee draws 4 cards.
+Ryo-Bee gets 27 points.
+Nikola gets 0 points.
+Scores:
+Ryo-Bee: 298.
+Nikola: 301.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #16. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 8.
+It's Ryo-Bee's turn.
+green 8
+You play a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 1.
+It's your turn.
+green 1
+You play a green 2.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants green.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 4 cards.
+Ryo-Bee plays a blue 9.
+It's your turn.
+You play a blue skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Too late!
+green
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants red.
+It's your turn.
+You say: You're bluffing!
+Ryo-Bee is a bluffer!
+Ryo-Bee draws 6 cards.
+You play a red 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 2.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 2.
+It's your turn.
+blue 2
+You play a blue 0.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's your turn.
+You draw a card.
+You play a red 9.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a red 9.
+It's your turn.
+You play a red 1.
+Ryo-Bee gets 34 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 304.
+Ryo-Bee: 332.
+
+Next round in 15 seconds.
+The game has been paused.
+Scores:
+Nikola: 304.
+Ryo-Bee: 332.
+The score limit is fixed to 500 points.
+Round #17. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 7.
+It's your turn.
+blue 7
+You play a blue 9.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a wild.
+Choose a color:
+You want yellow.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 6.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a yellow skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a yellow 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 6.
+It's your turn.
+You can't play that card.
+yellow 6
+You play a red 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 7.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 7.
+It's Ryo-Bee's turn.
+red 7
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's your turn.
+You draw a card.
+You play a red skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+Nikola says: uno!
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+blue skip
+Ryo-Bee plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+You play a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a red 6.
+It's your turn.
+You play a wild.
+Choose a color:
+You want green.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a green 8.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 8.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 8.
+Ryo-Bee gets 18 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 304.
+Ryo-Bee: 353.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #18. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 4.
+It's Ryo-Bee's turn.
+blue 4
+You play a blue 3.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 3.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 5.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 5.
+It's Ryo-Bee's turn.
+yellow
+yellow 5
+Ryo-Bee plays a yellow 7.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 7.
+It's Ryo-Bee's turn.
+green 7
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a green skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a green 9.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You play a red 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You play a blue 5.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's your turn.
+You play a yellow 9.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a green 9.
+It's your turn.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 3.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 8.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 8.
+It's Ryo-Bee's turn.
+Too late!
+Ryo-Bee plays a wild.
+wild
+Ryo-Bee wants red.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a red 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's your turn.
+You can't play that card.
+You can't play that card.
+You draw a card.
+You can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 3.
+It's your turn.
+You draw a card.
+You play a yellow 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 6.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 5.
+Ryo-Bee gets 0 points.
+Nikola gets 60 points.
+Scores:
+Ryo-Bee: 353.
+Nikola: 367.
+
+Next round in 15 seconds.
+Scores:
+Ryo-Bee: 353.
+Nikola: 367.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #19. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 1.
+It's your turn.
+blue 1
+You play a yellow 1.
+It's Ryo-Bee's turn.
+You play a yellow 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 4.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 4.
+It's Ryo-Bee's turn.
+yellow 4
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 2.
+It's your turn.
+You play a yellow 8.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants yellow.
+It's your turn.
+You play a yellow 5.
+It's Ryo-Bee's turn.
+You play a yellow 6.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 6.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You play a red 9.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a red skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's your turn.
+You play a blue reverse.
+Ryo-Bee gets 2 points.
+Nikola gets 0 points.
+Scores:
+Ryo-Bee: 355.
+Nikola: 367.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #20. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 6.
+It's Ryo-Bee's turn.
+green 6
+Nikola says: interception!
+You play a green 6.
+It's your turn.
+You play a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 9.
+It's your turn.
+You play a yellow 9.
+It's Ryo-Bee's turn.
+You play a yellow 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 2.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 2.
+It's your turn.
+green 2
+You play a green 3.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants red.
+It's your turn.
+You draw 4 cards.
+You play a red skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+You play a red 8.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red 8.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a red 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 1.
+It's your turn.
+You play a green 1.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee plays a green draw two.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You draw 2 cards.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow draw two.
+It's your turn.
+Ryo-Bee says: uno!
+You can't play that card.
+You draw 2 cards.
+You can't play.
+It's Ryo-Bee's turn.
+yellow
+Ryo-Bee plays a yellow reverse.
+Ryo-Bee gets 0 points.
+Nikola gets 53 points.
+Scores:
+Ryo-Bee: 361.
+Nikola: 420.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #21. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a green 1.
+It's your turn.
+green 1
+You play a green 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 9.
+It's your turn.
+You play a blue 9.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's your turn.
+You play a blue 4.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 4.
+It's your turn.
+You play a yellow 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's your turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+You play a red 7.
+It's Ryo-Bee's turn.
+Nikola says: uno!
+Ryo-Bee plays a red 5.
+It's your turn.
+Ryo-Bee plays a red 4.
+It's your turn.
+You play a wild draw four.
+Ryo-Bee draws 4 cards.
+Ryo-Bee gets 91 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 420.
+Ryo-Bee: 458.
+
+Next round in 15 seconds.
+Round #22. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 5.
+It's Ryo-Bee's turn.
+blue 5
+Nikola says: interception!
+You play a green 5.
+It's your turn.
+You play a green 4.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+green
+Ryo-Bee draws a card.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses you of bluffing... He is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a red skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a red skip.
+Ryo-Bee's turn is skipped.
+It's your turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green skip.
+Your turn is skipped.
+It's Ryo-Bee's turn.
+green skip
+green skip
+Ryo-Bee draws a card.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+red reverse
+Ryo-Bee plays a red 7.
+It's your turn.
+You play a blue 7.
+It's Ryo-Bee's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+You play a yellow 8.
+Ryo-Bee gets 88 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 420.
+Ryo-Bee: 546.
+
+Ryo-Bee has reached the score limit of 500 points and is now out of the game.
+You are the winner!
+The table is now open for new players.

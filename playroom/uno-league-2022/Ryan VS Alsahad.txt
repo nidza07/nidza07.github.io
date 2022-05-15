@@ -1,0 +1,3376 @@
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a green 6.
+It's alsahad's turn.
+alsahad plays a green 5.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 5.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 1.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a wild draw four.
+alsahad wants blue.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad plays a yellow 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 0.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 9.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 9.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+Ryo-Bee gets 0 points.
+alsahad gets 32 points.
+Scores:
+Ryo-Bee: 3.
+alsahad: 44.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #2. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+alsahad accuses Ryo-Bee of bluffing... he is wrong and must draw 2 penalty cards.
+alsahad draws 6 cards.
+alsahad plays a yellow 3.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 3.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a blue 3.
+It's Ryo-Bee's turn.
+alsahad plays a blue 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 2.
+It's alsahad's turn.
+alsahad plays a green 6.
+It's Ryo-Bee's turn.
+alsahad plays a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's alsahad's turn.
+alsahad plays a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 4 cards.
+Ryo-Bee plays a yellow 8.
+It's alsahad's turn.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants red.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a red 6.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 6.
+It's alsahad's turn.
+alsahad plays a green skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a red 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 4.
+Ryo-Bee gets 29 points.
+alsahad gets 0 points.
+Scores:
+Ryo-Bee: 35.
+alsahad: 44.
+
+Next round in 15 seconds.
+Round #3. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a green 2.
+It's alsahad's turn.
+Ryo-Bee plays a green 3.
+It's alsahad's turn.
+alsahad plays a blue 3.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad plays a blue 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 4.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 7.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 7.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 7.
+It's Ryo-Bee's turn.
+Ryo-Bee says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a blue skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a blue 6.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 6.
+It's alsahad's turn.
+alsahad plays a blue 1.
+Ryo-Bee gets 10 points.
+alsahad gets 0 points.
+Scores:
+Ryo-Bee: 45.
+alsahad: 50.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #4. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a red 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 4.
+It's alsahad's turn.
+alsahad plays a red 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+alsahad plays a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+alsahad says: interception!
+alsahad plays a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+alsahad says: interception!
+alsahad plays a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants blue.
+It's alsahad's turn.
+alsahad plays a blue 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 4.
+It's alsahad's turn.
+alsahad plays a green 9.
+Ryo-Bee gets 86 points.
+alsahad gets 0 points.
+Scores:
+alsahad: 50.
+Ryo-Bee: 131.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #5. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 3.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 3.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 1.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a green skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 8.
+It's alsahad's turn.
+Ryo-Bee plays a blue 7.
+Ryo-Bee gets 0 points.
+alsahad gets 71 points.
+Scores:
+alsahad: 127.
+Ryo-Bee: 131.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #6. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a yellow 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 8.
+It's alsahad's turn.
+alsahad plays a yellow 5.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 5.
+It's alsahad's turn.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 5.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 5.
+It's alsahad's turn.
+alsahad plays a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants green.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws 4 cards.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a green 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 1.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 7.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a blue skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a red 8.
+It's alsahad's turn.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+alsahad plays a green 9.
+Ryo-Bee gets 8 points.
+alsahad gets 0 points.
+Scores:
+alsahad: 127.
+Ryo-Bee: 157.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #7. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 4.
+It's alsahad's turn.
+alsahad plays a blue 2.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 2.
+It's alsahad's turn.
+alsahad plays a blue 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 1.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red draw two.
+It's alsahad's turn.
+alsahad plays a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 4 cards.
+alsahad says: interception!
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a wild draw four.
+alsahad wants red.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a red 9.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 9.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green 7.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 3.
+It's alsahad's turn.
+Ryo-Bee plays a yellow 2.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 2.
+It's alsahad's turn.
+alsahad plays a green skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad draws a card.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad draws a card.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 6.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 4.
+Ryo-Bee gets 0 points.
+alsahad gets 57 points.
+Scores:
+Ryo-Bee: 163.
+alsahad: 187.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #8. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a red 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 2.
+It's alsahad's turn.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 7.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 3.
+It's alsahad's turn.
+alsahad plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a wild.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad plays a yellow 1.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 6.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad plays a green reverse.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+Ryo-Bee gets 0 points.
+alsahad gets 0 points.
+Scores:
+Ryo-Bee: 166.
+alsahad: 193.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #9. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a yellow 8.
+It's alsahad's turn.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+alsahad plays a green 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 7.
+It's alsahad's turn.
+alsahad plays a green 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 5.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad says: interception!
+alsahad plays a yellow 5.
+It's alsahad's turn.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants red.
+It's alsahad's turn.
+alsahad draws 4 cards.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 2.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad plays a red 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 7.
+Ryo-Bee gets 0 points.
+alsahad gets 56 points.
+Scores:
+Ryo-Bee: 175.
+alsahad: 252.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #10. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 1.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 1.
+It's alsahad's turn.
+alsahad plays a green 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad wants yellow.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+alsahad is a bluffer!
+alsahad draws 6 cards.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's alsahad's turn.
+alsahad plays a red reverse.
+It's alsahad's turn.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a yellow 6.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants blue.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+alsahad accuses Ryo-Bee of bluffing... he is wrong and must draw 2 penalty cards.
+alsahad draws 6 cards.
+alsahad plays a blue 2.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 2.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 7.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a green 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's alsahad's turn.
+Ryo-Bee plays a blue 8.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 8.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a red 8.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad plays a wild draw four.
+alsahad wants green.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a green 1.
+It's alsahad's turn.
+alsahad plays a green 3.
+It's Ryo-Bee's turn.
+alsahad plays a green 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 4.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 0.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a blue 5.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a blue 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 5.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a red draw two.
+alsahad draws 2 cards.
+Ryo-Bee gets 0 points.
+alsahad gets 64 points.
+Scores:
+Ryo-Bee: 190.
+alsahad: 325.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #11. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 5.
+It's alsahad's turn.
+alsahad plays a blue skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+alsahad says: interception!
+alsahad plays a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a green 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 3.
+It's alsahad's turn.
+Ryo-Bee plays a blue 2.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants yellow.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green 9.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+Ryo-Bee draws 4 cards.
+Ryo-Bee gets 66 points.
+alsahad gets 0 points.
+Scores:
+Ryo-Bee: 256.
+alsahad: 331.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #12. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a yellow 6.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 6.
+It's alsahad's turn.
+alsahad plays a red 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 1.
+It's alsahad's turn.
+alsahad plays a red 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 8.
+It's alsahad's turn.
+alsahad plays a red 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 1.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants green.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a red 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 3.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 3.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 3.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 5.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a wild.
+alsahad wants green.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 2.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 2.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 2.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 9.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 9.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a wild.
+alsahad wants blue.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a blue 8.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a blue 1.
+It's Ryo-Bee's turn.
+alsahad plays a blue 0.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue 1.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants yellow.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 4.
+It's alsahad's turn.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+Ryo-Bee gets 76 points.
+alsahad gets 0 points.
+Scores:
+alsahad: 340.
+Ryo-Bee: 341.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #13. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 4.
+It's alsahad's turn.
+alsahad plays a blue 3.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 3.
+It's alsahad's turn.
+alsahad plays a green 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 3.
+It's alsahad's turn.
+Ryo-Bee plays a red 2.
+It's alsahad's turn.
+alsahad plays a blue 2.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad wants red.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a red 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 8.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 5.
+It's alsahad's turn.
+alsahad plays a blue 5.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue 7.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad draws a card.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad draws a card.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+alsahad plays a yellow 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+Ryo-Bee plays a yellow 6.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad plays a red 6.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 6.
+It's alsahad's turn.
+alsahad plays a yellow 8.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a yellow 3.
+It's alsahad's turn.
+Ryo-Bee plays a yellow 2.
+Ryo-Bee gets 0 points.
+alsahad gets 1 points.
+Scores:
+alsahad: 341.
+Ryo-Bee: 350.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #14. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 3.
+It's Ryo-Bee's turn.
+alsahad plays a blue 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 4.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 9.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 9.
+It's alsahad's turn.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 7.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue 4.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue 5.
+It's alsahad's turn.
+alsahad plays a red 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 9.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a red 7.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a wild.
+alsahad wants green.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad plays a yellow 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green reverse.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee draws a card.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 8.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 1.
+It's alsahad's turn.
+Ryo-Bee plays a yellow 2.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 2.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 3.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 3.
+Ryo-Bee gets 0 points.
+alsahad gets 18 points.
+Scores:
+alsahad: 362.
+Ryo-Bee: 365.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #15. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a green 0.
+It's alsahad's turn.
+Ryo-Bee plays a green 1.
+It's alsahad's turn.
+alsahad plays a green 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 3.
+It's alsahad's turn.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 4.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue 1.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 8.
+Ryo-Bee gets 0 points.
+alsahad gets 70 points.
+Scores:
+Ryo-Bee: 365.
+alsahad: 441.
+
+Next round in 15 seconds.
+Scores:
+Ryo-Bee: 365.
+alsahad: 441.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #16. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a red 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 1.
+It's alsahad's turn.
+alsahad plays a green 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 8.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 8.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 8.
+It's alsahad's turn.
+alsahad plays a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants green.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants red.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a wild.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 8.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 2.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 2.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue draw two.
+alsahad draws 4 cards.
+Ryo-Bee gets 0 points.
+alsahad gets 36 points.
+Scores:
+Ryo-Bee: 365.
+alsahad: 483.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #17. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a red 3.
+It's alsahad's turn.
+alsahad plays a blue 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 7.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 7.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green 7.
+It's alsahad's turn.
+alsahad plays a green 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 4.
+It's alsahad's turn.
+alsahad plays a green 9.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 9.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 9.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 3.
+It's alsahad's turn.
+alsahad plays a yellow draw two.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a yellow 1.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+alsahad says: uno!
+alsahad draws a card.
+alsahad plays a red reverse.
+It's alsahad's turn.
+alsahad says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 0.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a red 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 2.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 2.
+Ryo-Bee gets 0 points.
+alsahad gets 28 points.
+Scores:
+Ryo-Bee: 365.
+alsahad: 514.
+
+alsahad has reached the score limit of 500 points and is now out of the game.
+Ryo-Bee is the winner!
+The table is now open for new players.
+Game 2:
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 5.
+It's alsahad's turn.
+The table is now open for new players.
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a yellow 5.
+It's Ryo-Bee's turn.
+alsahad plays a yellow 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 5.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants blue.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a wild.
+Ryo-Bee wants green.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green reverse.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a blue 2.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a blue 1.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 1.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a blue 1.
+It's alsahad's turn.
+alsahad plays a blue 0.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a wild.
+Ryo-Bee wants blue.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 5.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+alsahad accuses Ryo-Bee of bluffing... he is wrong and must draw 2 penalty cards.
+alsahad draws 6 cards.
+alsahad plays a yellow 5.
+It's Ryo-Bee's turn.
+alsahad plays a yellow 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+alsahad plays a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 8.
+It's alsahad's turn.
+Ryo-Bee plays a red 9.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 1.
+alsahad gets 69 points.
+Ryo-Bee gets 0 points.
+Scores:
+Ryo-Bee: 0.
+alsahad: 72.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #2. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a red 3.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a blue 8.
+It's Ryo-Bee's turn.
+alsahad plays a blue 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 7.
+It's alsahad's turn.
+alsahad plays a yellow 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 7.
+It's alsahad's turn.
+alsahad plays a yellow 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 9.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's alsahad's turn.
+alsahad draws a card.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 5.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad plays a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 5.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a blue 9.
+It's alsahad's turn.
+alsahad plays a blue 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 4.
+It's alsahad's turn.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a green skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 1.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 5.
+It's alsahad's turn.
+alsahad plays a green 2.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 2.
+It's alsahad's turn.
+alsahad plays a blue 2.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a blue 0.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a yellow 0.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a yellow 2.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a yellow 8.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a yellow 4.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a yellow 9.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 6.
+It's alsahad's turn.
+alsahad plays a green 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a green 6.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 6.
+It's alsahad's turn.
+alsahad plays a red 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 5.
+It's alsahad's turn.
+alsahad plays a red 1.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a red 3.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+Ryo-Bee draws 4 cards.
+alsahad gets 0 points.
+Ryo-Bee gets 48 points.
+Scores:
+Ryo-Bee: 51.
+alsahad: 72.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #3. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 2.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 2.
+It's alsahad's turn.
+alsahad plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee draws a card.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a green skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 1.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 9.
+It's alsahad's turn.
+alsahad plays a yellow 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 0.
+It's alsahad's turn.
+alsahad plays a yellow 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 4.
+It's alsahad's turn.
+Ryo-Bee plays a red 5.
+It's alsahad's turn.
+Ryo-Bee plays a red 6.
+It's alsahad's turn.
+Ryo-Bee plays a red 7.
+It's alsahad's turn.
+alsahad plays a yellow 7.
+It's Ryo-Bee's turn.
+alsahad plays a yellow 8.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 8.
+It's alsahad's turn.
+alsahad plays a red 9.
+alsahad gets 0 points.
+Ryo-Bee gets 12 points.
+Scores:
+Ryo-Bee: 66.
+alsahad: 75.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #4. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a yellow 5.
+It's alsahad's turn.
+alsahad plays a red 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 4.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green 4.
+It's alsahad's turn.
+Ryo-Bee plays a green 5.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a green skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 1.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a red 0.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants blue.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a blue 9.
+It's Ryo-Bee's turn.
+alsahad plays a blue 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 2.
+It's alsahad's turn.
+alsahad says: uno!
+alsahad plays a yellow 2.
+alsahad gets 0 points.
+Ryo-Bee gets 40 points.
+Scores:
+alsahad: 78.
+Ryo-Bee: 109.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #5. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a yellow 9.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 6.
+It's alsahad's turn.
+alsahad plays a yellow 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 7.
+It's alsahad's turn.
+alsahad plays a red reverse.
+It's alsahad's turn.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a green skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a wild draw four.
+alsahad wants red.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a red 2.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 2.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green 2.
+It's alsahad's turn.
+alsahad plays a green 6.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 6.
+It's alsahad's turn.
+alsahad says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 9.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a wild.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad plays a yellow 5.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a yellow 1.
+It's alsahad's turn.
+alsahad plays a red 1.
+alsahad gets 0 points.
+Ryo-Bee gets 29 points.
+Scores:
+alsahad: 93.
+Ryo-Bee: 138.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #6. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a red 9.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 9.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a yellow 5.
+It's alsahad's turn.
+alsahad plays a yellow 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 3.
+It's alsahad's turn.
+alsahad plays a red 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 8.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad wants blue.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+Ryo-Bee draws 4 cards.
+alsahad gets 0 points.
+Ryo-Bee gets 56 points.
+Scores:
+alsahad: 96.
+Ryo-Bee: 194.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #7. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 0.
+It's alsahad's turn.
+Ryo-Bee plays a yellow 1.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 1.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a wild.
+alsahad wants red.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad plays a yellow 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad plays a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue draw two.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws 6 cards.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a blue 5.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 5.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a yellow 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 4.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad draws a card.
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild.
+Ryo-Bee wants blue.
+It's alsahad's turn.
+alsahad plays a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 8.
+It's alsahad's turn.
+alsahad plays a blue 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 6.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants green.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws 4 cards.
+alsahad plays a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a green 5.
+It's alsahad's turn.
+alsahad plays a red 5.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 5.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 2.
+It's alsahad's turn.
+alsahad plays a blue 8.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a blue 4.
+It's alsahad's turn.
+alsahad plays a blue 1.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue 3.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a green 3.
+It's alsahad's turn.
+alsahad plays a green 9.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a blue 9.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 9.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 7.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a yellow 7.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants red.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+alsahad accuses Ryo-Bee of bluffing... he is wrong and must draw 2 penalty cards.
+alsahad draws 6 cards.
+alsahad plays a red 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 6.
+It's alsahad's turn.
+alsahad plays a yellow 6.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 6.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a red 3.
+It's alsahad's turn.
+alsahad plays a red 1.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 4.
+It's alsahad's turn.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a green skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+alsahad accuses Ryo-Bee of bluffing... he is wrong and must draw 2 penalty cards.
+alsahad draws 6 cards.
+alsahad plays a yellow 2.
+It's Ryo-Bee's turn.
+alsahad plays a yellow 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 8.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 6.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad plays a green reverse.
+It's alsahad's turn.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a wild draw four.
+alsahad wants red.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a red 7.
+It's alsahad's turn.
+alsahad plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 6.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 6.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green 1.
+It's alsahad's turn.
+alsahad plays a green 3.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a green 0.
+alsahad gets 0 points.
+Ryo-Bee gets 40 points.
+Scores:
+alsahad: 108.
+Ryo-Bee: 273.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #8. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a red 3.
+It's alsahad's turn.
+alsahad plays a red 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a yellow 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants red.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a red 2.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 2.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 2.
+It's alsahad's turn.
+alsahad plays a green 6.
+It's Ryo-Bee's turn.
+alsahad plays a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 8.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 1.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 1.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a wild.
+Ryo-Bee wants green.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+alsahad draws 2 cards.
+alsahad gets 61 points.
+Ryo-Bee gets 0 points.
+Scores:
+alsahad: 178.
+Ryo-Bee: 273.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #9. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a green 9.
+It's Ryo-Bee's turn.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad says: interception!
+alsahad plays a yellow 8.
+It's alsahad's turn.
+alsahad plays a yellow 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 6.
+It's alsahad's turn.
+alsahad plays a yellow 2.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 2.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a green 4.
+It's alsahad's turn.
+alsahad plays a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 8.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 8.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad says: interception!
+alsahad plays a red 8.
+It's alsahad's turn.
+alsahad draws a card.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 8.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a yellow 3.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a red 3.
+It's Ryo-Bee's turn.
+alsahad plays a red 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 5.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a red draw two.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue draw two.
+It's alsahad's turn.
+alsahad draws 4 cards.
+Ryo-Bee says: uno!
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a blue 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 0.
+alsahad gets 65 points.
+Ryo-Bee gets 0 points.
+Scores:
+alsahad: 255.
+Ryo-Bee: 276.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #10. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 7.
+It's alsahad's turn.
+alsahad plays a blue 3.
+It's Ryo-Bee's turn.
+alsahad plays a blue 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 5.
+It's alsahad's turn.
+alsahad plays a yellow 5.
+It's Ryo-Bee's turn.
+alsahad plays a yellow 6.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 6.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants green.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a wild draw four.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+Ryo-Bee is a bluffer!
+Ryo-Bee draws 6 cards.
+alsahad draws a card.
+alsahad plays a wild.
+alsahad wants green.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a green draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 8.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad says: uno!
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue reverse.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a blue 7.
+It's alsahad's turn.
+alsahad plays a blue 6.
+alsahad gets 0 points.
+Ryo-Bee gets 45 points.
+Scores:
+alsahad: 273.
+Ryo-Bee: 321.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #11. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 3.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 3.
+It's alsahad's turn.
+alsahad plays a red 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a blue 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 6.
+It's alsahad's turn.
+alsahad plays a yellow 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 7.
+It's alsahad's turn.
+alsahad plays a green draw two.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a yellow 9.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 9.
+It's alsahad's turn.
+alsahad plays a red 3.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a red 0.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a yellow 0.
+It's alsahad's turn.
+alsahad plays a yellow 1.
+alsahad gets 0 points.
+Ryo-Bee gets 14 points.
+Scores:
+alsahad: 273.
+Ryo-Bee: 335.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #12. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a blue 8.
+It's alsahad's turn.
+alsahad plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 9.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a blue 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 2.
+It's alsahad's turn.
+alsahad plays a blue 1.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants blue.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a wild.
+Ryo-Bee wants blue.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 7.
+It's alsahad's turn.
+Ryo-Bee plays a red 6.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 6.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 4.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws a card.
+alsahad plays a red 0.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws 2 cards.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a green 9.
+It's Ryo-Bee's turn.
+alsahad plays a green 8.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 8.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+alsahad gets 12 points.
+Ryo-Bee gets 0 points.
+Scores:
+alsahad: 288.
+Ryo-Bee: 341.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #13. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a blue 5.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 5.
+It's Ryo-Bee's turn.
+alsahad plays a red 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 4.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green draw two.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad draws a card.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad plays a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 4 cards.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a yellow 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 3.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 1.
+alsahad gets 88 points.
+Ryo-Bee gets 0 points.
+Scores:
+Ryo-Bee: 341.
+alsahad: 379.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #14. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a green 7.
+It's alsahad's turn.
+alsahad plays a green 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 7.
+It's alsahad's turn.
+Ryo-Bee plays a red 8.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants blue.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a wild draw four.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee wants green.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+Ryo-Bee is a bluffer!
+Ryo-Bee draws 6 cards.
+alsahad plays a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+alsahad says: interception!
+alsahad plays a green draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 9.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 5.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 5.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue 5.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+It's alsahad's turn.
+alsahad plays a blue 1.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a blue 7.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants green.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+alsahad accuses Ryo-Bee of bluffing... he is wrong and must draw 2 penalty cards.
+alsahad draws 6 cards.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a green 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 4.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 3.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 3.
+It's alsahad's turn.
+alsahad plays a yellow 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 8.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 3.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 2.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 0.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 0.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green 0.
+It's alsahad's turn.
+alsahad plays a green 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 1.
+It's alsahad's turn.
+alsahad says: uno!
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad draws a card.
+alsahad plays a yellow 1.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a yellow 4.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad plays a blue 7.
+It's Ryo-Bee's turn.
+alsahad plays a blue 8.
+alsahad gets 0 points.
+Ryo-Bee gets 2 points.
+Scores:
+Ryo-Bee: 358.
+alsahad: 388.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #15. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a yellow 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a green 7.
+It's alsahad's turn.
+alsahad plays a green 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 3.
+It's alsahad's turn.
+alsahad plays a blue 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants blue.
+It's alsahad's turn.
+alsahad plays a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a blue 2.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants yellow.
+It's Ryo-Bee's turn.
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad says: uno!
+Ryo-Bee plays a green 8.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 9.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 5.
+It's alsahad's turn.
+alsahad plays a yellow 5.
+alsahad gets 0 points.
+Ryo-Bee gets 15 points.
+Scores:
+Ryo-Bee: 373.
+alsahad: 397.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #16. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a yellow 3.
+It's alsahad's turn.
+alsahad plays a red 3.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a red 8.
+It's alsahad's turn.
+alsahad plays a red reverse.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad wants yellow.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants green.
+It's alsahad's turn.
+alsahad plays a green 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green 5.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad draws a card.
+alsahad plays a green 7.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red 7.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a yellow 7.
+It's Ryo-Bee's turn.
+alsahad plays a yellow 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 3.
+It's alsahad's turn.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a yellow 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 4.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a yellow 2.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a blue 2.
+It's alsahad's turn.
+alsahad plays a blue 1.
+It's Ryo-Bee's turn.
+alsahad plays a blue 0.
+alsahad gets 0 points.
+Ryo-Bee gets 15 points.
+Scores:
+Ryo-Bee: 391.
+alsahad: 406.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #17. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a red 5.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 5.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 3.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+alsahad plays a blue reverse.
+It's alsahad's turn.
+alsahad plays a blue 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a blue 7.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 7.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 8.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 5.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 2.
+It's alsahad's turn.
+alsahad plays a green 2.
+It's Ryo-Bee's turn.
+alsahad plays a green 1.
+It's Ryo-Bee's turn.
+alsahad plays a green 0.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 0.
+It's alsahad's turn.
+alsahad plays a blue 6.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a green 6.
+It's alsahad's turn.
+alsahad plays a green draw two.
+Ryo-Bee draws 2 cards.
+alsahad gets 0 points.
+Ryo-Bee gets 50 points.
+Scores:
+alsahad: 406.
+Ryo-Bee: 444.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #18. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a red 3.
+It's alsahad's turn.
+alsahad plays a red 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 4.
+It's Ryo-Bee's turn.
+alsahad plays a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 9.
+It's alsahad's turn.
+alsahad plays a yellow 9.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee wants green.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+alsahad accuses Ryo-Bee of bluffing... he is wrong and must draw 2 penalty cards.
+alsahad draws 6 cards.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a green skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a wild.
+alsahad wants yellow.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a yellow reverse.
+It's alsahad's turn.
+alsahad plays a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue draw two.
+It's alsahad's turn.
+alsahad plays a yellow draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+Ryo-Bee plays a yellow 6.
+It's alsahad's turn.
+alsahad plays a red 6.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 6.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad wants red.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a wild draw four.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee wants blue.
+It's alsahad's turn.
+alsahad says: You're bluffing!
+alsahad accuses Ryo-Bee of bluffing... he is wrong and must draw 2 penalty cards.
+alsahad draws 6 cards.
+alsahad plays a blue 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a red 1.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a red 7.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a wild.
+alsahad wants blue.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad plays a yellow 2.
+alsahad gets 0 points.
+Ryo-Bee gets 43 points.
+Scores:
+alsahad: 412.
+Ryo-Bee: 496.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #19. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a green 1.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a red 1.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 3.
+It's alsahad's turn.
+alsahad plays a green 4.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 4.
+It's alsahad's turn.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a blue skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee can't play.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a green skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a green 6.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 8.
+It's alsahad's turn.
+Ryo-Bee plays a green 7.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a red 7.
+alsahad gets 30 points.
+Ryo-Bee gets 0 points.
+Scores:
+alsahad: 448.
+Ryo-Bee: 496.
+
+Next round in 15 seconds.
+Scores:
+alsahad: 448.
+Ryo-Bee: 496.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #20. Ryo-Bee shuffles the cards and deals 7 to each player.
+Ryo-Bee returns the first card of the pile and makes it visible on the table. It is a red 5.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 4.
+It's alsahad's turn.
+alsahad plays a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants green.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a green 3.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 3.
+It's alsahad's turn.
+alsahad plays a red 3.
+It's Ryo-Bee's turn.
+alsahad plays a red 2.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 2.
+It's alsahad's turn.
+alsahad plays a yellow 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 8.
+It's alsahad's turn.
+alsahad plays a red skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad plays a red reverse.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green draw two.
+It's alsahad's turn.
+alsahad draws 2 cards.
+alsahad plays a green 6.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 6.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+alsahad wants green.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee says: You're bluffing!
+Ryo-Bee accuses alsahad of bluffing... he is wrong and must draw 2 penalty cards.
+Ryo-Bee draws 6 cards.
+Ryo-Bee plays a green 4.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 4.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee draws a card.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a wild.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee wants yellow.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a yellow 3.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 9.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a yellow draw two.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a yellow 7.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a blue 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 8.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 2.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad plays a blue 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild draw four.
+Ryo-Bee wants green.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a green 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a yellow 1.
+It's alsahad's turn.
+alsahad plays a yellow 5.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow 1.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 4 cards.
+Ryo-Bee plays a red 7.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow 7.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 7.
+It's alsahad's turn.
+alsahad plays a green 2.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 6.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a green 1.
+It's alsahad's turn.
+Ryo-Bee plays a green 0.
+It's alsahad's turn.
+alsahad draws a card.
+alsahad can't play.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad plays a red 9.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 9.
+It's alsahad's turn.
+Ryo-Bee has failed an interception and takes 3 penalty points.
+alsahad plays a blue draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee draws 2 cards.
+Ryo-Bee plays a blue skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a wild.
+Ryo-Bee wants red.
+It's alsahad's turn.
+Ryo-Bee says: uno!
+alsahad draws a card.
+alsahad plays a red 0.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 4.
+alsahad gets 14 points.
+Ryo-Bee gets 0 points.
+Scores:
+alsahad: 474.
+Ryo-Bee: 499.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #21. alsahad shuffles the cards and deals 7 to each player.
+alsahad returns the first card of the pile and makes it visible on the table. It is a red 5.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+It's alsahad's turn.
+alsahad plays a red draw two.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a yellow draw two.
+It's alsahad's turn.
+alsahad draws 4 cards.
+alsahad plays a yellow skip.
+Ryo-Bee's turn is skipped.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a yellow skip.
+alsahad's turn is skipped.
+It's Ryo-Bee's turn.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+Ryo-Bee draws a card.
+It's alsahad's turn.
+alsahad plays a yellow 9.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 9.
+It's alsahad's turn.
+Ryo-Bee says: interception!
+Ryo-Bee plays a green 9.
+It's Ryo-Bee's turn.
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a red 9.
+It's alsahad's turn.
+alsahad plays a red 8.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red reverse.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a red 6.
+It's alsahad's turn.
+alsahad plays a red 2.
+It's Ryo-Bee's turn.
+alsahad plays a red 1.
+It's Ryo-Bee's turn.
+alsahad says: interception!
+alsahad plays a blue 1.
+It's alsahad's turn.
+alsahad plays a blue 4.
+It's Ryo-Bee's turn.
+Ryo-Bee plays a blue 7.
+It's alsahad's turn.
+Ryo-Bee plays a blue 6.
+It's alsahad's turn.
+alsahad plays a green 6.
+It's Ryo-Bee's turn.
+alsahad says: uno!
+alsahad has failed an interception and takes 3 penalty points.
+Ryo-Bee plays a green 5.
+It's alsahad's turn.
+alsahad plays a wild draw four.
+Ryo-Bee draws 4 cards.
+alsahad gets 0 points.
+Ryo-Bee gets 77 points.
+Scores:
+alsahad: 480.
+Ryo-Bee: 576.
+
+Ryo-Bee has reached the score limit of 500 points and is now out of the game.
+alsahad is the winner!
+The table is now open for new players.
