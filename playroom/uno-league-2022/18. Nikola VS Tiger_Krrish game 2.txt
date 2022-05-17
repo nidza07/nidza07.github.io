@@ -1,0 +1,2118 @@
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a blue 7.
+It's your turn.
+Your cards are now sorted by ascending number.
+blue 7
+You can't play that card.
+You play a blue reverse.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a blue 9.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a green 9.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow 9.
+It's your turn.
+You play a yellow draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 2 cards.
+Nikola says: interception!
+You play a red draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish plays a red 8.
+It's your turn.
+You play a red 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 6.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow 6.
+It's Tiger_Krrish's turn.
+Too late!
+yellow 6
+Tiger_Krrish plays a yellow 8.
+It's your turn.
+Tiger_Krrish plays a yellow 7.
+It's your turn.
+yellow 7
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a green draw two.
+It's your turn.
+You draw 2 cards.
+You play a green skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a green 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 5.
+It's your turn.
+You play a yellow 5.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 5.
+It's your turn.
+You play a blue 2.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a red 4.
+Tiger_Krrish gets 9 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 3.
+Tiger_Krrish: 12.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #2. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 6.
+It's Tiger_Krrish's turn.
+blue 6
+Tiger_Krrish plays a blue 5.
+It's your turn.
+You play a green 5.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants red.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a wild draw four.
+Choose a color:
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You want blue.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish can't play.
+It's your turn.
+You play a blue 1.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 1.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants blue.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a blue draw two.
+It's your turn.
+You play a green draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green draw two.
+It's your turn.
+You play a yellow draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 8 cards.
+Tiger_Krrish plays a red draw two.
+It's your turn.
+You draw 2 cards.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+yellow
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a yellow skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a red skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a yellow skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You can't play that card.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You can't play that card.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a red skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Too late!
+Too late!
+red skip
+Tiger_Krrish plays a red 9.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow 9.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 9.
+It's your turn.
+You play a yellow 9.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow reverse.
+It's Tiger_Krrish's turn.
+Too late!
+Too late!
+Tiger_Krrish plays a green reverse.
+It's Tiger_Krrish's turn.
+green reverse
+Tiger_Krrish plays a green 6.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a green 7.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+You play a yellow 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 7.
+It's your turn.
+You play a yellow 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 3.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a red 3.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 3.
+It's your turn.
+Nikola says: uno!
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a green 1.
+Tiger_Krrish gets 38 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 15.
+Tiger_Krrish: 68.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #3. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a yellow 9.
+It's your turn.
+yellow 9
+You play a yellow 0.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 3.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You draw a card.
+You play a yellow 3.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 3.
+It's your turn.
+blue 3
+You play a blue skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a red skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a red draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red draw two.
+It's your turn.
+You draw 4 cards.
+You play a red 8.
+It's Tiger_Krrish's turn.
+You play a red 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 9.
+It's your turn.
+You play a red 5.
+It's Tiger_Krrish's turn.
+You play a red 4.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 4.
+It's your turn.
+Nikola says: uno!
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a blue 8.
+It's your turn.
+You draw a card.
+You play a wild.
+Choose a color:
+You want green.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a wild draw four.
+Tiger_Krrish wants red.
+It's your turn.
+Tiger_Krrish says: uno!
+You draw 4 cards.
+You play a red 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 7.
+Tiger_Krrish gets 0 points.
+Nikola gets 40 points.
+Scores:
+Nikola: 55.
+Tiger_Krrish: 74.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 55.
+Tiger_Krrish: 74.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #4. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 0.
+It's Tiger_Krrish's turn.
+green 0
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants blue.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a green draw two.
+It's your turn.
+You play a red draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red draw two.
+It's your turn.
+You draw 6 cards.
+You play a green draw two.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+yellow
+Tiger_Krrish plays a yellow reverse.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green reverse.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a red reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 9.
+It's your turn.
+You play a red 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 9.
+It's your turn.
+You can't play that card.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a blue 9.
+It's Tiger_Krrish's turn.
+blue 9
+Tiger_Krrish plays a blue 7.
+It's your turn.
+You play a blue 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 3.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a green 3.
+It's Tiger_Krrish's turn.
+Too late!
+green 3
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a green 4.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 4.
+It's your turn.
+You play a blue 4.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 4.
+It's your turn.
+You play a red 2.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a red 6.
+It's your turn.
+Tiger_Krrish plays a red 5.
+It's your turn.
+You play a green 5.
+Tiger_Krrish gets 8 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 58.
+Tiger_Krrish: 85.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #5. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a yellow 3.
+It's your turn.
+yellow 3
+You play a yellow 8.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 8.
+It's your turn.
+You play a green 6.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 6.
+It's your turn.
+You play a blue 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 8.
+It's your turn.
+You draw a card.
+You play a wild.
+Choose a color:
+You want yellow.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 0.
+It's your turn.
+You play a yellow 9.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a yellow 2.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a blue 2.
+It's your turn.
+You play a blue 0.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 0.
+It's your turn.
+You play a red draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish plays a red skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red reverse.
+It's Tiger_Krrish's turn.
+Too late!
+Nikola says: interception!
+You play a green reverse.
+It's your turn.
+You play a green skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a green 4.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a green 0.
+It's your turn.
+You can't play that card.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 6.
+It's your turn.
+Tiger_Krrish plays a green 5.
+It's your turn.
+You play a red 5.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a blue 5.
+It's your turn.
+You can't play that card.
+Tiger_Krrish plays a blue 4.
+It's your turn.
+You draw a card.
+You play a blue draw two.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You play a blue 3.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a red 3.
+It's your turn.
+You play a red 2.
+It's Tiger_Krrish's turn.
+You play a red 1.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a red 1.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 8.
+It's your turn.
+You play a yellow 8.
+It's Tiger_Krrish's turn.
+You play a yellow 9.
+Tiger_Krrish gets 28 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 61.
+Tiger_Krrish: 113.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #6. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 6.
+It's Tiger_Krrish's turn.
+green 6
+You play a green 5.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 0.
+It's your turn.
+green 0
+You play a red 0.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 5.
+It's your turn.
+You play a red 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 3.
+It's your turn.
+red 3
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 1.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants yellow.
+It's your turn.
+Tiger_Krrish says: uno!
+You play a yellow skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a yellow 2.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 9.
+Tiger_Krrish gets 0 points.
+Nikola gets 73 points.
+Scores:
+Tiger_Krrish: 116.
+Nikola: 134.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #7. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a red 6.
+It's your turn.
+red 6
+You play a red 2.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 5.
+It's your turn.
+You play a red 4.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 9.
+It's your turn.
+red 9
+You play a blue 9.
+It's Tiger_Krrish's turn.
+Too late!
+You play a blue 0.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 0.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+yellow skip
+Tiger_Krrish plays a yellow 3.
+It's your turn.
+You play a yellow draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish plays a yellow 8.
+It's your turn.
+You play a yellow 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 7.
+It's your turn.
+Nikola says: uno!
+You can't play that card.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a yellow 2.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a yellow reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 1.
+Tiger_Krrish gets 0 points.
+Nikola gets 22 points.
+Scores:
+Tiger_Krrish: 116.
+Nikola: 159.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #8. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 2.
+It's Tiger_Krrish's turn.
+green 2
+Tiger_Krrish plays a green 5.
+It's your turn.
+You play a red 5.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants green.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 8.
+It's your turn.
+You play a yellow 8.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+You play a blue skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 3.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 3.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow 3.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow draw two.
+You draw 2 cards.
+Tiger_Krrish gets 0 points.
+Nikola gets 69 points.
+Scores:
+Tiger_Krrish: 116.
+Nikola: 228.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #9. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a green 0.
+It's your turn.
+green 0
+You play a green 5.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 5.
+It's your turn.
+You play a red 5.
+It's Tiger_Krrish's turn.
+You play a red 4.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 5.
+It's your turn.
+You draw a card.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a blue 5.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 0.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow 0.
+It's Tiger_Krrish's turn.
+yellow 0
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a yellow reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a yellow 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You can't play that card.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a blue 6.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 3.
+It's your turn.
+You play a red 3.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 3.
+It's your turn.
+You can't play that card.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a red reverse.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 8.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a green 8.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a blue 1.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a green 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a green skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a green 7.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 7.
+It's your turn.
+Nikola says: uno!
+Tiger_Krrish plays a red 6.
+It's your turn.
+red 6
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 8.
+It's your turn.
+Tiger_Krrish says: uno!
+You play a green 8.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a green 4.
+It's your turn.
+Tiger_Krrish says: uno!
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a wild draw four.
+Tiger_Krrish wants red.
+It's your turn.
+You draw 4 cards.
+You play a red draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow draw two.
+It's your turn.
+You play a green draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red draw two.
+It's your turn.
+Tiger_Krrish says: uno!
+You draw 8 cards.
+red
+You play a green draw two.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+You play a blue skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a wild.
+Choose a color:
+You want green.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 3.
+It's your turn.
+You play a wild.
+Choose a color:
+You want green.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a green 9.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow 9.
+It's your turn.
+You play a yellow 8.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a wild draw four.
+Choose a color:
+You want yellow.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a yellow reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 3.
+It's your turn.
+You play a yellow 3.
+It's Tiger_Krrish's turn.
+You play a yellow 2.
+It's Tiger_Krrish's turn.
+You play a yellow 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 6.
+It's your turn.
+You play a yellow 5.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow 5.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a yellow 9.
+It's your turn.
+You draw a card.
+You play a yellow 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Nikola says: interception!
+You play a red 1.
+It's your turn.
+You play a red 6.
+Tiger_Krrish gets 25 points.
+Nikola gets 0 points.
+Scores:
+Tiger_Krrish: 150.
+Nikola: 228.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #10. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 2.
+It's Tiger_Krrish's turn.
+yellow 2
+Tiger_Krrish plays a blue 2.
+It's your turn.
+You play a blue draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish plays a blue 3.
+It's your turn.
+You play a blue 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a yellow 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 4.
+It's your turn.
+You play a yellow 0.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 1.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You draw a card.
+You play a blue 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants green.
+It's your turn.
+You play a green 9.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a green skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green draw two.
+You draw 2 cards.
+Tiger_Krrish gets 0 points.
+Nikola gets 14 points.
+Scores:
+Tiger_Krrish: 153.
+Nikola: 242.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #11. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a green 4.
+It's your turn.
+green 4
+You play a green 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a green 4.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You want red.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a red draw two.
+It's your turn.
+You draw 2 cards.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+yellow
+You play a wild.
+Choose a color:
+You want red.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 8.
+It's your turn.
+You play a red 9.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You play a yellow 9.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 9.
+It's your turn.
+You play a blue 5.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 5.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You can't play that card.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a blue skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a wild draw four.
+Tiger_Krrish wants red.
+It's your turn.
+You say: You're bluffing!
+Tiger_Krrish is a bluffer!
+Tiger_Krrish draws 6 cards.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 2.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a blue 2.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 8.
+It's your turn.
+You play a blue 4.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow 4.
+It's your turn.
+You play a yellow 8.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a yellow 6.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 1.
+It's your turn.
+You play a green 1.
+Tiger_Krrish gets 22 points.
+Nikola gets 0 points.
+Scores:
+Tiger_Krrish: 181.
+Nikola: 242.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #12. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 7.
+It's Tiger_Krrish's turn.
+blue 7
+Tiger_Krrish plays a blue 9.
+It's your turn.
+You play a blue 9.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You play a blue 2.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 2.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a green 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 4.
+It's your turn.
+Tiger_Krrish plays a green 3.
+It's your turn.
+You play a green 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 2.
+It's your turn.
+You draw a card.
+You play a green 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 6.
+It's your turn.
+You play a yellow 4.
+It's Tiger_Krrish's turn.
+You play a yellow 3.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a yellow 1.
+It's your turn.
+You play a yellow draw two.
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish gets 44 points.
+Nikola gets 0 points.
+Scores:
+Tiger_Krrish: 225.
+Nikola: 242.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #13. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a yellow 6.
+It's your turn.
+yellow 6
+You play a yellow 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 3.
+It's your turn.
+You play a yellow skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a yellow 9.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 9.
+It's your turn.
+You play a blue 9.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 9.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants yellow.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 8.
+It's your turn.
+You draw a card.
+You play a wild.
+Choose a color:
+You want red.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 8.
+It's your turn.
+You play a red reverse.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a red 5.
+It's Tiger_Krrish's turn.
+Tiger_Krrish says: uno!
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a red 0.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a yellow 0.
+It's your turn.
+You play a yellow skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You play a yellow draw two.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a yellow draw two.
+It's your turn.
+You draw 4 cards.
+You play a yellow 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 7.
+It's your turn.
+Tiger_Krrish says: uno!
+yellow 7
+You draw a card.
+You play a red 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a red 9.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a red 7.
+It's your turn.
+You play a blue 7.
+It's Tiger_Krrish's turn.
+You play a blue 6.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 6.
+It's your turn.
+You play a blue 2.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 8.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's Tiger_Krrish's turn.
+blue
+Tiger_Krrish plays a green draw two.
+It's your turn.
+You draw 2 cards.
+green
+You play a green reverse.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a yellow 1.
+It's Tiger_Krrish's turn.
+You play a yellow 2.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 2.
+It's your turn.
+You play a green 7.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a green 5.
+It's your turn.
+Tiger_Krrish plays a green 4.
+Tiger_Krrish gets 0 points.
+Nikola gets 5 points.
+Scores:
+Tiger_Krrish: 231.
+Nikola: 247.
+
+Next round in 15 seconds.
+Scores:
+Tiger_Krrish: 231.
+Nikola: 247.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #14. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 3.
+It's Tiger_Krrish's turn.
+green 3
+Nikola says: interception!
+You play a red 3.
+It's your turn.
+Tiger_Krrish plays a red 4.
+It's your turn.
+You play a red draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish plays a red reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a blue 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 8.
+It's your turn.
+You can't play that card.
+You play a yellow 6.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 6.
+It's your turn.
+You play a green 6.
+Tiger_Krrish gets 64 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 247.
+Tiger_Krrish: 295.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #15. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a green 8.
+It's your turn.
+green 8
+You play a green 9.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 7.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a blue 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 4.
+It's your turn.
+blue 4
+You play a blue 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a red skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a red 4.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a wild.
+Choose a color:
+You want blue.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a blue 3.
+Tiger_Krrish gets 52 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 247.
+Tiger_Krrish: 347.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #16. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 6.
+It's Tiger_Krrish's turn.
+red 6
+Nikola says: interception!
+You play a yellow 6.
+It's your turn.
+You play a yellow 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a blue 6.
+It's your turn.
+You play a blue 5.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 5.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a red 5.
+It's Tiger_Krrish's turn.
+Too late!
+red 5
+Tiger_Krrish plays a red reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 2.
+It's your turn.
+You play a red 2.
+It's Tiger_Krrish's turn.
+You play a red 1.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a yellow 1.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a red 3.
+It's your turn.
+You play a red 9.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a green 9.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 2.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a blue 2.
+It's your turn.
+You play a blue draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish plays a green draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You play a green 0.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 0.
+It's your turn.
+You play a blue 9.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 9.
+It's your turn.
+You play a yellow 5.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 5.
+It's your turn.
+You play a red 4.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 0.
+It's your turn.
+You play a yellow 0.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a yellow 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 4.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a blue 3.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a blue 2.
+It's your turn.
+You play a blue 1.
+Tiger_Krrish gets 15 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 250.
+Tiger_Krrish: 365.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #17. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a yellow 3.
+It's your turn.
+yellow 3
+You play a yellow 4.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 1.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a yellow 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 7.
+It's your turn.
+You play a blue 5.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a blue 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish draws a card.
+Tiger_Krrish draws a card.
+Tiger_Krrish draws a card.
+It's your turn.
+You play a wild.
+Choose a color:
+You want green.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a green skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a wild draw four.
+Tiger_Krrish wants blue.
+It's your turn.
+You say: You're bluffing!
+Tiger_Krrish is a bluffer!
+Tiger_Krrish draws 6 cards.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 5.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a red 5.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 9.
+It's your turn.
+You play a green 9.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a wild draw four.
+Tiger_Krrish wants blue.
+It's your turn.
+You say: You're bluffing!
+Tiger_Krrish is a bluffer!
+Tiger_Krrish draws 6 cards.
+You draw a card.
+You play a blue 9.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a red 9.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 8.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You play a green 3.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a green 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 3.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a blue 3.
+It's Tiger_Krrish's turn.
+You play a blue 4.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a yellow 4.
+It's your turn.
+You play a yellow reverse.
+Tiger_Krrish gets 13 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 250.
+Tiger_Krrish: 384.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #18. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 2.
+It's Tiger_Krrish's turn.
+blue 2
+Nikola says: interception!
+You play a green 2.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 4.
+It's your turn.
+You draw a card.
+You play a green 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants blue.
+It's your turn.
+You play a blue skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a blue 3.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 7.
+It's your turn.
+blue 7
+You play a yellow 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 9.
+It's your turn.
+You play a red 9.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You play a red draw two.
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish gets 32 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 250.
+Tiger_Krrish: 416.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #19. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a yellow 4.
+It's your turn.
+yellow 4
+You play a yellow 3.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 3.
+It's your turn.
+You can't play that card.
+Tiger_Krrish plays a red 2.
+It's your turn.
+You play a green 2.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 8.
+It's your turn.
+You play a green 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 6.
+It's your turn.
+green 6
+You play a blue 6.
+It's Tiger_Krrish's turn.
+You play a blue 5.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 5.
+It's your turn.
+Tiger_Krrish plays a yellow 4.
+It's your turn.
+You play a yellow 9.
+It's Tiger_Krrish's turn.
+Tiger_Krrish says: uno!
+Nikola says: uno!
+Tiger_Krrish plays a blue 9.
+Tiger_Krrish gets 0 points.
+Nikola gets 20 points.
+Scores:
+Nikola: 270.
+Tiger_Krrish: 416.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #20. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 3.
+It's Tiger_Krrish's turn.
+yellow 3
+Nikola says: interception!
+You play a yellow 3.
+It's your turn.
+You play a red 3.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a red 5.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red draw two.
+It's your turn.
+You draw 2 cards.
+You play a red skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You draw a card.
+You play a red 3.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a red reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 1.
+It's your turn.
+Tiger_Krrish plays a blue 0.
+It's your turn.
+You play a blue 9.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a blue 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a yellow 7.
+It's your turn.
+You play a yellow 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 6.
+It's your turn.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a green 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You play a green 2.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 2.
+It's your turn.
+You play a blue 4.
+Tiger_Krrish gets 26 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 270.
+Tiger_Krrish: 445.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #21. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a green 2.
+It's your turn.
+green 2
+You play a yellow 2.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a red 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a wild draw four.
+Tiger_Krrish wants green.
+It's your turn.
+You draw 4 cards.
+You play a green reverse.
+It's your turn.
+You play a green 6.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow 6.
+It's your turn.
+yellow 6
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+You play a yellow 4.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 4.
+It's your turn.
+You play a green 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 3.
+It's your turn.
+You play a yellow 3.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 0.
+It's your turn.
+You play a yellow 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You play a yellow 6.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 6.
+It's your turn.
+You play a blue 0.
+It's Tiger_Krrish's turn.
+Nikola says: uno!
+Tiger_Krrish plays a blue 2.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish says: uno!
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You play a blue 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a blue 7.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want yellow.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants blue.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue reverse.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow reverse.
+It's your turn.
+You play a yellow 9.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 9.
+It's your turn.
+You can't play that card.
+Tiger_Krrish has failed an interception and takes 3 penalty points.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow 9.
+It's Tiger_Krrish's turn.
+Too late!
+yellow 9
+Tiger_Krrish plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a red draw two.
+It's your turn.
+You draw 2 cards.
+red
+You play a green draw two.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 2 cards.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants blue.
+It's your turn.
+You play a blue 1.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a blue 3.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a yellow 3.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 4.
+It's your turn.
+You play a yellow 7.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a green 7.
+It's your turn.
+Tiger_Krrish plays a green 6.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a green 5.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a red 5.
+It's your turn.
+Tiger_Krrish says: uno!
+You play a red 8.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a red 0.
+Tiger_Krrish gets 0 points.
+Nikola gets 7 points.
+Scores:
+Nikola: 280.
+Tiger_Krrish: 451.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #22. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 0.
+It's Tiger_Krrish's turn.
+blue 0
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants red.
+It's your turn.
+You play a red 9.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 9.
+It's your turn.
+You play a green skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+Tiger_Krrish says: interception!
+Tiger_Krrish plays a red skip.
+Your turn is skipped.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish can't play.
+It's your turn.
+red
+You draw a card.
+You play a red 3.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 3.
+It's your turn.
+You play a blue 2.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws a card.
+Tiger_Krrish plays a blue 4.
+It's your turn.
+You play a blue 7.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a yellow 7.
+Tiger_Krrish gets 35 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 280.
+Tiger_Krrish: 486.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #23. Tiger_Krrish shuffles the cards and deals 7 to each player.
+Tiger_Krrish returns the first card of the pile and makes it visible on the table. It is a yellow 8.
+It's your turn.
+yellow 8
+You play a yellow 8.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's Tiger_Krrish's turn.
+Tiger_Krrish draws 4 cards.
+Tiger_Krrish plays a wild.
+Tiger_Krrish wants yellow.
+It's your turn.
+You draw a card.
+You can't play.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow reverse.
+It's Tiger_Krrish's turn.
+Tiger_Krrish plays a yellow 6.
+It's your turn.
+You play a blue 6.
+It's Tiger_Krrish's turn.
+Nikola says: interception!
+You play a green 6.
+It's your turn.
+green 6
+You play a green skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a red skip.
+Tiger_Krrish's turn is skipped.
+It's your turn.
+You play a red 7.
+Tiger_Krrish gets 72 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 280.
+Tiger_Krrish: 558.
+
+Tiger_Krrish has reached the score limit of 500 points and is now out of the game.
+You are the winner!
+The table is now open for new players.
