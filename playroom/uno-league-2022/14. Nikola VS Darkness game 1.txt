@@ -1,0 +1,1065 @@
+game1: 
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. Darkness shuffles the cards and deals 7 to each player.
+Darkness returns the first card of the pile and makes it visible on the table. It is a yellow 2.
+It's your turn.
+Your cards are now sorted by ascending number.
+yellow 2
+You play a red 2.
+It's Darkness's turn.
+Darkness plays a blue 2.
+It's your turn.
+blue
+blue 2
+You play a blue 8.
+It's Darkness's turn.
+Darkness plays a yellow 8.
+It's your turn.
+You play a yellow 9.
+It's Darkness's turn.
+Nikola says: interception!
+You play a green 9.
+It's your turn.
+You play a green 5.
+It's Darkness's turn.
+Darkness plays a green 7.
+It's your turn.
+You play a wild.
+Choose a color:
+You want red.
+It's Darkness's turn.
+Nikola says: uno!
+Darkness plays a red skip.
+Your turn is skipped.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You play a red draw two.
+Darkness draws 2 cards.
+Darkness gets 68 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 0.
+Darkness: 68.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #2. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 5.
+It's Darkness's turn.
+yellow 5
+You play a yellow 4.
+It's Darkness's turn.
+Darkness plays a wild draw four.
+Darkness wants blue.
+It's your turn.
+You draw 4 cards.
+You play a blue 3.
+It's Darkness's turn.
+Darkness plays a blue skip.
+Your turn is skipped.
+It's Darkness's turn.
+Darkness plays a blue 6.
+It's your turn.
+blue 6
+You play a green 6.
+It's Darkness's turn.
+Nikola says: interception!
+You play a red 6.
+It's your turn.
+You play a red skip.
+Darkness's turn is skipped.
+It's your turn.
+You play a red 8.
+It's Darkness's turn.
+Darkness plays a red 7.
+It's your turn.
+red 7
+You play a red 2.
+It's Darkness's turn.
+Nikola says: interception!
+You play a yellow 2.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a yellow 9.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a wild.
+Nikola says: uno!
+Darkness wants red.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness plays a red draw two.
+It's your turn.
+You draw 2 cards.
+red
+You draw a card.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a green draw two.
+It's your turn.
+You draw 2 cards.
+green
+You play a green 9.
+It's Darkness's turn.
+Too late!
+Darkness plays a green 1.
+It's your turn.
+Darkness says: uno!
+green 1
+You play a green 3.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You draw a card.
+You play a green 2.
+It's Darkness's turn.
+Darkness plays a blue 2.
+It's your turn.
+Darkness plays a blue 1.
+It's your turn.
+Darkness says: interception!
+Darkness plays a red 1.
+Darkness gets 0 points.
+Nikola gets 95 points.
+Scores:
+Darkness: 68.
+Nikola: 98.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #3. Darkness shuffles the cards and deals 7 to each player.
+Darkness returns the first card of the pile and makes it visible on the table. It is a red 8.
+It's your turn.
+red 8
+You play a red 1.
+It's Darkness's turn.
+Darkness plays a red 3.
+It's your turn.
+Darkness says: interception!
+Darkness plays a red 3.
+It's Darkness's turn.
+red 3
+Darkness plays a wild draw four.
+Darkness wants yellow.
+It's your turn.
+You can't play that card.
+You draw 4 cards.
+You play a yellow reverse.
+It's your turn.
+You play a yellow 8.
+It's Darkness's turn.
+You play a yellow 7.
+It's Darkness's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+You can't play that card.
+yellow 7
+You play a yellow 4.
+It's Darkness's turn.
+Darkness plays a yellow reverse.
+It's Darkness's turn.
+Darkness plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+You play a yellow 2.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a yellow 6.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a wild draw four.
+Darkness wants blue.
+It's your turn.
+You draw 4 cards.
+blue
+You play a blue skip.
+Darkness's turn is skipped.
+It's your turn.
+You play a blue 7.
+It's Darkness's turn.
+Darkness plays a blue 9.
+It's your turn.
+You play a blue 6.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You play a blue 3.
+It's Darkness's turn.
+You play a blue 2.
+It's Darkness's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a red 1.
+It's Darkness's turn.
+Nikola says: interception!
+You play a blue 1.
+It's your turn.
+You play a blue 0.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Scores:
+Darkness: 68.
+Nikola: 98.
+The score limit is fixed to 500 points.
+Darkness draws a card.
+Darkness draws a card.
+Darkness draws a card.
+It's your turn.
+You draw a card.
+You play a red 0.
+It's Darkness's turn.
+Darkness plays a red draw two.
+It's your turn.
+You play a green draw two.
+It's Darkness's turn.
+Darkness draws 4 cards.
+Darkness plays a green 5.
+It's your turn.
+Darkness says: interception!
+Darkness plays a red 5.
+It's Darkness's turn.
+Nikola says: interception!
+You play a green 5.
+It's your turn.
+You can't play that card.
+You draw a card.
+Darkness says: interception!
+Darkness plays a yellow 5.
+It's Darkness's turn.
+Darkness plays a yellow 4.
+It's your turn.
+Darkness says: interception!
+Darkness plays a blue 4.
+It's Darkness's turn.
+Darkness plays a blue 3.
+It's your turn.
+Darkness plays a blue 2.
+It's your turn.
+blue 2
+You play a yellow 2.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a yellow 5.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a wild draw four.
+Darkness wants blue.
+It's your turn.
+You draw 4 cards.
+You play a blue draw two.
+It's Darkness's turn.
+Darkness draws 2 cards.
+Nikola says: interception!
+You play a green draw two.
+It's Darkness's turn.
+Darkness draws 2 cards.
+Darkness plays a green 7.
+It's your turn.
+Darkness says: interception!
+Darkness plays a green 7.
+It's Darkness's turn.
+Darkness plays a blue 7.
+It's your turn.
+Darkness plays a blue 6.
+It's your turn.
+Darkness says: interception!
+Darkness plays a red 6.
+It's Darkness's turn.
+Nikola says: interception!
+You play a green 6.
+It's your turn.
+You play a green 6.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a wild.
+Darkness wants red.
+It's your turn.
+You play a red 8.
+It's Darkness's turn.
+Darkness plays a red skip.
+Your turn is skipped.
+It's Darkness's turn.
+Darkness plays a red 9.
+It's your turn.
+Darkness says: interception!
+Darkness plays a yellow 9.
+It's Darkness's turn.
+Darkness plays a yellow 3.
+Darkness gets 0 points.
+Nikola gets 17 points.
+Scores:
+Darkness: 68.
+Nikola: 115.
+
+Next round in 15 seconds.
+Scores:
+Darkness: 68.
+Nikola: 115.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #4. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 6.
+It's Darkness's turn.
+red 6
+Nikola says: interception!
+You play a green 6.
+It's your turn.
+You play a green skip.
+Darkness's turn is skipped.
+It's your turn.
+You play a green 5.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a green 8.
+It's your turn.
+You play a green 1.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a green reverse.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a green draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's Darkness's turn.
+Darkness plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+yellow
+You play a yellow 8.
+It's Darkness's turn.
+Darkness plays a yellow skip.
+Your turn is skipped.
+It's Darkness's turn.
+Darkness plays a yellow 9.
+It's your turn.
+yellow 9
+You play a yellow 6.
+It's Darkness's turn.
+Darkness plays a yellow 7.
+It's your turn.
+Darkness says: interception!
+Darkness plays a red 7.
+It's Darkness's turn.
+Too late!
+red 7
+Darkness plays a red 3.
+It's your turn.
+You play a red 9.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a wild.
+Darkness wants blue.
+It's your turn.
+You play a blue 5.
+It's Darkness's turn.
+Darkness plays a blue 2.
+It's your turn.
+Darkness says: interception!
+Darkness plays a blue 2.
+It's Darkness's turn.
+Darkness plays a blue 4.
+Darkness gets 0 points.
+Nikola gets 7 points.
+Scores:
+Darkness: 68.
+Nikola: 125.
+
+Next round in 15 seconds.
+Scores:
+Darkness: 68.
+Nikola: 125.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #5. Darkness shuffles the cards and deals 7 to each player.
+Darkness returns the first card of the pile and makes it visible on the table. It is a red 4.
+It's your turn.
+red 4
+You play a red 4.
+It's Darkness's turn.
+You play a red 5.
+It's Darkness's turn.
+Darkness plays a yellow 5.
+It's your turn.
+Darkness plays a yellow 6.
+It's your turn.
+Darkness plays a yellow 7.
+It's your turn.
+yellow 7
+You play a yellow 8.
+It's Darkness's turn.
+Nikola says: interception!
+You play a red 8.
+It's your turn.
+You play a blue 8.
+It's Darkness's turn.
+blue 8
+Darkness draws a card.
+Darkness plays a blue reverse.
+It's Darkness's turn.
+Darkness plays a green reverse.
+It's Darkness's turn.
+Darkness plays a green 9.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You draw a card.
+You play a green skip.
+Darkness's turn is skipped.
+It's your turn.
+You draw a card.
+You play a yellow skip.
+Darkness's turn is skipped.
+It's your turn.
+You play a yellow 2.
+It's Darkness's turn.
+You play a yellow 1.
+It's Darkness's turn.
+Nikola says: uno!
+Darkness plays a yellow draw two.
+It's your turn.
+Darkness says: interception!
+Darkness plays a yellow draw two.
+It's your turn.
+Darkness says: uno!
+You play a blue draw two.
+Darkness draws 6 cards.
+Darkness gets 24 points.
+Nikola gets 0 points.
+Scores:
+Darkness: 92.
+Nikola: 125.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #6. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 7.
+It's Darkness's turn.
+yellow 7
+You play a yellow 8.
+It's Darkness's turn.
+Darkness plays a yellow 1.
+It's your turn.
+yellow 1
+You play a wild draw four.
+Choose a color:
+You want green.
+It's Darkness's turn.
+Darkness draws 4 cards.
+Darkness plays a green reverse.
+It's Darkness's turn.
+Nikola says: interception!
+You play a blue reverse.
+It's your turn.
+Darkness has failed an interception and takes 3 penalty points.
+You play a blue 2.
+It's Darkness's turn.
+Darkness plays a blue 8.
+It's your turn.
+blue 8
+You draw a card.
+You play a blue 1.
+It's Darkness's turn.
+Darkness plays a blue 4.
+It's your turn.
+Darkness says: interception!
+Darkness plays a red 4.
+It's Darkness's turn.
+Darkness plays a yellow 4.
+It's your turn.
+Darkness has failed an interception and takes 3 penalty points.
+yellow 4
+You draw a card.
+You play a yellow 3.
+It's Darkness's turn.
+Darkness plays a yellow 6.
+It's your turn.
+Darkness says: interception!
+Darkness plays a green 6.
+It's Darkness's turn.
+Darkness plays a green 5.
+It's your turn.
+green 5
+You play a green skip.
+Darkness's turn is skipped.
+It's your turn.
+You play a green 9.
+It's Darkness's turn.
+Nikola says: uno!
+Darkness plays a wild.
+Darkness wants blue.
+It's your turn.
+Darkness says: uno!
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness plays a wild draw four.
+You draw 4 cards.
+Darkness gets 0 points.
+Nikola gets 30 points.
+Scores:
+Darkness: 98.
+Nikola: 155.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #7. Darkness shuffles the cards and deals 7 to each player.
+Darkness returns the first card of the pile and makes it visible on the table. It is a yellow 5.
+It's your turn.
+yellow 5
+Darkness plays a yellow 4.
+It's your turn.
+yellow 4
+Darkness says: interception!
+Darkness plays a green 4.
+It's Darkness's turn.
+Darkness plays a green 6.
+It's your turn.
+You can't play that card.
+green 6
+You play a blue 6.
+It's Darkness's turn.
+Darkness plays a blue 8.
+It's your turn.
+You play a blue draw two.
+It's Darkness's turn.
+Darkness draws 2 cards.
+Darkness plays a blue reverse.
+It's Darkness's turn.
+Darkness plays a red reverse.
+It's Darkness's turn.
+Darkness plays a red 5.
+It's your turn.
+Darkness has failed an interception and takes 3 penalty points.
+Darkness has failed an interception and takes 3 penalty points.
+You play a red 4.
+It's Darkness's turn.
+Darkness plays a wild.
+Darkness wants blue.
+It's your turn.
+Darkness says: uno!
+You draw a card.
+You play a blue 1.
+It's Darkness's turn.
+Darkness plays a blue reverse.
+Darkness gets 0 points.
+Nikola gets 16 points.
+Scores:
+Darkness: 104.
+Nikola: 171.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #8. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 5.
+It's Darkness's turn.
+yellow 5
+Darkness plays a red 5.
+It's your turn.
+red 5
+You play a red skip.
+Darkness's turn is skipped.
+It's your turn.
+You play a blue skip.
+Darkness's turn is skipped.
+It's your turn.
+You play a blue 8.
+It's Darkness's turn.
+Darkness plays a blue 9.
+It's your turn.
+You can't play that card.
+You play a blue 1.
+It's Darkness's turn.
+Darkness plays a blue 2.
+It's your turn.
+Darkness says: interception!
+Darkness plays a red 2.
+It's Darkness's turn.
+You play a red 3.
+It's Darkness's turn.
+Darkness plays a red draw two.
+It's your turn.
+You draw 2 cards.
+Darkness says: interception!
+Darkness plays a yellow draw two.
+It's your turn.
+Darkness says: uno!
+You draw 2 cards.
+yellow
+You play a yellow 3.
+It's Darkness's turn.
+Darkness plays a yellow 7.
+Darkness gets 0 points.
+Nikola gets 112 points.
+Scores:
+Darkness: 104.
+Nikola: 283.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #9. Darkness shuffles the cards and deals 7 to each player.
+Darkness returns the first card of the pile and makes it visible on the table. It is a red 7.
+It's your turn.
+red 7
+You play a red 2.
+It's Darkness's turn.
+Darkness plays a red 1.
+It's your turn.
+red
+You play a wild.
+Choose a color:
+You want blue.
+It's Darkness's turn.
+Darkness plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+You play a blue 7.
+It's Darkness's turn.
+Darkness plays a wild.
+Darkness wants yellow.
+It's your turn.
+You play a yellow 3.
+It's Darkness's turn.
+Nikola says: interception!
+You play a red 3.
+It's your turn.
+Darkness has failed an interception and takes 3 penalty points.
+You play a red 5.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a red reverse.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want yellow.
+It's Darkness's turn.
+Darkness draws 4 cards.
+Darkness plays a yellow skip.
+Your turn is skipped.
+It's Darkness's turn.
+Darkness plays a yellow 9.
+It's your turn.
+Darkness says: interception!
+Darkness plays a blue 9.
+It's Darkness's turn.
+Too late!
+blue 9
+You play a blue 0.
+It's Darkness's turn.
+Nikola says: uno!
+Darkness plays a blue 1.
+It's your turn.
+Darkness says: interception!
+Darkness plays a yellow 1.
+It's Darkness's turn.
+Nikola says: interception!
+You play a yellow 1.
+Darkness gets 13 points.
+Nikola gets 0 points.
+Scores:
+Darkness: 120.
+Nikola: 286.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #10. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 0.
+It's Darkness's turn.
+yellow 0
+Darkness plays a blue 0.
+It's your turn.
+Darkness has failed an interception and takes 3 penalty points.
+blue
+You play a blue reverse.
+It's your turn.
+You play a blue draw two.
+It's Darkness's turn.
+Darkness draws 2 cards.
+Darkness plays a blue 8.
+It's your turn.
+Darkness says: interception!
+Darkness plays a green 8.
+It's Darkness's turn.
+green 8
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+Darkness has failed an interception and takes 3 penalty points.
+Darkness has failed an interception and takes 3 penalty points.
+You play a wild.
+Choose a color:
+You want yellow.
+It's Darkness's turn.
+Darkness plays a yellow 9.
+It's your turn.
+You play a yellow 7.
+It's Darkness's turn.
+Nikola says: interception!
+You play a green 7.
+It's your turn.
+You play a green 6.
+Darkness gets 21 points.
+Nikola gets 0 points.
+Scores:
+Darkness: 150.
+Nikola: 286.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #11. Darkness shuffles the cards and deals 7 to each player.
+Darkness returns the first card of the pile and makes it visible on the table. It is a red 7.
+It's your turn.
+red 7
+You play a red 0.
+It's Darkness's turn.
+Darkness plays a red 8.
+It's your turn.
+Darkness says: interception!
+Darkness plays a yellow 8.
+It's Darkness's turn.
+yellow 8
+Darkness plays a yellow reverse.
+It's Darkness's turn.
+Darkness plays a yellow skip.
+Your turn is skipped.
+It's Darkness's turn.
+Nikola says: interception!
+You play a red skip.
+Darkness's turn is skipped.
+It's your turn.
+Darkness has failed an interception and takes 3 penalty points.
+You play a blue skip.
+Darkness's turn is skipped.
+It's your turn.
+You play a blue 6.
+It's Darkness's turn.
+Darkness plays a blue 4.
+It's your turn.
+You play a blue 1.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You play a wild.
+Choose a color:
+You want blue.
+It's Darkness's turn.
+Nikola says: uno!
+Darkness draws a card.
+Darkness plays a blue 9.
+It's your turn.
+You play a wild draw four.
+Darkness draws 4 cards.
+Darkness gets 156 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 286.
+Darkness: 309.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #12. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 0.
+It's Darkness's turn.
+yellow 0
+Nikola says: interception!
+You play a blue 0.
+It's your turn.
+Darkness has failed an interception and takes 3 penalty points.
+You play a blue 4.
+It's Darkness's turn.
+Nikola says: interception!
+You play a green 4.
+It's your turn.
+You play a green 2.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness plays a blue 2.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness plays a blue 8.
+It's your turn.
+Darkness plays a blue 9.
+It's your turn.
+Darkness says: interception!
+Darkness plays a red 9.
+It's Darkness's turn.
+red 9
+Darkness plays a red 7.
+It's your turn.
+You play a red draw two.
+It's Darkness's turn.
+Darkness plays a yellow draw two.
+It's your turn.
+You draw 4 cards.
+You play a yellow reverse.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a red 4.
+It's Darkness's turn.
+Too late!
+Too late!
+Darkness draws a card.
+Darkness can't play.
+It's your turn.
+You play a red 3.
+It's Darkness's turn.
+Nikola says: interception!
+You play a green 3.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Darkness's turn.
+Nikola says: uno!
+Darkness draws 4 cards.
+Darkness plays a blue 3.
+It's your turn.
+Darkness plays a blue 2.
+It's your turn.
+You play a blue 7.
+Darkness gets 68 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 292.
+Darkness: 380.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #13. Darkness shuffles the cards and deals 7 to each player.
+Darkness returns the first card of the pile and makes it visible on the table. It is a red 5.
+It's your turn.
+red 5
+Darkness has failed an interception and takes 3 penalty points.
+You play a red draw two.
+It's Darkness's turn.
+Darkness draws 2 cards.
+Darkness plays a red 2.
+It's your turn.
+You play a green 2.
+It's Darkness's turn.
+You play a green 3.
+It's Darkness's turn.
+Nikola says: interception!
+You play a blue 3.
+It's your turn.
+You play a yellow 3.
+It's Darkness's turn.
+Darkness plays a yellow 4.
+It's your turn.
+Darkness plays a yellow 5.
+It's your turn.
+You play a yellow 8.
+It's Darkness's turn.
+Nikola says: uno!
+Darkness plays a yellow 1.
+It's your turn.
+You play a wild draw four.
+Darkness draws 4 cards.
+Darkness gets 73 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 292.
+Darkness: 456.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #14. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 6.
+It's Darkness's turn.
+blue 6
+Nikola says: interception!
+You play a blue 6.
+It's your turn.
+Darkness says: interception!
+Darkness plays a yellow 6.
+It's Darkness's turn.
+Too late!
+Darkness plays a green 6.
+It's your turn.
+green 6
+You play a green 2.
+It's Darkness's turn.
+Darkness draws a card.
+Darkness draws a card.
+Darkness draws a card.
+It's your turn.
+You play a green 8.
+It's Darkness's turn.
+Darkness plays a green 0.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Darkness's turn.
+Darkness draws 4 cards.
+Darkness plays a wild.
+Darkness wants red.
+It's your turn.
+You draw a card.
+You play a red skip.
+Darkness's turn is skipped.
+It's your turn.
+You draw a card.
+You can't play.
+It's Darkness's turn.
+Darkness plays a red reverse.
+It's Darkness's turn.
+Darkness plays a red 9.
+It's your turn.
+Darkness says: interception!
+Darkness plays a green 9.
+It's Darkness's turn.
+Darkness plays a yellow 9.
+It's your turn.
+You can't play that card.
+yellow 9
+You play a yellow 4.
+It's Darkness's turn.
+Darkness plays a blue 4.
+It's your turn.
+Darkness says: interception!
+Darkness plays a red 4.
+It's Darkness's turn.
+Darkness plays a red 5.
+It's your turn.
+red 5
+You draw a card.
+You play a red 0.
+It's Darkness's turn.
+Darkness plays a red 2.
+It's your turn.
+You draw a card.
+You play a red 1.
+It's Darkness's turn.
+Darkness plays a red 7.
+It's your turn.
+Darkness says: interception!
+Darkness plays a blue 7.
+Darkness gets 0 points.
+Nikola gets 31 points.
+Scores:
+Nikola: 326.
+Darkness: 456.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 326.
+Darkness: 456.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #15. Darkness shuffles the cards and deals 7 to each player.
+Darkness returns the first card of the pile and makes it visible on the table. It is a red 9.
+It's your turn.
+red 9
+You play a red 1.
+It's Darkness's turn.
+You play a red 2.
+It's Darkness's turn.
+You play a red 3.
+It's Darkness's turn.
+Darkness plays a red 4.
+It's your turn.
+Darkness says: interception!
+Darkness plays a yellow 4.
+It's Darkness's turn.
+yellow
+Darkness plays a yellow 2.
+It's your turn.
+Darkness says: interception!
+Darkness plays a blue 2.
+It's Darkness's turn.
+Darkness plays a blue 2.
+It's your turn.
+blue 2
+You play a blue reverse.
+It's your turn.
+You play a blue 8.
+It's Darkness's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+You play a wild draw four.
+Darkness draws 4 cards.
+Darkness gets 66 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 326.
+Darkness: 522.
+
+Darkness has reached the score limit of 500 points and is now out of the game.
+You are the winner!
+The table is now open for new players.
