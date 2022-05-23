@@ -1,0 +1,1109 @@
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 7.
+It's TheGirlNextDoor's turn.
+Your cards are now sorted by ascending number.
+blue 7
+Nikola says: interception!
+You play a blue 7.
+It's your turn.
+You play a blue 1.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue 6.
+It's your turn.
+You play a red 6.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red 4.
+It's your turn.
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You can't play that card.
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a green 4.
+It's TheGirlNextDoor's turn.
+green 4
+You play a green 5.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a green 7.
+It's your turn.
+You play a green reverse.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a blue reverse.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow reverse.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 3.
+It's your turn.
+TheGirlNextDoor plays a yellow 2.
+Nikola gets 28 points.
+TheGirlNextDoor gets 0 points.
+Scores:
+TheGirlNextDoor: 6.
+Nikola: 28.
+
+Next round in 15 seconds.
+Scores:
+TheGirlNextDoor: 6.
+Nikola: 28.
+The score limit is fixed to 500 points.
+Pause. Press Shift+P to start the next round.
+Round #2. TheGirlNextDoor shuffles the cards and deals 7 to each player.
+TheGirlNextDoor returns the first card of the pile and makes it visible on the table. It is a green 5.
+It's your turn.
+green 5
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a red 5.
+It's TheGirlNextDoor's turn.
+You play a red 6.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red 1.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a green 1.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 7.
+It's your turn.
+You play a yellow 7.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow skip.
+Your turn is skipped.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue skip.
+Your turn is skipped.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue 2.
+It's your turn.
+TheGirlNextDoor says: uno!
+blue 2
+You play a blue 3.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a wild draw four.
+You draw 4 cards.
+Nikola gets 48 points.
+TheGirlNextDoor gets 0 points.
+Scores:
+TheGirlNextDoor: 9.
+Nikola: 76.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #3. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 4.
+It's TheGirlNextDoor's turn.
+red 4
+Nikola says: interception!
+You play a green 4.
+It's your turn.
+You play a green 3.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 7.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a yellow 7.
+It's TheGirlNextDoor's turn.
+yellow 7
+TheGirlNextDoor plays a yellow 9.
+It's your turn.
+You play a yellow 2.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a blue 2.
+It's your turn.
+You play a blue skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+You play a red skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a wild draw four.
+TheGirlNextDoor draws 4 cards.
+Nikola gets 0 points.
+TheGirlNextDoor gets 119 points.
+Scores:
+Nikola: 76.
+TheGirlNextDoor: 131.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #4. TheGirlNextDoor shuffles the cards and deals 7 to each player.
+TheGirlNextDoor returns the first card of the pile and makes it visible on the table. It is a blue 7.
+It's your turn.
+blue 7
+You can't play that card.
+TheGirlNextDoor plays a blue 6.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a yellow 6.
+It's TheGirlNextDoor's turn.
+yellow 6
+TheGirlNextDoor plays a yellow 3.
+It's your turn.
+yellow
+You play a wild.
+Choose a color:
+You want red.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a wild.
+TheGirlNextDoor wants yellow.
+It's your turn.
+You play a yellow 2.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red 2.
+It's your turn.
+You play a red draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green draw two.
+It's your turn.
+You draw 4 cards.
+TheGirlNextDoor says: uno!
+You play a blue draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 2 cards.
+TheGirlNextDoor plays a blue skip.
+Your turn is skipped.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a blue 8.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a yellow 8.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 4 cards.
+TheGirlNextDoor plays a green reverse.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 7.
+It's your turn.
+You play a green 9.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You play a red 4.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor plays a green 4.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a yellow 4.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 5.
+It's your turn.
+You play a blue 5.
+Nikola gets 0 points.
+TheGirlNextDoor gets 50 points.
+Scores:
+Nikola: 76.
+TheGirlNextDoor: 181.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #5. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 4.
+It's TheGirlNextDoor's turn.
+red 4
+TheGirlNextDoor plays a blue 4.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a green 4.
+It's TheGirlNextDoor's turn.
+green
+TheGirlNextDoor plays a green 4.
+It's your turn.
+TheGirlNextDoor plays a green 5.
+It's your turn.
+green 5
+You play a green 2.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a yellow 2.
+It's your turn.
+You play a yellow 6.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a red 6.
+It's your turn.
+You play a wild.
+Choose a color:
+You want blue.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a wild.
+TheGirlNextDoor wants red.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor draws 4 cards.
+TheGirlNextDoor plays a blue 0.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a green 0.
+It's TheGirlNextDoor's turn.
+Too late!
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a green skip.
+Your turn is skipped.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red skip.
+Your turn is skipped.
+It's TheGirlNextDoor's turn.
+red skip
+TheGirlNextDoor plays a red reverse.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue reverse.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a red reverse.
+It's TheGirlNextDoor's turn.
+red reverse
+TheGirlNextDoor plays a red 6.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a yellow 6.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 2.
+Nikola gets 49 points.
+TheGirlNextDoor gets 0 points.
+Scores:
+Nikola: 128.
+TheGirlNextDoor: 181.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 128.
+TheGirlNextDoor: 181.
+The score limit is fixed to 500 points.
+Pause. Press Shift+P to start the next round.
+Round #6. TheGirlNextDoor shuffles the cards and deals 7 to each player.
+TheGirlNextDoor returns the first card of the pile and makes it visible on the table. It is a blue 4.
+It's your turn.
+blue 4
+You play a blue 3.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue 5.
+It's your turn.
+You play a green 5.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a yellow 5.
+It's your turn.
+You play a yellow 9.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 9.
+It's your turn.
+green 9
+You play a green 0.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 3.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a yellow 3.
+It's TheGirlNextDoor's turn.
+yellow 3
+TheGirlNextDoor plays a yellow 4.
+It's your turn.
+You play a red 4.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor plays a wild draw four.
+TheGirlNextDoor wants green.
+It's your turn.
+You draw 4 cards.
+TheGirlNextDoor says: uno!
+green
+You play a wild.
+Choose a color:
+You want yellow.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 7.
+Nikola gets 22 points.
+TheGirlNextDoor gets 0 points.
+Scores:
+Nikola: 150.
+TheGirlNextDoor: 181.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 150.
+TheGirlNextDoor: 181.
+The score limit is fixed to 500 points.
+Pause. Press Shift+P to start the next round.
+Round #7. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 5.
+It's TheGirlNextDoor's turn.
+yellow 5
+TheGirlNextDoor plays a yellow 1.
+It's your turn.
+yellow
+You play a wild.
+Choose a color:
+You want green.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green draw two.
+It's your turn.
+You play a blue draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green draw two.
+It's your turn.
+You draw 6 cards.
+green
+You play a green reverse.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a red 8.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue 8.
+It's your turn.
+You can't play that card.
+You can't play that card.
+You play a blue 6.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a green 6.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a wild draw four.
+TheGirlNextDoor wants yellow.
+It's your turn.
+You draw 4 cards.
+yellow
+You play a yellow 9.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 9.
+It's your turn.
+TheGirlNextDoor says: uno!
+You play a yellow 7.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a red 7.
+It's your turn.
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a red 3.
+It's TheGirlNextDoor's turn.
+You play a red 4.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a blue 4.
+It's your turn.
+You play a green 4.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a green 5.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a yellow 5.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor says: uno!
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a wild.
+TheGirlNextDoor wants red.
+It's your turn.
+You play a red 2.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a blue 2.
+It's your turn.
+You play a blue skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+You play a blue skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+You play a blue draw two.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor plays a red draw two.
+It's your turn.
+You draw 4 cards.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red 0.
+It's your turn.
+TheGirlNextDoor says: uno!
+red
+red 0
+You play a blue 0.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue 1.
+Nikola gets 29 points.
+TheGirlNextDoor gets 0 points.
+Scores:
+Nikola: 179.
+TheGirlNextDoor: 184.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 179.
+TheGirlNextDoor: 184.
+The score limit is fixed to 500 points.
+Pause. Press Shift+P to start the next round.
+Round #8. TheGirlNextDoor shuffles the cards and deals 7 to each player.
+TheGirlNextDoor returns the first card of the pile and makes it visible on the table. It is a blue 8.
+It's your turn.
+blue 8
+You play a wild draw four.
+Choose a color:
+You want yellow.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 4 cards.
+TheGirlNextDoor plays a yellow 4.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a yellow draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 2 cards.
+TheGirlNextDoor plays a yellow 6.
+It's your turn.
+You play a yellow 4.
+It's TheGirlNextDoor's turn.
+You play a yellow 5.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a red 5.
+It's your turn.
+You play a red 1.
+Nikola gets 0 points.
+TheGirlNextDoor gets 35 points.
+Scores:
+Nikola: 179.
+TheGirlNextDoor: 222.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #9. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 2.
+It's TheGirlNextDoor's turn.
+yellow 2
+TheGirlNextDoor plays a red 2.
+It's your turn.
+red
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a red skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+You play a green skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+You play a green draw two.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a blue draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 4 cards.
+Nikola says: interception!
+You play a red draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 2 cards.
+TheGirlNextDoor plays a red 7.
+It's your turn.
+You play a red 9.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You play a red 1.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor plays a yellow 1.
+It's your turn.
+TheGirlNextDoor plays a yellow 2.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a blue 2.
+It's TheGirlNextDoor's turn.
+blue 2
+TheGirlNextDoor plays a blue 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a wild.
+TheGirlNextDoor wants blue.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a blue 5.
+It's your turn.
+You draw a card.
+You play a blue 1.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a red 1.
+It's your turn.
+You play a red 8.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a yellow 8.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 8.
+It's your turn.
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a green 3.
+It's TheGirlNextDoor's turn.
+You play a green 2.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor plays a green skip.
+Your turn is skipped.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a blue skip.
+TheGirlNextDoor's turn is skipped.
+Nikola gets 0 points.
+TheGirlNextDoor gets 45 points.
+Scores:
+Nikola: 179.
+TheGirlNextDoor: 273.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #10. TheGirlNextDoor shuffles the cards and deals 7 to each player.
+TheGirlNextDoor returns the first card of the pile and makes it visible on the table. It is a red 9.
+It's your turn.
+red 9
+You play a red 8.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a wild.
+TheGirlNextDoor wants green.
+It's your turn.
+You play a wild.
+Choose a color:
+You want green.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 7.
+It's your turn.
+You play a green 9.
+It's TheGirlNextDoor's turn.
+You play a green 0.
+It's TheGirlNextDoor's turn.
+You play a green 1.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 9.
+It's your turn.
+green 9
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 5.
+It's your turn.
+TheGirlNextDoor plays a green 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green draw two.
+It's your turn.
+You play a blue draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 4 cards.
+TheGirlNextDoor plays a blue 8.
+It's your turn.
+You play a blue 7.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a blue 2.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+blue
+You draw a card.
+You play a yellow 2.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor plays a yellow 4.
+It's your turn.
+TheGirlNextDoor plays a yellow 3.
+It's your turn.
+You play a yellow 5.
+Nikola gets 0 points.
+TheGirlNextDoor gets 75 points.
+Scores:
+Nikola: 179.
+TheGirlNextDoor: 348.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #11. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 6.
+It's TheGirlNextDoor's turn.
+green 6
+You play a green 5.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a wild.
+TheGirlNextDoor wants yellow.
+It's your turn.
+yellow
+You play a yellow draw two.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a red draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red draw two.
+It's your turn.
+You play a green draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow draw two.
+It's your turn.
+You draw 10 cards.
+yellow
+You play a blue draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 2 cards.
+TheGirlNextDoor plays a blue 2.
+It's your turn.
+You play a blue skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+You play a blue 7.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a green 7.
+It's your turn.
+You play a green 2.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a red 3.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red 3.
+It's your turn.
+You play a red 6.
+It's TheGirlNextDoor's turn.
+You play a red 5.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 5.
+It's your turn.
+You play a yellow 9.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow reverse.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 1.
+It's your turn.
+You play a yellow 2.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor says: uno!
+TheGirlNextDoor plays a wild draw four.
+You draw 4 cards.
+Nikola gets 23 points.
+TheGirlNextDoor gets 0 points.
+Scores:
+Nikola: 202.
+TheGirlNextDoor: 348.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #12. TheGirlNextDoor shuffles the cards and deals 7 to each player.
+TheGirlNextDoor returns the first card of the pile and makes it visible on the table. It is a yellow 5.
+It's your turn.
+yellow 5
+You play a yellow 2.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue 2.
+It's your turn.
+blue 2
+You play a blue 5.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a wild.
+TheGirlNextDoor wants red.
+It's your turn.
+You play a red reverse.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a yellow 8.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a green 8.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a green 3.
+It's your turn.
+You play a red 3.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor plays a wild draw four.
+TheGirlNextDoor wants green.
+It's your turn.
+You draw 4 cards.
+You can't play.
+It's TheGirlNextDoor's turn.
+green
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You draw a card.
+You play a green 6.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue 6.
+It's your turn.
+TheGirlNextDoor plays a blue 7.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a red 7.
+It's TheGirlNextDoor's turn.
+Too late!
+red 7
+TheGirlNextDoor plays a red 4.
+It's your turn.
+red 4
+You play a red 5.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a yellow 5.
+It's your turn.
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a yellow 7.
+It's TheGirlNextDoor's turn.
+yellow 7
+TheGirlNextDoor plays a yellow draw two.
+It's your turn.
+TheGirlNextDoor says: uno!
+You draw 2 cards.
+yellow
+yellow
+You play a green draw two.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a yellow draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 4 cards.
+TheGirlNextDoor plays a wild draw four.
+TheGirlNextDoor wants red.
+It's your turn.
+You say: You're bluffing!
+TheGirlNextDoor is not bluffing... you must draw 2 more cards.
+You draw 6 cards.
+You play a red skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a wild.
+Choose a color:
+You want blue.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a blue draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 2 cards.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a blue 9.
+It's TheGirlNextDoor's turn.
+Too late!
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a blue 5.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a blue reverse.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a blue 0.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a red 0.
+It's your turn.
+You play a red 1.
+It's TheGirlNextDoor's turn.
+You play a red 2.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor plays a green 2.
+It's your turn.
+You play a wild draw four.
+TheGirlNextDoor draws 4 cards.
+Nikola gets 0 points.
+TheGirlNextDoor gets 99 points.
+Scores:
+Nikola: 208.
+TheGirlNextDoor: 453.
+
+Next round in 15 seconds.
+Pause. Press Shift+P to start the next round.
+Round #13. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 8.
+It's TheGirlNextDoor's turn.
+blue 8
+TheGirlNextDoor plays a blue 5.
+It's your turn.
+blue 5
+You play a blue 3.
+It's TheGirlNextDoor's turn.
+You play a blue 4.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red 4.
+It's your turn.
+red 4
+red 4
+red 4
+red
+You draw a card.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a red 2.
+It's your turn.
+red
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a red reverse.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 4 cards.
+TheGirlNextDoor plays a green draw two.
+It's your turn.
+You play a blue draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red draw two.
+It's your turn.
+You draw 6 cards.
+red
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+You play a yellow draw two.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws 2 cards.
+TheGirlNextDoor plays a yellow reverse.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 5.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a green 5.
+It's TheGirlNextDoor's turn.
+green 5
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a green skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+You play a red skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+You play a red 9.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue 9.
+It's your turn.
+You play a blue 6.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a yellow 6.
+It's your turn.
+You play a yellow 8.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a green 8.
+It's your turn.
+TheGirlNextDoor has failed an interception and takes 3 penalty points.
+You play a green 2.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a green draw two.
+It's your turn.
+You draw 2 cards.
+green
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a red draw two.
+It's your turn.
+You draw 2 cards.
+red
+You play a wild.
+Choose a color:
+You want green.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a green skip.
+TheGirlNextDoor's turn is skipped.
+It's your turn.
+You draw a card.
+You can't play.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a wild.
+TheGirlNextDoor wants yellow.
+It's your turn.
+wild
+You play a yellow 8.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 7.
+It's your turn.
+You play a yellow 6.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a yellow 3.
+It's your turn.
+You draw a card.
+You play a red 3.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a red 5.
+It's your turn.
+red 5
+You can't play that card.
+You play a blue 5.
+It's TheGirlNextDoor's turn.
+Nobody has uno!
+TheGirlNextDoor plays a blue 1.
+It's your turn.
+TheGirlNextDoor plays a blue 0.
+Nikola gets 6 points.
+TheGirlNextDoor gets 0 points.
+Scores:
+Nikola: 214.
+TheGirlNextDoor: 459.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 214.
+TheGirlNextDoor: 459.
+The score limit is fixed to 500 points.
+Pause. Press Shift+P to start the next round.
+Round #14. TheGirlNextDoor shuffles the cards and deals 7 to each player.
+TheGirlNextDoor returns the first card of the pile and makes it visible on the table. It is a blue 0.
+It's your turn.
+blue 0
+blue 0
+You play a blue 3.
+It's TheGirlNextDoor's turn.
+TheGirlNextDoor plays a blue 8.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a green 8.
+It's TheGirlNextDoor's turn.
+Too late!
+green 8
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a yellow 8.
+It's TheGirlNextDoor's turn.
+You play a yellow 9.
+It's TheGirlNextDoor's turn.
+Nikola says: interception!
+You play a blue 9.
+It's your turn.
+TheGirlNextDoor says: interception!
+TheGirlNextDoor plays a blue 9.
+It's TheGirlNextDoor's turn.
+Too late!
+Too late!
+blue
+TheGirlNextDoor draws a card.
+TheGirlNextDoor can't play.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a blue 6.
+It's TheGirlNextDoor's turn.
+Nikola says: uno!
+TheGirlNextDoor draws a card.
+TheGirlNextDoor plays a wild.
+TheGirlNextDoor wants yellow.
+It's your turn.
+You play a wild draw four.
+TheGirlNextDoor draws 4 cards.
+Nikola gets 0 points.
+TheGirlNextDoor gets 122 points.
+Scores:
+Nikola: 223.
+TheGirlNextDoor: 581.
+
+TheGirlNextDoor has reached the score limit of 500 points and is now out of the game.
+You are the winner!
+The table is now open for new players.
