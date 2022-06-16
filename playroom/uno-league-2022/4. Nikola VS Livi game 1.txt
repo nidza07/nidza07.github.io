@@ -1,0 +1,1470 @@
+The game starts.
++2 and +4 responses are allowed.
+Straights are allowed.
+Interceptions are allowed.
+Super interceptions are allowed.
+Bluff is allowed.
+The score limit is fixed to 500 points.
+Round #1. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a green 3.
+It's your turn.
+Your cards are now sorted by ascending number.
+green 3
+You draw a card.
+Livi has failed an interception and takes 3 penalty points.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Livi's turn.
+Livi draws 4 cards.
+Livi plays a blue draw two.
+It's your turn.
+You draw 2 cards.
+blue
+Livi says: interception!
+Livi plays a green draw two.
+It's your turn.
+You draw 2 cards.
+green
+green
+You play a green 7.
+It's Livi's turn.
+Nikola says: interception!
+You play a blue 7.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a blue 6.
+It's Livi's turn.
+Nikola says: interception!
+You play a red 6.
+It's your turn.
+You play a red 7.
+It's Livi's turn.
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+Livi says: interception!
+Livi plays a yellow 7.
+It's Livi's turn.
+Livi plays a yellow 8.
+It's your turn.
+You play a yellow 4.
+It's Livi's turn.
+You play a yellow 5.
+It's Livi's turn.
+Nikola says: interception!
+You play a red 5.
+It's your turn.
+You play a blue 5.
+Livi gets 46 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 0.
+Livi: 49.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 0.
+Livi: 49.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #2. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 1.
+It's Livi's turn.
+yellow 1
+Livi plays a yellow 2.
+It's your turn.
+yellow 2
+You play a yellow 9.
+It's Livi's turn.
+Livi plays a yellow 8.
+It's your turn.
+Livi says: interception!
+Livi plays a red 8.
+It's Livi's turn.
+Livi plays a red 9.
+It's your turn.
+You can't play that card.
+red 9
+You play a red 3.
+It's Livi's turn.
+Nikola says: interception!
+You play a blue 3.
+It's your turn.
+You can't play that card.
+You play a blue 2.
+It's Livi's turn.
+Nikola says: interception!
+You play a red 2.
+It's your turn.
+You play a green 2.
+It's Livi's turn.
+Nikola says: uno!
+Livi plays a green 6.
+It's your turn.
+Livi says: interception!
+Livi plays a blue 6.
+It's Livi's turn.
+Livi plays a blue 4.
+Livi gets 0 points.
+Nikola gets 4 points.
+Scores:
+Nikola: 4.
+Livi: 49.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 4.
+Livi: 49.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #3. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a red 6.
+It's your turn.
+red 6
+You play a green 6.
+It's Livi's turn.
+Livi plays a green 7.
+It's your turn.
+Livi says: interception!
+Livi plays a red 7.
+It's Livi's turn.
+Too late!
+red 7
+Livi plays a wild.
+Livi wants blue.
+It's your turn.
+You play a blue 4.
+It's Livi's turn.
+You play a blue 3.
+It's Livi's turn.
+Livi plays a blue 1.
+It's your turn.
+Livi plays a blue 2.
+It's your turn.
+Livi says: interception!
+Livi plays a green 2.
+It's Livi's turn.
+Livi says: uno!
+Livi draws a card.
+green 2
+Livi plays a green skip.
+Your turn is skipped.
+It's Livi's turn.
+Livi says: uno!
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You play a green draw two.
+It's Livi's turn.
+Livi draws 2 cards.
+Livi plays a green 4.
+It's your turn.
+Livi says: interception!
+Livi plays a yellow 4.
+It's Livi's turn.
+Livi plays a wild.
+Livi wants red.
+It's your turn.
+Livi says: uno!
+You play a red reverse.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a yellow 8.
+Livi gets 8 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 7.
+Livi: 57.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #4. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 8.
+It's Livi's turn.
+yellow 8
+Livi plays a yellow 9.
+It's your turn.
+yellow 9
+You play a yellow 5.
+It's Livi's turn.
+Nikola says: interception!
+You play a green 5.
+It's your turn.
+You play a green skip.
+Livi's turn is skipped.
+It's your turn.
+You play a red skip.
+Livi's turn is skipped.
+It's your turn.
+You play a red 7.
+It's Livi's turn.
+Too late!
+red 7
+Livi plays a green 7.
+It's your turn.
+green 7
+You play a green 4.
+It's Livi's turn.
+Nikola says: uno!
+Livi plays a green 1.
+It's your turn.
+You play a green 2.
+Livi gets 78 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 10.
+Livi: 135.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #5. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a green 7.
+It's your turn.
+green 7
+You play a green 3.
+It's Livi's turn.
+Livi plays a green skip.
+Your turn is skipped.
+It's Livi's turn.
+Livi plays a green 5.
+It's your turn.
+Livi says: interception!
+Livi plays a red 5.
+It's Livi's turn.
+Livi plays a red 4.
+It's your turn.
+red 4
+You play a red 4.
+It's Livi's turn.
+Livi plays a red 6.
+It's your turn.
+You play a green 6.
+It's Livi's turn.
+Livi draws a card.
+Livi plays a blue 6.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You draw a card.
+You play a blue skip.
+Livi's turn is skipped.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a blue draw two.
+It's your turn.
+Livi says: uno!
+You can't play that card.
+You play a yellow draw two.
+It's Livi's turn.
+Livi draws 4 cards.
+Livi plays a yellow 7.
+It's your turn.
+You play a yellow 5.
+It's Livi's turn.
+You play a yellow 4.
+It's Livi's turn.
+Nikola says: uno!
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You play a yellow 0.
+Livi gets 27 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 10.
+Livi: 162.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #6. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 2.
+It's Livi's turn.
+green 2
+Nikola says: interception!
+You play a blue 2.
+It's your turn.
+Livi says: interception!
+Livi plays a yellow 2.
+It's Livi's turn.
+yellow 2
+It's Livi's turn.
+Livi plays a yellow 8.
+It's your turn.
+You play a yellow draw two.
+It's Livi's turn.
+Livi draws 2 cards.
+Livi plays a wild.
+Livi wants blue.
+It's your turn.
+You play a wild.
+Choose a color:
+It's Nikola's turn.
+You want yellow.
+It's Livi's turn.
+Livi plays a yellow 9.
+It's your turn.
+You play a yellow 8.
+It's Livi's turn.
+Livi plays a wild.
+Livi wants blue.
+It's your turn.
+You play a blue 7.
+It's Livi's turn.
+Livi plays a blue skip.
+Your turn is skipped.
+It's Livi's turn.
+Livi plays a blue 6.
+It's your turn.
+blue 6
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a blue 3.
+It's your turn.
+Livi says: uno!
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a blue 0.
+Livi gets 0 points.
+Nikola gets 14 points.
+Scores:
+Nikola: 24.
+Livi: 162.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 24.
+Livi: 162.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #7. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a red 5.
+It's your turn.
+red 5
+You play a red 3.
+It's Livi's turn.
+Livi plays a red reverse.
+It's Livi's turn.
+Livi draws a card.
+Livi plays a wild.
+Livi wants blue.
+It's your turn.
+You can't play that card.
+blue
+You play a blue draw two.
+It's Livi's turn.
+Livi plays a yellow draw two.
+It's your turn.
+You draw 4 cards.
+You play a yellow skip.
+Livi's turn is skipped.
+It's your turn.
+You play a green skip.
+Livi's turn is skipped.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You draw a card.
+You play a yellow 1.
+It's Livi's turn.
+Livi plays a yellow 3.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a yellow 8.
+It's your turn.
+Livi plays a yellow 9.
+It's your turn.
+Livi says: interception!
+Livi plays a blue 9.
+It's Livi's turn.
+Livi says: uno!
+blue 9
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You play a green 9.
+It's Livi's turn.
+Livi plays a green 7.
+It's your turn.
+Livi says: uno!
+green 7
+You play a green 2.
+It's Livi's turn.
+Livi plays a yellow 2.
+Livi gets 0 points.
+Nikola gets 14 points.
+Scores:
+Nikola: 38.
+Livi: 162.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #8. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 2.
+It's Livi's turn.
+red 2
+You play a red 1.
+It's Livi's turn.
+Nikola says: interception!
+You play a blue 1.
+It's your turn.
+You play a green 1.
+It's Livi's turn.
+Livi plays a green 8.
+It's your turn.
+Livi says: interception!
+Livi plays a blue 8.
+It's Livi's turn.
+Livi plays a blue 5.
+It's your turn.
+blue 5
+You play a blue skip.
+Livi's turn is skipped.
+It's your turn.
+You play a wild.
+Choose a color:
+You want red.
+It's Livi's turn.
+Livi plays a red skip.
+Your turn is skipped.
+It's Livi's turn.
+Livi plays a green skip.
+Your turn is skipped.
+It's Livi's turn.
+green skip
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want red.
+It's Livi's turn.
+Nikola says: uno!
+Livi draws 4 cards.
+Livi plays a red 6.
+It's your turn.
+You play a red 5.
+Livi gets 41 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 38.
+Livi: 203.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #9. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a blue 3.
+It's your turn.
+blue 3
+You draw a card.
+You play a blue 2.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You play a yellow 2.
+It's Livi's turn.
+yellow 2
+yellow
+Livi plays a yellow 6.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+You can't play.
+It's Livi's turn.
+yellow
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You play a yellow draw two.
+It's Livi's turn.
+Livi draws 2 cards.
+Livi can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You play a yellow 7.
+It's Livi's turn.
+Nikola says: interception!
+You play a red 7.
+It's your turn.
+red 7
+You can't play that card.
+Livi says: interception!
+Livi plays a green 7.
+It's Livi's turn.
+green 7
+You play a green 8.
+It's Livi's turn.
+Livi plays a green 0.
+It's your turn.
+Livi says: interception!
+Livi plays a red 0.
+It's Livi's turn.
+Livi plays a red 1.
+It's your turn.
+You can't play that card.
+You can't play that card.
+red 1
+You play a red skip.
+Livi's turn is skipped.
+It's your turn.
+Livi has failed an interception and takes 3 penalty points.
+You play a green skip.
+Livi's turn is skipped.
+It's your turn.
+You play a green 7.
+It's Livi's turn.
+You play a green 6.
+It's Livi's turn.
+Livi plays a green 9.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a green 5.
+It's your turn.
+You play a red 5.
+It's Livi's turn.
+You play a red 4.
+It's Livi's turn.
+Livi plays a red reverse.
+It's Livi's turn.
+Livi plays a red 6.
+It's your turn.
+You play a red 8.
+It's Livi's turn.
+Nikola says: uno!
+Livi plays a red 1.
+It's your turn.
+Livi says: uno!
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi plays a wild.
+Livi wants blue.
+It's your turn.
+Livi says: uno!
+You play a blue reverse.
+It's your turn.
+You play a blue 7.
+Livi gets 3 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 38.
+Livi: 209.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #10. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 7.
+It's Livi's turn.
+green 7
+Nikola says: interception!
+You play a yellow 7.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Livi's turn.
+Livi draws 4 cards.
+Livi plays a blue 2.
+It's your turn.
+Livi says: interception!
+Livi plays a red 2.
+It's Livi's turn.
+Livi plays a yellow 2.
+It's your turn.
+yellow 2
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a yellow skip.
+Your turn is skipped.
+It's Livi's turn.
+Livi plays a yellow draw two.
+It's your turn.
+You play a blue draw two.
+It's Livi's turn.
+Nikola says: interception!
+You play a red draw two.
+It's Livi's turn.
+Livi plays a green draw two.
+It's your turn.
+You draw 8 cards.
+green
+You play a green 2.
+It's Livi's turn.
+Livi plays a green 1.
+It's your turn.
+green 1
+You play a blue 1.
+It's Livi's turn.
+Nikola says: interception!
+You play a blue 1.
+It's your turn.
+You play a blue skip.
+Livi's turn is skipped.
+It's your turn.
+You play a blue 8.
+It's Livi's turn.
+Nikola says: interception!
+You play a red 8.
+It's your turn.
+Livi has failed an interception and takes 3 penalty points.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a wild.
+Livi wants red.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a red 5.
+It's your turn.
+You play a yellow 5.
+It's Livi's turn.
+Nikola says: interception!
+You play a blue 5.
+It's your turn.
+Livi has failed an interception and takes 3 penalty points.
+You play a blue 7.
+It's Livi's turn.
+You play a blue 6.
+It's Livi's turn.
+Too late!
+Livi plays a wild.
+Livi wants red.
+It's your turn.
+Livi says: uno!
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a red 3.
+Livi gets 0 points.
+Nikola gets 28 points.
+Scores:
+Nikola: 69.
+Livi: 215.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #11. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a green 1.
+It's your turn.
+green 1
+Livi says: interception!
+Livi plays a yellow 1.
+It's Livi's turn.
+yellow 1
+Livi plays a yellow 8.
+It's your turn.
+Livi says: interception!
+Livi plays a red 8.
+It's Livi's turn.
+red 8
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You play a red 8.
+It's Livi's turn.
+Nikola says: interception!
+You play a green 8.
+It's your turn.
+You play a green 3.
+It's Livi's turn.
+Livi plays a green reverse.
+It's Livi's turn.
+Livi plays a green 9.
+It's your turn.
+green 9
+You can't play that card.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Livi's turn.
+Livi draws 4 cards.
+Livi plays a wild.
+Livi wants yellow.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want blue.
+It's Livi's turn.
+Livi draws 4 cards.
+Livi plays a blue 6.
+It's your turn.
+You play a blue 7.
+It's Livi's turn.
+Nikola says: uno!
+Livi plays a blue 9.
+It's your turn.
+You play a blue 0.
+Livi gets 159 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 69.
+Livi: 374.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #12. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a red 7.
+It's Livi's turn.
+red 7
+You play a red 6.
+It's Livi's turn.
+Livi plays a red reverse.
+It's Livi's turn.
+red reverse
+Livi plays a blue reverse.
+It's Livi's turn.
+Livi draws a card.
+blue reverse
+Livi plays a blue draw two.
+It's your turn.
+You play a red draw two.
+It's Livi's turn.
+Livi draws 4 cards.
+Livi plays a yellow draw two.
+It's your turn.
+You draw 2 cards.
+You play a wild.
+Choose a color:
+You want red.
+It's Livi's turn.
+Livi plays a red 9.
+It's your turn.
+Livi says: interception!
+Livi plays a yellow 9.
+It's Livi's turn.
+Livi plays a yellow skip.
+Your turn is skipped.
+It's Livi's turn.
+yellow skip
+Livi plays a yellow 4.
+It's your turn.
+Livi says: interception!
+Livi plays a red 4.
+It's Livi's turn.
+red 4
+Livi plays a wild.
+Livi wants green.
+It's your turn.
+You can't play that card.
+green
+You play a wild draw four.
+Choose a color:
+You want red.
+It's Livi's turn.
+Livi draws 4 cards.
+Livi plays a red draw two.
+It's your turn.
+You draw 2 cards.
+red
+You play a red skip.
+Livi's turn is skipped.
+It's your turn.
+You play a red 6.
+It's Livi's turn.
+Livi plays a red 1.
+It's your turn.
+You play a yellow 1.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+Livi says: interception!
+Livi plays a blue reverse.
+It's Livi's turn.
+Too late!
+blue reverse
+Livi plays a blue 2.
+It's your turn.
+You play a blue 4.
+It's Livi's turn.
+Livi plays a blue 0.
+It's your turn.
+You play a blue 7.
+It's Livi's turn.
+Nikola says: interception!
+You play a yellow 7.
+Livi gets 10 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 72.
+Livi: 384.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #13. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a green 2.
+It's your turn.
+green 2
+You play a green 6.
+It's Livi's turn.
+You didn't choose the right card.
+You play a green 7.
+It's Livi's turn.
+Livi plays a red 7.
+It's your turn.
+You play a red 9.
+It's Livi's turn.
+You play a red 8.
+It's Livi's turn.
+Livi plays a blue 8.
+It's your turn.
+Livi says: interception!
+Livi plays a yellow 8.
+It's Livi's turn.
+Livi plays a yellow reverse.
+It's Livi's turn.
+yellow reverse
+Livi plays a wild.
+Livi wants blue.
+It's your turn.
+You play a blue 4.
+It's Livi's turn.
+Livi plays a blue 5.
+It's your turn.
+Livi says: uno!
+You play a wild draw four.
+Choose a color:
+It's Nikola's turn.
+Nobody has uno!
+You want yellow.
+It's Livi's turn.
+Livi draws 4 cards.
+Nikola says: uno!
+Livi plays a yellow reverse.
+It's Livi's turn.
+Livi plays a yellow 4.
+It's your turn.
+You play a yellow 3.
+Livi gets 8 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 72.
+Livi: 392.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #14. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a blue 6.
+It's Livi's turn.
+blue 6
+Livi plays a blue 7.
+It's your turn.
+Livi says: interception!
+Livi plays a yellow 7.
+It's Livi's turn.
+Livi plays a yellow 3.
+It's your turn.
+You can't play that card.
+yellow 3
+You play a yellow 6.
+It's Livi's turn.
+Nikola says: interception!
+You play a yellow 6.
+It's your turn.
+Livi has failed an interception and takes 3 penalty points.
+You play a red 6.
+It's Livi's turn.
+Nikola says: interception!
+You play a blue 6.
+It's your turn.
+You play a blue 5.
+It's Livi's turn.
+Livi plays a blue 0.
+It's your turn.
+You play a wild draw four.
+Choose a color:
+You want green.
+It's Livi's turn.
+Nikola says: uno!
+Livi plays a wild draw four.
+Livi wants blue.
+It's your turn.
+You say: You're bluffing!
+Livi is not bluffing... you must draw 2 more cards.
+You draw 10 cards.
+You play a wild.
+Choose a color:
+You want yellow.
+It's Livi's turn.
+Livi plays a yellow draw two.
+It's your turn.
+Livi says: interception!
+Livi plays a blue draw two.
+You draw 4 cards.
+Livi gets 0 points.
+Nikola gets 82 points.
+Scores:
+Nikola: 154.
+Livi: 395.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 154.
+Livi: 395.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #15. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a green 8.
+It's your turn.
+green 8
+Livi says: interception!
+Livi plays a red 8.
+It's Livi's turn.
+Nikola says: interception!
+You play a red 8.
+It's your turn.
+Livi says: interception!
+Livi plays a green 8.
+It's Livi's turn.
+green 8
+Livi draws a card.
+Livi can't play.
+It's your turn.
+It's Nikola's turn.
+You play a green reverse.
+It's your turn.
+You play a green draw two.
+It's Livi's turn.
+Livi draws 2 cards.
+Livi can't play.
+It's your turn.
+You draw a card.
+You play a blue draw two.
+It's Livi's turn.
+Livi draws 2 cards.
+Livi plays a blue 9.
+It's your turn.
+Livi says: interception!
+Livi plays a yellow 9.
+It's Livi's turn.
+Livi plays a yellow 8.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a yellow 2.
+It's Livi's turn.
+Livi plays a wild.
+Livi wants green.
+It's your turn.
+You draw a card.
+You play a green skip.
+Livi's turn is skipped.
+It's your turn.
+You play a red skip.
+Livi's turn is skipped.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You play a red reverse.
+It's your turn.
+Nikola says: uno!
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a red 6.
+It's your turn.
+Livi plays a red 7.
+It's your turn.
+Livi says: interception!
+Livi plays a green 7.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You can't play that card.
+You can't play that card.
+You can't play that card.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi plays a wild.
+Livi wants blue.
+It's your turn.
+You can't play that card.
+You draw a card.
+You can't play that card.
+You play a blue 1.
+It's Livi's turn.
+Livi plays a blue 4.
+It's your turn.
+Livi says: interception!
+Livi plays a red 4.
+It's Livi's turn.
+Livi plays a red 1.
+It's your turn.
+Livi says: uno!
+red 1
+red 1
+red 1
+red 1
+You play a red 3.
+It's Livi's turn.
+Livi draws a card.
+Livi plays a red 5.
+It's your turn.
+Livi says: uno!
+You play a yellow 5.
+It's Livi's turn.
+Nikola says: uno!
+Livi plays a yellow skip.
+Your turn is skipped.
+Livi gets 0 points.
+Nikola gets 2 points.
+Scores:
+Nikola: 156.
+Livi: 395.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #16. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a yellow 7.
+It's Livi's turn.
+yellow 7
+Livi plays a red 7.
+It's your turn.
+You can't play that card.
+red 7
+red 7
+You play a red skip.
+Livi's turn is skipped.
+It's your turn.
+You can't play that card.
+Livi says: interception!
+Livi plays a green skip.
+Your turn is skipped.
+It's Livi's turn.
+Livi plays a wild.
+Livi wants yellow.
+It's your turn.
+You can't play that card.
+You play a yellow 9.
+It's Livi's turn.
+Livi plays a yellow 9.
+It's your turn.
+Livi plays a yellow 8.
+It's your turn.
+yellow 8
+You play a yellow 6.
+It's Livi's turn.
+Nikola says: interception!
+You play a red 6.
+It's your turn.
+You play a red 2.
+It's Livi's turn.
+Livi plays a wild draw four.
+Livi wants yellow.
+It's your turn.
+Livi says: uno!
+You draw 4 cards.
+You can't play.
+It's Livi's turn.
+Livi plays a yellow 4.
+Livi gets 0 points.
+Nikola gets 56 points.
+Scores:
+Nikola: 212.
+Livi: 395.
+
+Next round in 15 seconds.
+The game has been paused.
+Scores:
+Nikola: 212.
+Livi: 395.
+The score limit is fixed to 500 points.
+Round #17. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a yellow 6.
+It's your turn.
+yellow 6
+Livi says: interception!
+Livi plays a blue 6.
+It's Livi's turn.
+Too late!
+Livi plays a blue 7.
+It's your turn.
+blue 7
+Livi says: interception!
+Livi plays a yellow 7.
+It's Livi's turn.
+yellow 7
+Nikola says: interception!
+You play a blue 7.
+It's your turn.
+You play a blue 2.
+It's Livi's turn.
+Livi plays a blue 9.
+It's your turn.
+blue 9
+You play a blue draw two.
+It's Livi's turn.
+Livi plays a yellow draw two.
+It's your turn.
+You draw 4 cards.
+It's Livi's turn.
+Livi plays a green draw two.
+It's your turn.
+Livi says: uno!
+You didn't choose the right card.
+You play a yellow draw two.
+It's Livi's turn.
+Livi draws 4 cards.
+Livi plays a yellow skip.
+Your turn is skipped.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You play a yellow 9.
+It's Livi's turn.
+Nikola says: interception!
+You play a red 9.
+It's your turn.
+You play a red 7.
+It's Livi's turn.
+Livi plays a green 7.
+It's your turn.
+green 7
+You play a green 2.
+It's Livi's turn.
+Livi plays a green 3.
+It's your turn.
+Livi says: interception!
+Livi plays a green 3.
+It's Livi's turn.
+Livi plays a green 0.
+It's your turn.
+Livi says: uno!
+green 0
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You play a green 6.
+It's Livi's turn.
+Nikola says: interception!
+You play a yellow 6.
+It's your turn.
+Livi says: interception!
+Livi plays a red 6.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You can't play that card.
+You can't play that card.
+You can't play that card.
+You can't play that card.
+red 6
+You can't play that card.
+You draw a card.
+You play a wild draw four.
+Choose a color:
+You want yellow.
+It's Livi's turn.
+Livi draws 4 cards.
+yellow
+Livi plays a wild.
+Livi wants green.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a green 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You play a green 8.
+It's Livi's turn.
+Nikola says: interception!
+You play a blue 8.
+It's your turn.
+You play a blue reverse.
+It's your turn.
+You play a yellow reverse.
+It's your turn.
+You play a yellow skip.
+Livi's turn is skipped.
+It's your turn.
+You play a yellow 3.
+It's Livi's turn.
+You play a yellow 2.
+Livi gets 20 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 215.
+Livi: 415.
+
+Next round in 15 seconds.
+The game has been paused.
+Round #18. Nikola shuffles the cards and deals 7 to each player.
+Nikola returns the first card of the pile and makes it visible on the table. It is a green 7.
+It's Livi's turn.
+green 7
+Livi plays a blue 7.
+It's your turn.
+You can't play that card.
+You can't play that card.
+blue 7
+You play a blue 0.
+It's Livi's turn.
+Livi plays a blue draw two.
+It's your turn.
+You play a yellow draw two.
+It's Livi's turn.
+Livi draws 4 cards.
+Livi plays a yellow 2.
+It's your turn.
+Livi says: interception!
+Livi plays a green 2.
+It's Livi's turn.
+Livi plays a green 2.
+It's your turn.
+green 2
+Livi plays a green 3.
+It's your turn.
+You play a green skip.
+Livi's turn is skipped.
+It's your turn.
+You play a green 8.
+It's Livi's turn.
+Livi plays a green reverse.
+It's Livi's turn.
+Livi plays a wild.
+Livi wants blue.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a blue 8.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi plays a blue 9.
+It's your turn.
+You draw a card.
+You play a blue 1.
+It's Livi's turn.
+Nikola says: interception!
+You play a red 1.
+It's your turn.
+red 1
+You play a red skip.
+Livi's turn is skipped.
+It's your turn.
+You play a red 3.
+It's Livi's turn.
+Nikola says: interception!
+You play a yellow 3.
+It's your turn.
+You play a yellow 4.
+It's Livi's turn.
+Livi plays a yellow reverse.
+It's Livi's turn.
+Livi plays a yellow 5.
+It's your turn.
+You play a yellow 7.
+It's Livi's turn.
+Nikola says: uno!
+Livi plays a red 7.
+It's your turn.
+Livi says: uno!
+You can't play that card.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi plays a wild.
+Livi wants green.
+It's your turn.
+Livi says: uno!
+You draw a card.
+You play a green 5.
+It's Livi's turn.
+Livi plays a green 6.
+Livi gets 0 points.
+Nikola gets 27 points.
+Scores:
+Nikola: 242.
+Livi: 415.
+
+Next round in 15 seconds.
+Scores:
+Nikola: 242.
+Livi: 415.
+The score limit is fixed to 500 points.
+The game has been paused.
+Round #19. Livi shuffles the cards and deals 7 to each player.
+Livi returns the first card of the pile and makes it visible on the table. It is a blue 1.
+It's your turn.
+blue 1
+Livi says: interception!
+Livi plays a red 1.
+It's Livi's turn.
+Nikola says: interception!
+You play a green 1.
+It's your turn.
+You play a green 7.
+It's Livi's turn.
+You didn't choose the right card.
+You play a green 8.
+It's Livi's turn.
+Livi plays a green 4.
+It's your turn.
+Livi says: interception!
+Livi plays a yellow 4.
+It's Livi's turn.
+yellow 4
+Nikola says: interception!
+You play a blue 4.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi plays a blue 8.
+It's your turn.
+You draw a card.
+You play a blue 7.
+It's Livi's turn.
+Livi plays a blue 2.
+It's your turn.
+You play a red 2.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You play a red 4.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You can't play.
+It's Livi's turn.
+Livi draws a card.
+Livi can't play.
+It's your turn.
+You draw a card.
+You play a red 9.
+It's Livi's turn.
+You didn't choose the right card.
+You didn't choose the right card.
+Nikola says: interception!
+You play a blue 9.
+It's your turn.
+You play a green 9.
+It's Livi's turn.
+Livi plays a yellow 9.
+It's your turn.
+You can't play that card.
+Livi plays a yellow 0.
+It's your turn.
+You can't play that card.
+You can't play that card.
+You can't play that card.
+You can't play that card.
+yellow 0
+You play a yellow reverse.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You play a green reverse.
+It's your turn.
+You draw a card.
+You play a green draw two.
+It's Livi's turn.
+Nikola says: interception!
+You play a blue draw two.
+It's Livi's turn.
+Nikola says: interception!
+You play a yellow draw two.
+Livi draws 6 cards.
+Livi gets 156 points.
+Nikola gets 0 points.
+Scores:
+Nikola: 242.
+Livi: 571.
+
+Livi has reached the score limit of 500 points and is now out of the game.
+You are the winner!
+The table is now open for new players.
