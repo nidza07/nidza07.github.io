@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Quentin C's Playroom - Web client documentation</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="web-client-documentation">Web client documentation</h1>
+<h2 id="table-of-contents">Table of contents</h2>
+<ol type="1">
+<li>Introduction [#introduction].</li>
+<li><a href="#web-client-layout">Web client layout</a>.</li>
+<li><a href="#web-client-limitations">Web client limitations</a>.</li>
+<li><a href="#operating-system-specific-issues">Operating system
+specific issues</a>.</li>
+</ol>
+<h2 id="introduction">Introduction</h2>
+<p>The web client allows you to play from any device, as long as it has
+an up to date browser. Such devices include phones, tablets, Macs…</p>
+<p>You must keep a couple of important points in mind before using the
+web client, or reporting any issues with it: - Due to a huge amount of
+devices and browsers available, the Playroom team certainly did not test
+every combination out there. Some device might present a completely
+unknown or unexpected problem. - Browser issues: Every browser has some
+key differences, which may make it behave unpredictably using the
+Playroom web client. As much as the developer attempts to make the
+client usable with as many devices as possible, a web app will never be
+as good and as fast as a native app. Such issues may include: - Audio
+stream support: Every browser supports streaming different audio
+formats, so unlike on the native Windows client, on the web client,
+certain streams will only work with certain browsers. For instance,
+Chrome and Firefox support OGG, Safari supports MP3, M4A, and so on… If
+you try to play an unsupported stream, nothing will happen. The Playroom
+team can do nothing about that. - Keyboard shortcuts: Some Playroom
+shortcuts may conflict with the shortcuts of your browser, or your
+system shortcuts, and it may be impossible to perform them. For example,
+in many browsers, ctrl+page up or down are used to switch tabs. The
+Playroom thus allows you to use shift+page up and down instead. Most
+shortcuts are also available from a context menu, which is always open
+on the web client, so as an alternative, this should work as well. -
+Some screen readers may have problems with automatic message reading,
+due to different interpretations of the supported Web standards. In
+particular, VoiceOver on the Mac has significant problems with automatic
+message reading. To work around this, you can use a system voice to read
+the Playroom messages. More is explained in the <a
+href="#options">Options chapter</a>.</p>
+<p>Despite all of these problems, the web client will allow you to play
+from most of the popular operating systems.</p>
+<h2 id="web-client-layout">Web client layout</h2>
+<p>//todo</p>
+<h2 id="web-client-limitations">Web client limitations</h2>
+<p>In addition to the listed known issues, the web client has the
+following technical limitations, in comparison to the Windows
+client:</p>
+<ul>
+<li>You can only send and receive private messages from the people in
+your friends list while you are connected to the web client.</li>
+<li>Games that require an engine to play with bots do not have bots on
+the web client. Currently, these games are Chess, Connect 4, Reversi,
+and Go. Note that these games are completely playable with another human
+player.</li>
+<li>Arcade games are not available on the web client.</li>
+<li>It is impossible to configure certain options, such as automatic
+history saving or minimizing to the system tray.</li>
+<li>Channel settings, in particular whether a channel should speak when
+the window is active, inactive or always, may not work with all screen
+readers. On the contrary, most screen readers do not allow websites to
+send automatic messages when the window is not focused.</li>
+<li>Copying messages to the clipboard using a shortcut may not work
+reliably and all the time, depending on what your browser allows.</li>
+</ul>
+<h2 id="mobile-gestures">Mobile gestures</h2>
+<p>The primary target audience of the web client are mobile phone users.
+To make the experience faster, some gestures have been introduced: 1.
+iOS: You can use the standard go back gesture (2 finger scrub) to go
+back to a previous menu, or perform any function that the escape key
+would perform. - Note: For this gesture to work, you must make sure that
+the web client is open in a new tab, and that no other page was ever
+open in that tab. This is due to the fact of Safari taking over the
+gesture otherwise, and using it for the browser’s back button. However,
+when there is no page to go back to, the Playroom correctly interprets
+the gesture. - Note 2: Android currently has no way to do this. This is
+a screen reader limitation. 2. Double tap and hold for blind users, or a
+long press for sighted users: Opens a context menu on the selected item,
+same as the applications key on Windows. On iOS, a triple tap also works
+by default, since VoiceOver has this gesture mapped to a long press. In
+some games, the context menu is rather mapped to quickly display
+something that you will frequently need, for example, the cards on the
+table in Scopa, so this can be used to find out this information
+quickly. 3. Double tap and hold, then swipe in any direction for blind
+users, or just a long press and swipe for sighted users: Performs
+different actions depending on the context. 1. When you are asked to
+select the teams in a game, using this gesture will allow you to drag
+players up or down, and thus change the team they are on. 2. In card
+games, a swipe left will let you draw a card if possible, while a swipe
+right will let you discard one.</p>
+<h2 id="operating-system-specific-issues">Operating system specific
+issues</h2>
+<p>//todo</p>
+</body>
+</html>
