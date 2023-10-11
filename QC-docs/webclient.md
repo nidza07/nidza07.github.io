@@ -2,8 +2,10 @@
 ## Table of contents
 1. Introduction [#introduction].
 2. [Web client layout](#web-client-layout).
-3. [Web client limitations](#web-client-limitations).
-4. [Operating system specific issues](#operating-system-specific-issues).
+3. [Options](#options).
+4. [Web client limitations](#web-client-limitations).
+5. [Mobile gestures](#mobile-gestures).
+6. [Operating system specific issues](#operating-system-specific-issues).
 
 ## Introduction
 The web client allows you to play from any device, as long  as it has an up to date browser.
@@ -19,7 +21,42 @@ You must keep a couple of important points in mind before using the web client, 
 Despite all of these problems, the web client will allow you to play from most of the popular operating systems.
 
 ## Web client layout
-//todo
+Whenever possible, the interface of the web client will resemble the interface of the Windows client. This includes the shortcuts as well. On any device with a keyboard, most of the same shortcuts work on the web client as well, apart from what was mentioned above.
+
+To connect to the web client, click the play link on our website, or [access it directly here](https://qcsalon.net/en/game).
+
+If you are not logged in  already, the first thing you will be asked to do is type your account credentials.
+
+Note: At this time, for the web client to work, the "remember me" checkbox must be checked. If this is not your device, after you are done playing on the Playroom, make sure to log out by clicking the logout link on our website.
+
+Once you have successfully connected, you should hear a welcome message, and your focus should be in the game toolbar. To use the web client, make sure that any virtual cursor/browse mode of your screen reader is disabled. Normally, this should already happen automatically.  
+The browse mode is what is used to navigate a website with single  letters, such as K  for link, H for heading, and so on. However, on the web client, this will interfere with single-letter shortcuts, and thus for the best experience it should be disabled. With VoiceOver, disable quick nav or single letter navigation.
+
+The game toolbar is exactly the same as the menu list described in the general usage document. Any shortcut should be performed from this toolbar. You can also use Alt+M to switch to it.
+
+Note: In all cases, the alt key is replaced by Option on the Mac.
+
+Shift tabbing from the toolbar will bring you into the read only history edit box, which is exactly the same as on the Windows client. Tabbing from the game toolbar will introduce a new element, the actions menu:
+
+The actions menu is always accessible on the web client. It is a permanent context menu. When a game is not started, this will contain all the relevant table options. If a game is started, it will contain the game context menu, with an option at the bottom to switch to the table menu. This is very useful for touch screen users, who do not have a keyboard connected.
+
+Note: All the interface sections are also divided by headings. This can be used on a touch screen device to more quickly jump to a different item, since there we of course do not have a tab key.
+
+The next section is the chat, which is also the same as on the Windows client, along with a send button. Continuing further, we have two new buttons:
+
+1. Layout. This is a button which will only change the visual presence of the web client. It will adjust its layout among several possibilities, depending on whether you are on a mobile or a desktop device.
+2. Clear history. Many browsers and devices do not perform so  well when the history is too large, so you can use this button to quickly clear it and restore the web client performance.
+
+Other than what is described here, every menu  and action will  work exactly the same as it was described in the General usage document. There are however a few differences in the options menu, and this document will focus on these differences.
+
+## Options
+
+## Keyboard shortcut differences
+Even though almost every shortcut works the same as it does on the Windows client, the Web client has a few differences:
+- The f2 key serves no purpose, since the table menu is always accessible on the Web client.
+- The F6 key to change the sound volume is not used. Instead, use F7 and F8 to change the sounds volume, shift+F7 and F8 to change the notifications volume, and CTRL+shift+F7 and F8 to change the streams volume.
+- The shift+F7 shortcut to stop all playing sounds does not exist.
+- The shift+F8 shortcut to disable automatic message reading does not exist. Note: With many screen readers, you often have a way to disable reading live regions, or dynamic content changes. Disabling this will also stop the reading of messages on the Playroom Web client.
 
 ## Web client limitations
 In addition to the listed known issues, the web client has the following technical limitations, in comparison to the Windows client:

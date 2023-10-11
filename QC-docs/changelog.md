@@ -1,6 +1,10 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## October 11th, 2023:
+### Web client:
+- More work on the documentation. Added some general layout notes, some keyboard shortcuts notes (to verify), mobile gestures...
+
 ## October 10th, 2023:
 ### General usage:
 - Fixed TOC nested lists.
