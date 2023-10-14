@@ -1,6 +1,11 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## October 14th, 2023:
+### Web client:
+- Continued Web client docs. Described some of the differences in the options menu, English names are wrong. Exact interface item names to be added later.
+- The shortcut to adjust the stream volume has been removed, as it's apparently dead. TBD...
+
 ## October 11th, 2023:
 ### Web client:
 - More work on the documentation. Added some general layout notes, some keyboard shortcuts notes (to verify), mobile gestures...

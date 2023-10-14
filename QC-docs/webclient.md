@@ -50,11 +50,31 @@ The next section is the chat, which is also the same as on the Windows client, a
 Other than what is described here, every menu  and action will  work exactly the same as it was described in the General usage document. There are however a few differences in the options menu, and this document will focus on these differences.
 
 ## Options
+The options menu contains most of the same functions as described in the General usage document. Here are the new elements introduced on the Web client:
+
+### Audio settings
+In the audio settings, apart from adjusting the sound volume, you will also find an item called speech mode.  
+By default, the speech mode is set to screen reader, so your screen reader will speak any incoming messages. However, some screen readers may have issues speaking messages in the correct order, or may interrupt a message too soon. This is particularly the case under Mac OS with VoiceOver.  
+To fix this, you can switch the speech mode to speech synthesis. This will let you use a system voice to speak the incoming messages. A few browsers, like Google Chrome, may even give you additional cloud voices. Note that for fast and dynamic games, such voices are not recommended, as they can be slow to react and speak the incoming message.
+
+If you have enabled the usage of the system voice, this same menu will also let you configure the voice to be used, the speech rate, pitch, or volume.
+
+### Layout
+This option will let you change the visual appearance of the Web client. Depending on whether you have connected from a Desktop or a mobile device, you will have different options here, and the setting is applied as soon as you change it, so you can check the appearance right away and whether you find it suitable.
+
+Note: The layout button toggles this setting from anywhere.
+
+### Channel and view options
+When configuring channels and views on the web client, keep the following differences in mind:
+
+1. Inside channel options, you will find a speech priority setting. This setting will determine the kind of message (live region) to be sent to your screen reader. If the priority is critical or high, some screen readers may react differently, such as playing a special sound or announcing "alert!" at the end of the message. It is best to experiment with your screen reader, and find which option will work best.
+2. It is not possible to customize the discussion or game views on the Web client.
+
 
 ## Keyboard shortcut differences
 Even though almost every shortcut works the same as it does on the Windows client, the Web client has a few differences:
 - The f2 key serves no purpose, since the table menu is always accessible on the Web client.
-- The F6 key to change the sound volume is not used. Instead, use F7 and F8 to change the sounds volume, shift+F7 and F8 to change the notifications volume, and CTRL+shift+F7 and F8 to change the streams volume.
+- The F6 key to change the sound volume is not used. Instead, use F7 and F8 to change the sounds volume, and shift+F7 and F8 to change the notifications volume.
 - The shift+F7 shortcut to stop all playing sounds does not exist.
 - The shift+F8 shortcut to disable automatic message reading does not exist. Note: With many screen readers, you often have a way to disable reading live regions, or dynamic content changes. Disabling this will also stop the reading of messages on the Playroom Web client.
 
