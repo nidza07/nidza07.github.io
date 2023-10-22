@@ -1,6 +1,7 @@
 # Web client documentation
+
 ## Table of contents
-1. Introduction [#introduction].
+1. [Introduction](#introduction).
 2. [Web client layout](#web-client-layout).
 3. [Options](#options).
 4. [Web client limitations](#web-client-limitations).
@@ -8,10 +9,10 @@
 6. [Operating system specific issues](#operating-system-specific-issues).
 
 ## Introduction
-The web client allows you to play from any device, as long  as it has an up to date browser.
+The web client allows you to play from any device, as long  as it has an up to date browser.  
 Such devices include phones, tablets, Macs...
 
-You must keep a couple of important points in mind before using the web client, or reporting any issues with it:
+You must keep a couple of important points in mind before using the web client, or reporting any issues with it:  
 - Due to a huge amount of devices and browsers available, the Playroom team certainly did not test every combination out there. Some device might present a completely unknown or unexpected problem.
 - Browser issues: Every browser has some key differences, which may make it behave unpredictably using the Playroom web client. As much as the developer attempts to make the client usable with as many devices as possible, a web app will never be as good and as fast as a native app. Such issues may include:
     - Audio stream support: Every browser supports streaming different audio formats, so unlike on the native Windows client, on the web client, certain streams will only work with certain browsers. For instance, Chrome and Firefox support OGG, Safari supports MP3, M4A, and so on... If you try to play an unsupported stream, nothing will happen. The Playroom team can do nothing about that.
@@ -72,7 +73,7 @@ When configuring channels and views on the web client, keep the following differ
 
 
 ## Keyboard shortcut differences
-Even though almost every shortcut works the same as it does on the Windows client, the Web client has a few differences:
+Even though almost every shortcut works the same as it does on the Windows client, the Web client has a few differences:  
 - The f2 key serves no purpose, since the table menu is always accessible on the Web client.
 - The F6 key to change the sound volume is not used. Instead, use F7 and F8 to change the sounds volume, and shift+F7 and F8 to change the notifications volume.
 - The shift+F7 shortcut to stop all playing sounds does not exist.
@@ -90,7 +91,7 @@ In addition to the listed known issues, the web client has the following technic
 
 
 ## Mobile gestures
-The primary target audience of the web client are mobile phone users. To make the experience faster, some gestures have been introduced:
+The primary target audience of the web client are mobile phone users. To make the experience faster, some gestures have been introduced:  
 1. iOS: You can use the standard go back gesture (2 finger scrub) to go back to a previous menu, or perform any function that the escape key would perform.
     - Note: For this gesture to work, you must make sure that the web client is open in a new tab, and that no other page was ever open in that tab. This is due to the fact of Safari taking over the gesture otherwise, and using it for the browser's back button. However, when there is no page to go back to, the Playroom correctly interprets the gesture.
     - Note 2: Android currently has no way to do this. This is a screen reader limitation.
