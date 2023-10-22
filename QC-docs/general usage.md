@@ -331,7 +331,7 @@ This will present a list of all the currently available arcade games. The left a
 
 Pressing enter on one will create its table. At the moment, all arcade games are created as private tables by default, since the multiplayer mode currently does not work. Thus, you can currently only compete with other players on a global scoreboard for each game, but not play directly against them.
 
-## Game download and start
+### Game download and start
 Once you press enter while at an arcade table to start the game, the game first has to be downloaded. This should take a short amount of time, depending on your connection.  
 Once that is completed, you will hear a short chime, notifying you that you have entered the arcade mode.
 
