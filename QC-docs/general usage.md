@@ -3,79 +3,79 @@
 1. [Disclaimer](#disclaimer).
 2. [Introduction](#introduction).
 3. [Getting started](#getting-started).
-    1. [Familiarizing yourself with the community rules](#familiarizing-yourself-with-the-community-rules).
-    2. [Playing from Windows](#playing-from-windows).
-        1. [The connection dialog](#the-connection-dialog).
+    - [Familiarizing yourself with the community rules](#familiarizing-yourself-with-the-community-rules).
+    - [Playing from Windows](#playing-from-windows).
+        - [The connection dialog](#the-connection-dialog).
 4. [The Playroom interface](#the-playroom-interface).
 5. [Playing a game](#playing-a-game).
-    1. [General table management tips](#general-table-management-tips).
+    - [General table management tips](#general-table-management-tips).
 6. [Watching games](#watching-games).
 7. [Chatting](#chatting).
-    1. [Private messaging](#private-messaging).
-        1. [Replying to a private message](replying-to-a-private-message).
-        2. [Writing to the same person more than once](#writing-to-the-same-person-more-than-once).
-    2. [Chat commands](#chat-commands).
+    - [Private messaging](#private-messaging).
+        - [Replying to a private message](replying-to-a-private-message).
+        - [Writing to the same person more than once](#writing-to-the-same-person-more-than-once).
+    - [Chat commands](#chat-commands).
 8. [History reading and management](#history-reading-and-management).
-    1. [Quick history reading](#quick-history-reading).
-    2. [History views and channels](#history-views-and-channels).
-    3. [Clearing or copying your history](#clearing-or-copying-your-history).
+    - [Quick history reading](#quick-history-reading).
+    - [History views and channels](#history-views-and-channels).
+    - [Clearing or copying your history](#clearing-or-copying-your-history).
 9. [Arcade games](#arcade-games).
-    1. [Accessing an arcade game](#accessing-an-arcade-game).
-    2. [Game download and start](#game-download-and-start).
+    - [Accessing an arcade game](#accessing-an-arcade-game).
+    - [Game download and start](#game-download-and-start).
 10. [Playroom options](#playroom-options).
-    1. [Language](#language).
-    2. [General options](#general-options).
-        1. [Ask a confirmation before exiting](#ask-a-confirmation-before-exiting).
-        2. [Minimize to taskbar](#minimize-to-taskbar).
-        3. [Auto login at startup](#auto-login-at-startup).
-        4. [Automatically save histories](#automatically-save-histories).
-    3. [Audio and text-to-speech](#audio-and-text-to-speech).
-        1. [Sound volume](#sound-volume).
-        2. [Sound audio output](#sound-audio-output).
-        3. [Duck notification sounds when arcade mode is active](#duck-notification-sounds-when-arcade-mode-is-active).
-        4. [Disable interface sounds](#disable-interface-sounds).
-        5. [Use direct sound instead of WASAPI](#use-direct-sound-instead-of-wasapi).
-    4. [Reading and appearance](#reading-and-appearance).
-        1. [Channels](#channels).
-            1. [Channel options](#channel-options).
-        2. [Views](#views).
-            1. [View options](#view-options).
-        3. [Colors](#colors).
-        4. [Enable tooltips](#enable-tooltips).
-        5. [Use embedded web view](#use-embedded-web-view).
-    5. [Security](#security).
-        1. [Use only secure connections](#use-only-secure-connections).
-        2. [Remember passwords](#remember-passwords).
-    6. [Privacy](#privacy).
-    7. [Restore default settings](#restore-default-settings).
+    - [Language](#language).
+    - [General options](#general-options).
+        - [Ask a confirmation before exiting](#ask-a-confirmation-before-exiting).
+        - [Minimize to taskbar](#minimize-to-taskbar).
+        - [Auto login at startup](#auto-login-at-startup).
+        - [Automatically save histories](#automatically-save-histories).
+    - [Audio and text-to-speech](#audio-and-text-to-speech).
+        - [Sound volume](#sound-volume).
+        - [Sound audio output](#sound-audio-output).
+        - [Duck notification sounds when arcade mode is active](#duck-notification-sounds-when-arcade-mode-is-active).
+        - [Disable interface sounds](#disable-interface-sounds).
+        - [Use direct sound instead of WASAPI](#use-direct-sound-instead-of-wasapi).
+    - [Reading and appearance](#reading-and-appearance).
+        - [Channels](#channels).
+            - [Channel options](#channel-options).
+        - [Views](#views).
+            - [View options](#view-options).
+        - [Colors](#colors).
+        - [Enable tooltips](#enable-tooltips).
+        - [Use embedded web view](#use-embedded-web-view).
+    - [Security](#security).
+        - [Use only secure connections](#use-only-secure-connections).
+        - [Remember passwords](#remember-passwords).
+    - [Privacy](#privacy).
+    - [Restore default settings](#restore-default-settings).
 11. [Additional features](#additional-features).
-    1. [Your inbox](#your-inbox).
-        1. [Starting a new discussion](#starting-a-new-discussion).
-        2. [Reviewing discussions](#reviewing-discussions).
-        3. [Subscribing to this forum](#subscribing-to-this-forum).
-    2. [Friends list](#friends-list).
-        1. [Adding people](#adding-people).
-        2. [Accepting requests](#accepting-requests).
-        3. [Favorites](#favorites).
-    3. [Blocked users list](#blocked-users-list).
-    4. [Status messages](#status-messages).
-    5. [Open forum](#open-forum).
-        1. [Creating a topic](#creating-a-topic).
-        2. [Viewing existing topics](#viewing-existing-topics).
-        3. [Topic score](#topic-score).
-            1. [Voting on a post](#voting-on-a-post).
-                1. [Quick voting](#quick-voting).
-        4. [Topic labels](#topic-labels).
-        5. [Polls](#polls).
-        6. [Editing your message](#editing-your-message).
-        7. [Forum subscriptions](#forum-subscriptions).
-    6. [Send a history report](#send-a-history-report).
-    7. [Open website](#open-website).
-    8. [Save history in a file](#save-history-in-a-file).
-    9. [Save current view in a file](#save-current-view-in-a-file).
+    - [Your inbox](#your-inbox).
+        - [Starting a new discussion](#starting-a-new-discussion).
+        - [Reviewing discussions](#reviewing-discussions).
+        - [Subscribing to this forum](#subscribing-to-this-forum).
+    - [Friends list](#friends-list).
+        - [Adding people](#adding-people).
+        - [Accepting requests](#accepting-requests).
+        - [Favorites](#favorites).
+    - [Blocked users list](#blocked-users-list).
+    - [Status messages](#status-messages).
+    - [Open forum](#open-forum).
+        - [Creating a topic](#creating-a-topic).
+        - [Viewing existing topics](#viewing-existing-topics).
+        - [Topic score](#topic-score).
+            - [Voting on a post](#voting-on-a-post).
+                - [Quick voting](#quick-voting).
+        - [Topic labels](#topic-labels).
+        - [Polls](#polls).
+        - [Editing your message](#editing-your-message).
+        - [Forum subscriptions](#forum-subscriptions).
+    - [Send a history report](#send-a-history-report).
+    - [Open website](#open-website).
+    - [Save history in a file](#save-history-in-a-file).
+    - [Save current view in a file](#save-current-view-in-a-file).
 12. [Bonus features](#bonus-features).
-    1. [Audio streams](#audio-streams).
-    2. [Table topic](#table-topic).
+    - [Audio streams](#audio-streams).
+    - [Table topic](#table-topic).
 13. [Further documents](#further-documents).
 14. [Credits](#credits).
 15. [For translators](#for-translators).
@@ -114,7 +114,6 @@ As a quick summary, insults or spamming is forbidden, do not cheat or attempt to
 
 ### Playing from Windows
 The general usage document will focus on the experience you will get when playing from Windows, using the Playroom Windows client. Note that it is possible to play from other platforms as well using your web browser. This will be described in a separate document, but there are only some minor differences compared to the Windows client, so you should still be able to follow along. It is recommended to read this document, and then read the Web client documentation, which will only describe the special  features of the web client and its main differences. The web client has a few additional shortcuts and gestures for mobile users. They are described in the separate [web client documentation](webclient.html).  
-//Todo: Write web client docs.
 
 If you are using Windows, your best option is to download the Windows client. This will allow you to access all the features of the Playroom, and is the fastest, most stable way to play.  
 You will always find the latest version under the quick links heading of the home page. You can also [Directly download it from here](https://qcsalon.net/autodl/qcgc-setup.exe).
@@ -215,7 +214,6 @@ Ctrl+Shift+X will allow you to change the table master. Only the table master ca
 If you would like your table to be hidden from the list of available public tables, press ctrl+H. This will make the table private. You can then invite the people you want on your table. The same shortcut will turn the table public again.
 
 In case somebody leaves a table in the middle of a game, a bot will step in to replace them, or you can use the bot as a stand-by option until you find another human player to replace the leaving player.  
-//may change soon
 
 In case you forget any of these shortcuts, every function listed here is also accessible from the table menu.
 
@@ -301,7 +299,6 @@ To navigate between the history views, use the following shortcuts:
 - Alt+a number: Switch to a view according to its order.
 
 Here are all the available views by default, as well as which messages they contain:  
-// Todo: reset settings to re-confirm views
 
 1. General: This view contains your entire history.
 2. Game: Contains game messages. Who played what, scores, everything related to the game...
@@ -358,13 +355,11 @@ This menu allows you to configure several settings related to the general client
 
 #### Ask a confirmation before exiting
 If this setting is enabled, before you press alt+F4 or close the Playroom from the system tray, you will be asked to confirm that you are really sure you want to do this. This setting is enabled by default.  
-//Todo: Confirm  all default settings.
 
 #### Minimize to taskbar
 If this setting is enabled, when pressing Alt+F4 to close the Playroom, the Playroom will stay open in the background and will remain in your system tray. The system tray can be accessed with Insert+F11 if using Jaws, or Windows+B if using NVDA. If you find the Playroom icon there, you can press enter to maximize it again, or open the context menu with the applications key to close it completely.
 
 Note: There is a known issue causing the Playroom to still stay focused after pressing Alt+F4 with this option enabled. Just press Alt+tab to move away from the Playroom window, and the window should completely disappear.  
-//Todo: Confirm if this happens with JFW too.
 
 This option is disabled by default.
 
@@ -384,7 +379,6 @@ This option is disabled by default.
 
 ### Audio and text-to-speech
 In this menu, you can customize various audio settings.  
-//Todo: Suggest renaming this to audio as it has no speech settings anymore
 
 #### Sound volume
 This option will display your sound volume. X will be replaced by the current percentage. You can  press left or right arrows to change the volume here.
@@ -405,7 +399,6 @@ While moving across the menus, closing or opening a menu, you will hear small cl
 Note: There is an issue preventing this option from working the first time it is enabled. Toggling it once more should fix it.
 
 This option is disabled by default, meaning that you will hear the interface sounds.  
-//Todo: Confirm/report the bug.
 
 ### Use DirectSound instead of WASAPI
 Windows applications can use two different standards, or APIs for audio playback. They are direct sound and WASAPI.  
@@ -445,8 +438,7 @@ Customizing channels and views is an extremely flexible and powerful feature of 
 
 1. By default, when at a table, chats will be read and will play a sound only when you are focused on the Playroom window. You may dislike this and not want to miss messages. You can achieve this by customizing the public chat channel, and setting its speech and sounds to always.
 2. You may not want to have messages about your friends leaving and entering the Playroom as a part of your discussion view. Achieving this is possible by customizing the discussion view, and unchecking the friends channel, which will no longer be a part of that view.
-
-//Todo: Perhaps a few more examples?
+3. You may want to hear a sound every time it is your turn in a game. By default, this sound will  play only when you are outside of the Playroom window. To have it always playing, set the notifications channel to always play its sounds.
 
 #### Colours...
 Lets you configure the different colors. In addition to customizing the appearance of each color, you can also change the Text color, Background color, Text color of selected element, Background color of selected element, Grayed text color, Use predefined colors for light/white background, or Use predefined colors for dark/black background. The same customizations can be applied to the font of the text.
@@ -524,7 +516,6 @@ You may also receive important global Playroom notifications in your inbox. The 
 #### Starting a new discussion
 Choosing this option will allow you to start a permanent discussion. Once you press enter on it, you will be asked to type a username.  
 When writing the username, you can separate multiple participants with commas. You can send a message to 5 participants at most. 2 more participants can be invited to the discussion after it was created.  
-//Todo: Verify this, possible semicolons AFAIK
 
 Note: For special cases, you can contact the administration so that more participants can be invited, such as when organizing a tournament.
 
@@ -594,7 +585,6 @@ It is pretty similar to permanent messages, except that it is accessible to ever
 Here, only the main differences will be highlighted.
 
 Note: Some more features are available when using the forum from the Playroom website. These are discussed in the [website documentation](/sitedocs).  
-//todo: Write site docs.
 
 To access the forum from anywhere on the Playroom, use CTRL+shift+F to open  it directly in the client, or CTRL+F2 to open it on our website.
 
@@ -677,7 +667,6 @@ This option will open our website in your default browser. From the main room, t
 ### Save history in a file
 This option will let you save your entire history to a TXT file. It will open the standard save as dialog, allowing you to choose the location and type the name.
 
-//Todo: Report a bug with  this feature, no EXT since V3.
 
 ### Save current view in a file
 This option will  let you save only one view of the history to a file. The currently focused view will be saved. Very useful if you only want to save a discussion or game messages! For more information on what are the views and how to use them, check the [Views section](#history-views-and-channels).

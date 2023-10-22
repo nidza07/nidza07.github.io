@@ -1,6 +1,16 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## October 22nd, 2023:
+### Web client:
+- We actually started this work yesterday but never documented it, the OS specific known issues. Today further work was done on this section. Need inspiration...
+
+### General usage:
+- The general usage document could be considered completed, and ready for any future updates. Removed the internal notes. Moved the internal notes to a separate notes.md file.
+## October 21st, 2023:
+### General usage:
+- Added an example to enable/disable the sound when it is your turn in a game when customizing views and channels.
+
 ## October 14th, 2023:
 ### Web client:
 - Continued Web client docs. Described some of the differences in the options menu, English names are wrong. Exact interface item names to be added later.

@@ -101,4 +101,14 @@ The primary target audience of the web client are mobile phone users. To make th
 
 
 ## Operating system specific issues
-//todo
+This section will focus on issues that will affect only a certain operating system. These are mostly issues caused by the way that system/screen reader works, or, the lack of a good visual layout of the web client. If you notice any improvements or regressions in a future operating system version, make sure to report them.
+
+### MacOS
+- Under Mac OS with VoiceOver, when several messages arrive at the same time or in a short amount of time one after another, the latest message always takes the priority. This is a VoiceOver limitation that cannot be resolved. To read messages, you can use the browser synthesizer option, which will use the chosen system voice.
+- When using Safari, and if the history area becomes too large, the entire browser can crash for a certain amount of time, even up to a minute when focusing the history area. If you use Mac OS regularly, you will notice the famous "Safari not responding" problem. This crash does not occur when using Firefox, where, even with a large history, the crash can last 1 or 2 seconds, at most.
+- The default ctrl+space shortcut to copy messages from the history does not work if you have multiple keyboard layouts, since Mac OS uses this shortcut to switch between them. All shortcuts on the Mac however can be changed in the system settings app.
+
+### iOS
+- Sometimes, double tapping the chat edit field may do nothing, or may open the Safari address bar. This is due to the web client not always correctly scrolling the screen. To resolve this, before activating the chat field, focus it and use VoiceOver's 3 finger swipe up gesture to scroll, and then double tap the chat field. You may still need to double tap it twice.
+- When a round starts, or a list is empty and then receives a new item, VoiceOver's focus will go to that item. This will cause the currently spoken message to be interrupted, if there was any, as this new item will be announced.
+- Autoplay of sounds: Apple does not allow web apps to automatically start playing their sounds, so when you connect, you will have no audio. To fix this, cause at least one sound to play, i.e. send a message. The sound will not play, but once you click on anything, all sounds will start working normally. You will also have no sounds if you leave the web client and go to your home screen/another app.
