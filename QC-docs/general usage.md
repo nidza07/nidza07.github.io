@@ -400,7 +400,7 @@ Note: There is an issue preventing this option from working the first time it is
 
 This option is disabled by default, meaning that you will hear the interface sounds.  
 
-### Use DirectSound instead of WASAPI
+#### Use DirectSound instead of WASAPI
 Windows applications can use two different standards, or APIs for audio playback. They are direct sound and WASAPI.  
 By default, the Playroom uses WASAPI, which is a more modern API, and provides less latency, and overall better performance. This is the recommended option for most users.  
 However, some sound devices may experience distortion, or poor sound playback. If this is the case for you, try enabling this option and switching back to the old Direct sound to attempt to improve the situation.
