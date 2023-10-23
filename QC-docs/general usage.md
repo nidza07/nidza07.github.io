@@ -7,22 +7,24 @@
     - [Playing from Windows](#playing-from-windows).
         - [The connection dialog](#the-connection-dialog).
 4. [The Playroom interface](#the-playroom-interface).
+    - [First letter navigation](#first-letter-navigation).
 5. [Playing a game](#playing-a-game).
     - [General table management tips](#general-table-management-tips).
 6. [Watching games](#watching-games).
-7. [Chatting](#chatting).
+7. [The list of online users](#the-list-of-online-users).
+8. [Chatting](#chatting).
     - [Private messaging](#private-messaging).
         - [Replying to a private message](replying-to-a-private-message).
         - [Writing to the same person more than once](#writing-to-the-same-person-more-than-once).
     - [Chat commands](#chat-commands).
-8. [History reading and management](#history-reading-and-management).
+9. [History reading and management](#history-reading-and-management).
     - [Quick history reading](#quick-history-reading).
     - [History views and channels](#history-views-and-channels).
     - [Clearing or copying your history](#clearing-or-copying-your-history).
-9. [Arcade games](#arcade-games).
+10. [Arcade games](#arcade-games).
     - [Accessing an arcade game](#accessing-an-arcade-game).
     - [Game download and start](#game-download-and-start).
-10. [Playroom options](#playroom-options).
+11. [Playroom options](#playroom-options).
     - [Language](#language).
     - [General options](#general-options).
         - [Ask a confirmation before exiting](#ask-a-confirmation-before-exiting).
@@ -48,7 +50,7 @@
         - [Remember passwords](#remember-passwords).
     - [Privacy](#privacy).
     - [Restore default settings](#restore-default-settings).
-11. [Additional features](#additional-features).
+12. [Additional features](#additional-features).
     - [Your inbox](#your-inbox).
         - [Starting a new discussion](#starting-a-new-discussion).
         - [Reviewing discussions](#reviewing-discussions).
@@ -73,12 +75,12 @@
     - [Open website](#open-website).
     - [Save history in a file](#save-history-in-a-file).
     - [Save current view in a file](#save-current-view-in-a-file).
-12. [Bonus features](#bonus-features).
+13. [Bonus features](#bonus-features).
     - [Audio streams](#audio-streams).
     - [Table topic](#table-topic).
-13. [Further documents](#further-documents).
-14. [Credits](#credits).
-15. [For translators](#for-translators).
+14. [Further documents](#further-documents).
+15. [Credits](#credits).
+16. [For translators](#for-translators).
 
 ## Disclaimer
 This documentation is completely unofficial. It has no connection to the Playroom staff at all, other than a link to the shortcuts reference, and a FAQ page, written by the English Playroom staff.  
@@ -161,6 +163,13 @@ In addition to this, the Playroom offers you two context menus:
 
 Both of these menus do not have too many useful features while in the main room, so you should try them out when  creating or joining a table.
 
+### First letter navigation
+On the Playroom, you can use the first letter navigation to move to an item starting with the letter you have pressed. It works exactly the same as it does globally in Windows lists, meaning that you can also press multiple letters in quick succession to move to an item with these letters.  
+It is important to keep the following two items in mind:
+
+1. First letter navigation does not work in menus where single letter shortcuts to get information are used. For example, it does not work in games, since letters like S are used to check the scores.
+2. In menus where only a few very common actions are used, pressing the first letter will directly activate an item. Currently, these are all  the yes/no questions, where you can press Y or N to answer quickly, or the colour selection in Uno, where the first letter of a colour will select it.
+
 ## Playing a game
 Once you have configured everything, the first thing you will probably want to do is start a game. Here, some general resources and tips will  be given to improve your experience.
 
@@ -226,6 +235,18 @@ To enable or disable spectator mode, press F3.
 When this mode is enabled, even if you join a table, and a game is not in progress, once the game starts, you will not be included in the game. This mode lets you only watch a game, but not play it. Other people will also be notified if you join a table and your spectator mode is enabled.
 
 This mode can also be toggled from the table menu.
+
+## The list of online users
+To access the list of users currently online, press CTRL+U or CTRL+W. This will show all the users currently online, and using the same language as you.  
+To see the list of users regardless of their language, use CTRL+shift+U or CTRL+shift+W. You can of course play with someone using a completely different language, however, the two of you need to have one common language, as the game language is always the language of the table master. So, if you join someone in a different language, keep in mind that the game will no longer use your language.
+
+Each user in this list will have a presence status, which is automatic and cannot be changed. The following statuses exist:
+
+- Available: The user is on the Playroom and is active, but is not playing a game.
+- Absent: The user is on the Playroom, but has not performed any action for 5 minutes.
+- Busy: The user is playing a game.
+
+Each person will also have a two-letter code, which denotes the language they are using. En for English, FR for French, and so on...
 
 ## Chatting
 As mentioned earlier, the Playroom offers a chat box where you can type messages. Messages will be sent to the current table, so anybody currently on it will be able to see and read them. However, the chat box offers many more useful functions and features, and all of them will be described here.
@@ -643,7 +664,7 @@ Note: All the functions mentioned above such as editing, voting, or labeling a t
 #### Forum subscriptions
 Unlike in your inbox, subscribing to a topic or a forum won't send any e-mails. In this case, the topic or topics from a forum will  be accessible in your subscriptions section. Use this to access any favorite or useful topics more quickly.
 
-## Send a history report
+### Send a history report
 This option is the only recommended way to report something to the Playroom staff. It is the easiest way for you to send us your history, as well as for us to review it.  
 When you select this option, you will be asked what do you want to send. Both options are explained there. Send a discussion report to report something that happened in a public chat or in private messages, or a game report to report a bug.
 
@@ -651,10 +672,12 @@ Note: This option will only send your current history, since the time you have c
 
 In the comment field, make sure to enter a clear comment, so that the staff does not have to waste too much time reading the entire history, which could be quite long. Mention what started the problem and what to look for. Here are some examples:  
 Good comment:  
+
 > Hello,  
 in this history, Bob insulted me and my family. We started a civil discussion talking about technology, but it devolved into personal attacks. The first message that began the argument was this one: Bob says: You are the most annoying person I have ever talked to. Mark then typed ZZZZR, which crashes my speech  synthesizer, Eloquence.
 
 Bad comment:  
+
 > Bob insulted me, ban him.
 
 Keep in mind that most problems with a particular individual can be resolved by simply blocking the person in question. In many cases, an intervention from the staff is not necessary. However, we are of course here in  case of repeating offenses, or if blocking the person becomes insufficient, for instance someone crashing your speech synthesizer or creating multiple accounts.
@@ -700,8 +723,8 @@ Here are some additional resources to help you learn more:
 
 - [The Frequently asked questions page, containing answers to some of the most common questions](https://qcsalon.net/en/faq).
 - [The shortcuts page, containing a full reference of the Playroom shortcuts](https://qcsalon.net/en/shortcuts).
-- [Web client documentation](/webclient.html).
-- [Website documentation](/sitedocks.html)
+- [Web client documentation](webclient.html).
+- [Website documentation](sitedocks.html)
 - [Markdown documentation, to help you format your forum posts](https://qcsalon.net/en/markdown).
 
 # Credits

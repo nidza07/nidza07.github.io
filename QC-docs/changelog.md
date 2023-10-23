@@ -1,12 +1,18 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## October 23rd, 2023:
+### General usage:
+- Added a note about the first letter navigation in the Playroom interface section.
+
 ## October 22nd, 2023:
 ### Web client:
 - We actually started this work yesterday but never documented it, the OS specific known issues. Today further work was done on this section. Need inspiration...
 
 ### General usage:
 - The general usage document could be considered completed, and ready for any future updates. Removed the internal notes. Moved the internal notes to a separate notes.md file.
+- Explained CTRL+u/shift U lists, and presence statuses.
+
 ## October 21st, 2023:
 ### General usage:
 - Added an example to enable/disable the sound when it is your turn in a game when customizing views and channels.
