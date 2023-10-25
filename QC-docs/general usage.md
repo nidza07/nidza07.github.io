@@ -142,9 +142,11 @@ There are also many shortcuts to help you do things faster, but if at any point 
 Once you connect, you will be in a menu list box. This list will always contain the main menu you are interacting with. This is also the list you should be focused on when performing any other shortcuts. For example, when we say that ctrl+F opens your friends list, you should perform  the shortcut while you are in the menu list. Note that many shortcuts work outside of the list as well, but you will not see their result. For instance, sticking to our friends list example, if you are in the chat box and you press ctrl+F, the friends list will open, but to avoid interrupting your chat, your focus won't go anywhere and will stay in the chat, so you may think that nothing happened.  
 You can always quickly move to the menu list by pressing Alt+M.
 
-If you press tab from here, you will reach the chat edit box. Here you can type a message and press enter. Keep in mind that the chat box is not multiline. Pressing up or down arrow keys will move through your history of the previously written messages. The chat edit box also supports some commands. You can see what they are in the [chat commands section](#chat-commands).
+If you press tab from here, you will reach the chat edit box. Here you can type a message and press enter. Keep in mind that the chat box is not multiline. Pressing up or down arrow keys will move through your history of the previously written messages. The chat edit box also supports some commands. You can see what they are in the [chat commands section](#chat-commands).  
+You can focus the chat box quickly by using the Alt+C shortcut.
 
-Tabbing once more will focus you on the read-only history edit box. This will contain every message automatically spoken by the Playroom, such as a chat message, a private message, or game messages. You can review any messages you missed here.
+Tabbing once more will focus you on the read-only history edit box. This will contain every message automatically spoken by the Playroom, such as a chat message, a private message, or game messages. You can review any messages you missed here.  
+The history field can quickly be focused by using the Alt+H shortcut.
 
 These are all the interface elements you will encounter.  
 Once you connect, the menu list will contain some of the basic options. They are as follows:

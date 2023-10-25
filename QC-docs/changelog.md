@@ -4,6 +4,7 @@ Note: The items below are considered the internal changelog. This means that the
 ## October 25th, 2023:
 ### General usage:
 - In the first letter navigation, mentioned that left and right arrow keys can be used for suit navigation in card games.
+- Added a note about Alt+C and H in the Playroom interface section, while describing each element.
 
 ## October 23rd, 2023:
 ### General usage:
