@@ -1,6 +1,10 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## October 25th, 2023:
+### General usage:
+- In the first letter navigation, mentioned that left and right arrow keys can be used for suit navigation in card games.
+
 ## October 23rd, 2023:
 ### General usage:
 - Added a note about the first letter navigation in the Playroom interface section.

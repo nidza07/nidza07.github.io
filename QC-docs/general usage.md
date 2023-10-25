@@ -88,7 +88,7 @@ However, an attempt was made to document all the available Playroom features, an
 
 As the Playroom receives frequent updates, this documentation should be kept up to date as well. If you notice something that was changed, and is no longer accurate, contact me so I can correct it. My Playroom username is Nikola, and this documentation will hopefully help you know how to send me a private, or a permanent message.
 
-Note: This documentation is still a work in progress. The incomplete sections I  am already aware of, or just things to do in general are marked with //todo. You can help expand or complete them.
+Note: This documentation is still a work in progress. The incomplete sections I  am already aware of, or just things to do in general are in a separate [internal notes file](notes.md). You can help expand or complete them.
 
 Similarly, as I'm not a native speaker, if you notice a grammar/spelling error, feel free to reach out as well and let me know. If you find any section confusing or unclear, feel free to get in  touch as well and make suggestions.
 
@@ -123,7 +123,7 @@ You will always find the latest version under the quick links heading of the hom
 The client follows a standard installation procedure. The Playroom does not install any additional software or toolbars, so you can feel safe to proceed. In case your anti-virus detects the Playroom as malicious, this is most likely due to the fact a new version of the client was recently released. It can take some time before that version gains the reputation of a safe program, but in the meantime, you can report the detection as a false positive/add the Playroom as an exclusion.
 
 #### The connection dialog
-Once the installation is complete and you launch the client, the first thing you will see is the connection dialog. This dialog will ask you to enter your username and password. it also has a few controls we will describe here, all of which can be accessed with the tab key:
+Once the installation is complete and you launch the client, the first thing you will see is the connection dialog. This dialog will ask you to enter your username and password. It also has a few controls we will describe here, all of which can be accessed with the tab key:
 
 - Remember my password: This checkbox will, if checked, remember your login details, so you don't have to enter them each time.
 - Auto login at startup: Described in the [Auto login at startup](#auto-login-at-startup) section of the Playroom options chapter.
@@ -169,6 +169,8 @@ It is important to keep the following two items in mind:
 
 1. First letter navigation does not work in menus where single letter shortcuts to get information are used. For example, it does not work in games, since letters like S are used to check the scores.
 2. In menus where only a few very common actions are used, pressing the first letter will directly activate an item. Currently, these are all  the yes/no questions, where you can press Y or N to answer quickly, or the colour selection in Uno, where the first letter of a colour will select it.
+
+In addition to the first letter navigation, in games with standard cards, you can use the left and right arrow keys to navigate to the previous or next card suit in your hand. This will only work in games where cards are sorted according to their suit.
 
 ## Playing a game
 Once you have configured everything, the first thing you will probably want to do is start a game. Here, some general resources and tips will  be given to improve your experience.
@@ -297,7 +299,7 @@ There are a few more commands, but those work only on free tables:
 These arguments should be entered after the number of sides.
 
 ## History reading and management
-As already explained in the [Playroom interface section](#the-playroom-interface), the next item after the chat edit field is the history edit box. here, you can review every message spoken by the Playroom. This section will explain how to manage your history, easier way to filter and read only certain types of messages, as well as how to customize it to your liking.
+As already explained in the [Playroom interface section](#the-playroom-interface), the next item after the chat edit field is the history edit box. Here, you can review every message spoken by the Playroom. This section will explain how to manage your history, easier way to filter and read only certain types of messages, as well as how to customize it to your liking.
 
 ### Quick history reading
 As a screen reader user, in addition to the edit box, you have a quick way to read your history no matter where you are in the Playroom interface. This can be used to read the history even while chatting or playing a game. The following shortcuts should be used:
@@ -305,7 +307,7 @@ As a screen reader user, in addition to the edit box, you have a quick way to re
 - Page up: Read the previous history message
 - Page down: Read the next history message
 - CTRL or shift+page up: Focus on and read the first history message
-- CTRl or shift+Page down: Focus on and read the last history message
+- CTRL or shift+Page down: Focus on and read the last history message
 
 ### History views and channels
 You may not always be interested to read every message in your history. For example, maybe you are playing a game, but you have received a private message. It might be difficult to find that message due to all the game messages arriving.  
