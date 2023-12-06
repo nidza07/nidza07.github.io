@@ -13,3 +13,9 @@ Once you open the home page, the first thing you should do is login with your ac
 The website will give you a menu of some of the most important functions. The play link will allow you to open the web client directly. If you are not logged in, and activate it, you will first be asked to login. Keep in mind that for the web client to connect successfully, when login in, the remember me checkbox must be checked. You can logout once  you are done playing, if this is not your computer. You also have a link to your account settings, described in the [Account options](#account-options) section, as well as the link to log out.
 
 The main menu will let you browse the forum, read the statistics, or perform a search (currently disabled).
+
+## Account options
+The settings link will  open your account options. You can directly [access it here](https://qcsalon.net/en/options).
+
+The options screen has a list of links, which separate different sections. They are:
+- General settings: Used to change your e-mail address, your password, your nickname, or to delete your account.

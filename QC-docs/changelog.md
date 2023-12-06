@@ -1,10 +1,36 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## December 6th, 2023:
+### General usage:
+- Mentioned shift+P to pause and resume rounds.
+
+## November 13th, 2023:
+### Undocumented features:
+- Started a new document, "Undocumented features". The aim of that document is to explain any game features not written in the game rules, mostly because the rules weren't updated at the time.
+    - Cancelled: The undocumented features will eventually be reported and fixed officially.
+
+## November 6th, 2023:
+### General usage:
+- Clarified that 6 participants is the inbox maximum
+
+### Web client:
+- Added the quick focus shortcuts, alt+M, alt+T, alt+C  and alt+H
+- The shortcut to adjust the streams volume  is back.
+
+## November 2nd, 2023:
+### General usage:
+- Added ctrl+space and ctrl+enter notes in the history section.
+
+## October 29th, 2023:
+### General usage:
+- In the section about editing messages on the forum, mentioned that you cannot multi-post.
+
 ## October 25th, 2023:
 ### General usage:
 - In the first letter navigation, mentioned that left and right arrow keys can be used for suit navigation in card games.
 - Added a note about Alt+C and H in the Playroom interface section, while describing each element.
+- Mentioned that shift+F1 can open the FAQ in the further documents section.
 
 ## October 23rd, 2023:
 ### General usage:

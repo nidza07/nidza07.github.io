@@ -208,6 +208,8 @@ You will often be asked to choose whether you want a score limit or not.
 If you answer yes, you will be asked to type the score to reach.  
 Every game typically has a minimum score limit that has to be entered. In 1000 miles, for example, this is 100 points. If you enter anything below this limit, the game will instead be played either using a limited number of rounds you have entered, or, if this is not suitable for the current game, using no score limit. The limit is always spoken when a game is started and you press the letter S to check the scores, no matter if it is a score limit, or a rounds limit.
 
+If a game has multiple rounds, once a round ends, you have to wait 15 seconds for a new one. If you are the table master, during this waiting period, you can press shift+P to pause the game. The new round won't start until you press the same shortcut again to resume the game.
+
 ### General table management tips
 Once you have created a table, some common tips that apply for every game will be listed here.  
 You will be told several things you can do, such as pressing enter to start the game, B to add bots, shift+B to remove bots, or alt+O  to configure game options.
@@ -310,6 +312,8 @@ As a screen reader user, in addition to the edit box, you have a quick way to re
 - Page down: Read the next history message
 - CTRL or shift+page up: Focus on and read the first history message
 - CTRL or shift+Page down: Focus on and read the last history message
+- CTRL+space: Copy the focused history message.
+CTRL+enter: Open a link in the focused history message, if it has any links.
 
 ### History views and channels
 You may not always be interested to read every message in your history. For example, maybe you are playing a game, but you have received a private message. It might be difficult to find that message due to all the game messages arriving.  
@@ -540,7 +544,7 @@ You may also receive important global Playroom notifications in your inbox. The 
 
 #### Starting a new discussion
 Choosing this option will allow you to start a permanent discussion. Once you press enter on it, you will be asked to type a username.  
-When writing the username, you can separate multiple participants with commas. You can send a message to 5 participants at most. 2 more participants can be invited to the discussion after it was created.  
+When writing the username, you can separate multiple participants with commas. A discussion can have 6 participants at most.
 
 Note: For special cases, you can contact the administration so that more participants can be invited, such as when organizing a tournament.
 
@@ -663,6 +667,8 @@ If you noticed that one of your messages has a mistake, you have the option to e
 To do so, press the applications key or open the context menu on that message. As long as this was a message you posted, the menu will contain an option to edit it.  
 You can also use the shift+E shortcut on your message to access the edit feature directly.
 
+Keep in mind that you can not post multiple messages in a row. If you want to add something to your previous message, the recommended way is to edit it. In your inbox, this limitation does not apply, however you will have to wait some time before being able to post a second message in the same topic, unless it already contains a new reply.
+
 Note: All the functions mentioned above such as editing, voting, or labeling a topic require you to exit out of a topic and then come back to it to see the changes you have made. This is a limitation exclusive to the forum inside the Playroom client
 
 #### Forum subscriptions
@@ -725,7 +731,7 @@ This topic can  have 50 characters at most. The topic can be anything summarizin
 # Further documents
 Here are some additional resources to help you learn more:
 
-- [The Frequently asked questions page, containing answers to some of the most common questions](https://qcsalon.net/en/faq).
+- [The Frequently asked questions page, containing answers to some of the most common questions](https://qcsalon.net/en/faq). This page can also be opened using the Shift+F1 shortcut from the Playroom client.
 - [The shortcuts page, containing a full reference of the Playroom shortcuts](https://qcsalon.net/en/shortcuts).
 - [Web client documentation](webclient.html).
 - [Website documentation](sitedocks.html)

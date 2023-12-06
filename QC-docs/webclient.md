@@ -38,13 +38,13 @@ The game toolbar is exactly the same as the menu list described in the general u
 
 Note: In all cases, the alt key is replaced by Option on the Mac.
 
-Shift tabbing from the toolbar will bring you into the read only history edit box, which is exactly the same as on the Windows client. Tabbing from the game toolbar will introduce a new element, the actions menu:
+Shift tabbing from the toolbar will bring you into the read only history edit box, which is exactly the same as on the Windows client. It can be focused directly with Alt+H. Tabbing from the game toolbar will introduce a new element, the actions menu:
 
-The actions menu is always accessible on the web client. It is a permanent context menu. When a game is not started, this will contain all the relevant table options. If a game is started, it will contain the game context menu, with an option at the bottom to switch to the table menu. This is very useful for touch screen users, who do not have a keyboard connected.
+The actions menu is always accessible on the web client. It is a permanent context menu. When a game is not started, this will contain all the relevant table options. If a game is started, it will contain the game context menu, with an option at the bottom to switch to the table menu. This is very useful for touch screen users, who do not have a keyboard connected. You can reach this menu quickly by pressing Alt+T.
 
 Note: All the interface sections are also divided by headings. This can be used on a touch screen device to more quickly jump to a different item, since there we of course do not have a tab key.
 
-The next section is the chat, which is also the same as on the Windows client, along with a send button. Continuing further, we have two new buttons:
+The next section is the chat, which is also the same as on the Windows client, and can be reached quickly by pressing Alt+C. Further along with a send button. Continuing further, we have two new buttons:
 
 1. Layout. This is a button which will only change the visual presence of the web client. It will adjust its layout among several possibilities, depending on whether you are on a mobile or a desktop device.
 2. Clear history. Many browsers and devices do not perform so  well when the history is too large, so you can use this button to quickly clear it and restore the web client performance.
@@ -77,7 +77,7 @@ When configuring channels and views on the web client, keep the following differ
 Even though almost every shortcut works the same as it does on the Windows client, the Web client has a few differences:  
 
 - The f2 key serves no purpose, since the table menu is always accessible on the Web client.
-- The F6 key to change the sound volume is not used. Instead, use F7 and F8 to change the sounds volume, and shift+F7 and F8 to change the notifications volume.
+- The F6 key to change the sound volume is not used. Instead, use F7 and F8 to change the sounds volume, shift+F7 and F8 to change the notifications volume, and CTRL+f7 and f8 to change the streams volume.
 - The shift+F7 shortcut to stop all playing sounds does not exist.
 - The shift+F8 shortcut to disable automatic message reading does not exist. Note: With many screen readers, you often have a way to disable reading live regions, or dynamic content changes. Disabling this will also stop the reading of messages on the Playroom Web client.
 
