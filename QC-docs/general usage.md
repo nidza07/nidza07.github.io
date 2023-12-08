@@ -609,9 +609,7 @@ This option will open the Playroom forum directly in your client.
 In fact, when we talked about the inbox earlier, the inbox is also a forum type, though only accessible to you, and with every user having their own inbox.  
 However, the Playroom forum will allow you to make suggestions, report bugs, be informed about the Playroom news and updates, and discuss various topics with the community.
 
-It is pretty similar to permanent messages, except that it is accessible to everybody.
-
-Here, only the main differences will be highlighted.
+Here, only the main differences between the forum and the inbox will be highlighted, as well as some additional features.
 
 Note: Some more features are available when using the forum from the Playroom website. These are discussed in the [website documentation](/sitedocs).  
 
@@ -660,14 +658,14 @@ A topic can have a poll you can vote on. They can also often be surveys, posted 
 If the topic has a poll, you will  see it at the top of the menu once you open it. You can check one answer, or multiple answers, depending on how it is configured.  
 At the bottom of the menu, you will be told the rules of the current  poll: When does it close, whether you can  select multiple answers, or whether the answers are anonymous.
 
-Note: To create a poll yourself, you must use the website. This process is described further in the [website documentation](/sitedocks)
+Note: To create a poll yourself, you must use the website. This process is described further in the [website documentation](/sitedocs)
 
 #### Editing your message
 If you noticed that one of your messages has a mistake, you have the option to edit it.  
 To do so, press the applications key or open the context menu on that message. As long as this was a message you posted, the menu will contain an option to edit it.  
 You can also use the shift+E shortcut on your message to access the edit feature directly.
 
-Keep in mind that you can not post multiple messages in a row. If you want to add something to your previous message, the recommended way is to edit it. In your inbox, this limitation does not apply, however you will have to wait some time before being able to post a second message in the same topic, unless it already contains a new reply.
+Keep in mind that you can not post multiple messages in a row until a few hours pass. If you have something to add to your last message, you can edit it.
 
 Note: All the functions mentioned above such as editing, voting, or labeling a topic require you to exit out of a topic and then come back to it to see the changes you have made. This is a limitation exclusive to the forum inside the Playroom client
 

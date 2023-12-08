@@ -1,6 +1,11 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## December 8th, 2023:
+### General usage:
+- Cleaned up the intro to the forum section a little and removed the redundant multiple mentions about the forum being similar to the inbox
+- Fixed the multiple replies in a row rule to reflect the latest policy
+
 ## December 6th, 2023:
 ### General usage:
 - Mentioned shift+P to pause and resume rounds.
