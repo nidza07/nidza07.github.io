@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Quentin C's Playroom - general usage documentation</title>
+  <title>Quentin C's Playroom - general usage</title>
   <style>
     html {
       color: #1a1a1a;
@@ -167,160 +167,157 @@
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <h1 id="quentin-cs-playroom---general-usage">Quentin C’s Playroom -
 General usage</h1>
 <h2 id="table-of-contents">Table of contents</h2>
 <ol type="1">
-<li><a href="#disclaimer">Disclaimer</a>.</li>
-<li><a href="#introduction">Introduction</a>.</li>
-<li><a href="#getting-started">Getting started</a>.
+<li><a href="#disclaimer">Disclaimer</a></li>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#getting-started">Getting started</a>
 <ul>
 <li><a
 href="#familiarizing-yourself-with-the-community-rules">Familiarizing
-yourself with the community rules</a>.</li>
-<li><a href="#playing-from-windows">Playing from Windows</a>.
+yourself with the community rules</a></li>
+<li><a href="#playing-from-windows">Playing from Windows</a>
 <ul>
-<li><a href="#the-connection-dialog">The connection dialog</a>.</li>
+<li><a href="#the-connection-dialog">The connection dialog</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#the-playroom-interface">The Playroom interface</a>.
+<li><a href="#the-playroom-interface">The Playroom interface</a>
 <ul>
-<li><a href="#first-letter-navigation">First letter navigation</a>.</li>
+<li><a href="#first-letter-navigation">First letter navigation</a></li>
 </ul></li>
-<li><a href="#playing-a-game">Playing a game</a>.
+<li><a href="#playing-a-game">Playing a game</a>
 <ul>
 <li><a href="#general-table-management-tips">General table management
-tips</a>.</li>
+tips</a></li>
 </ul></li>
-<li><a href="#watching-games">Watching games</a>.</li>
+<li><a href="#watching-games">Watching games</a></li>
 <li><a href="#the-list-of-online-users">The list of online
-users</a>.</li>
-<li><a href="#chatting">Chatting</a>.
+users</a></li>
+<li><a href="#chatting">Chatting</a>
 <ul>
-<li><a href="#private-messaging">Private messaging</a>.
+<li><a href="#private-messaging">Private messaging</a>
 <ul>
 <li><a href="replying-to-a-private-message">Replying to a private
-message</a>.</li>
+message</a></li>
 <li><a href="#writing-to-the-same-person-more-than-once">Writing to the
-same person more than once</a>.</li>
+same person more than once</a></li>
 </ul></li>
-<li><a href="#chat-commands">Chat commands</a>.</li>
+<li><a href="#chat-commands">Chat commands</a></li>
 </ul></li>
 <li><a href="#history-reading-and-management">History reading and
-management</a>.
+management</a>
 <ul>
-<li><a href="#quick-history-reading">Quick history reading</a>.</li>
+<li><a href="#quick-history-reading">Quick history reading</a></li>
 <li><a href="#history-views-and-channels">History views and
-channels</a>.</li>
+channels</a></li>
 <li><a href="#clearing-or-copying-your-history">Clearing or copying your
-history</a>.</li>
+history</a></li>
 </ul></li>
-<li><a href="#arcade-games">Arcade games</a>.
+<li><a href="#arcade-games">Arcade games</a>
 <ul>
 <li><a href="#accessing-an-arcade-game">Accessing an arcade
-game</a>.</li>
-<li><a href="#game-download-and-start">Game download and start</a>.</li>
+game</a></li>
+<li><a href="#game-download-and-start">Game download and start</a></li>
 </ul></li>
-<li><a href="#playroom-options">Playroom options</a>.
+<li><a href="#playroom-options">Playroom options</a>
 <ul>
-<li><a href="#language">Language</a>.</li>
-<li><a href="#general-options">General options</a>.
+<li><a href="#language">Language</a></li>
+<li><a href="#general-options">General options</a>
 <ul>
 <li><a href="#ask-a-confirmation-before-exiting">Ask a confirmation
-before exiting</a>.</li>
-<li><a href="#minimize-to-taskbar">Minimize to taskbar</a>.</li>
-<li><a href="#auto-login-at-startup">Auto login at startup</a>.</li>
+before exiting</a></li>
+<li><a href="#minimize-to-taskbar">Minimize to taskbar</a></li>
+<li><a href="#auto-login-at-startup">Auto login at startup</a></li>
 <li><a href="#automatically-save-histories">Automatically save
-histories</a>.</li>
+histories</a></li>
 </ul></li>
-<li><a href="#audio-and-text-to-speech">Audio and text-to-speech</a>.
+<li><a href="#audio-and-text-to-speech">Audio and text-to-speech</a>
 <ul>
-<li><a href="#sound-volume">Sound volume</a>.</li>
-<li><a href="#sound-audio-output">Sound audio output</a>.</li>
+<li><a href="#sound-volume">Sound volume</a></li>
+<li><a href="#sound-audio-output">Sound audio output</a></li>
 <li><a href="#duck-notification-sounds-when-arcade-mode-is-active">Duck
-notification sounds when arcade mode is active</a>.</li>
+notification sounds when arcade mode is active</a></li>
 <li><a href="#disable-interface-sounds">Disable interface
-sounds</a>.</li>
+sounds</a></li>
 <li><a href="#use-direct-sound-instead-of-wasapi">Use direct sound
-instead of WASAPI</a>.</li>
+instead of WASAPI</a></li>
 </ul></li>
-<li><a href="#reading-and-appearance">Reading and appearance</a>.
+<li><a href="#reading-and-appearance">Reading and appearance</a>
 <ul>
-<li><a href="#channels">Channels</a>.
+<li><a href="#channels">Channels</a>
 <ul>
-<li><a href="#channel-options">Channel options</a>.</li>
+<li><a href="#channel-options">Channel options</a></li>
 </ul></li>
-<li><a href="#views">Views</a>.
+<li><a href="#views">Views</a>
 <ul>
-<li><a href="#view-options">View options</a>.</li>
+<li><a href="#view-options">View options</a></li>
 </ul></li>
-<li><a href="#colors">Colors</a>.</li>
-<li><a href="#enable-tooltips">Enable tooltips</a>.</li>
-<li><a href="#use-embedded-web-view">Use embedded web view</a>.</li>
+<li><a href="#colors">Colors</a></li>
+<li><a href="#enable-tooltips">Enable tooltips</a></li>
+<li><a href="#use-embedded-web-view">Use embedded web view</a></li>
 </ul></li>
-<li><a href="#security">Security</a>.
+<li><a href="#security">Security</a>
 <ul>
 <li><a href="#use-only-secure-connections">Use only secure
-connections</a>.</li>
-<li><a href="#remember-passwords">Remember passwords</a>.</li>
+connections</a></li>
+<li><a href="#remember-passwords">Remember passwords</a></li>
 </ul></li>
-<li><a href="#privacy">Privacy</a>.</li>
+<li><a href="#privacy">Privacy</a></li>
 <li><a href="#restore-default-settings">Restore default
-settings</a>.</li>
+settings</a></li>
 </ul></li>
-<li><a href="#additional-features">Additional features</a>.
+<li><a href="#additional-features">Additional features</a>
 <ul>
-<li><a href="#your-inbox">Your inbox</a>.
+<li><a href="#your-inbox">Your inbox</a>
 <ul>
 <li><a href="#starting-a-new-discussion">Starting a new
-discussion</a>.</li>
-<li><a href="#reviewing-discussions">Reviewing discussions</a>.</li>
+discussion</a></li>
+<li><a href="#reviewing-discussions">Reviewing discussions</a></li>
 <li><a href="#subscribing-to-this-forum">Subscribing to this
-forum</a>.</li>
+forum</a></li>
 </ul></li>
-<li><a href="#friends-list">Friends list</a>.
+<li><a href="#friends-list">Friends list</a>
 <ul>
-<li><a href="#adding-people">Adding people</a>.</li>
-<li><a href="#accepting-requests">Accepting requests</a>.</li>
-<li><a href="#favorites">Favorites</a>.</li>
+<li><a href="#adding-people">Adding people</a></li>
+<li><a href="#accepting-requests">Accepting requests</a></li>
+<li><a href="#favorites">Favorites</a></li>
 </ul></li>
-<li><a href="#blocked-users-list">Blocked users list</a>.</li>
-<li><a href="#status-messages">Status messages</a>.</li>
-<li><a href="#open-forum">Open forum</a>.
+<li><a href="#blocked-users-list">Blocked users list</a></li>
+<li><a href="#status-messages">Status messages</a></li>
+<li><a href="#open-forum">Open forum</a>
 <ul>
-<li><a href="#creating-a-topic">Creating a topic</a>.</li>
-<li><a href="#viewing-existing-topics">Viewing existing topics</a>.</li>
-<li><a href="#topic-score">Topic score</a>.
+<li><a href="#creating-a-topic">Creating a topic</a></li>
+<li><a href="#viewing-existing-topics">Viewing existing topics</a></li>
+<li><a href="#topic-score">Topic score</a>
 <ul>
-<li><a href="#voting-on-a-post">Voting on a post</a>.
+<li><a href="#voting-on-a-post">Voting on a post</a>
 <ul>
-<li><a href="#quick-voting">Quick voting</a>.</li>
+<li><a href="#quick-voting">Quick voting</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#topic-labels">Topic labels</a>.</li>
-<li><a href="#polls">Polls</a>.</li>
-<li><a href="#editing-your-message">Editing your message</a>.</li>
-<li><a href="#forum-subscriptions">Forum subscriptions</a>.</li>
+<li><a href="#topic-labels">Topic labels</a></li>
+<li><a href="#polls">Polls</a></li>
+<li><a href="#editing-your-message">Editing your message</a></li>
+<li><a href="#forum-subscriptions">Forum subscriptions</a></li>
 </ul></li>
-<li><a href="#send-a-history-report">Send a history report</a>.</li>
-<li><a href="#open-website">Open website</a>.</li>
-<li><a href="#save-history-in-a-file">Save history in a file</a>.</li>
+<li><a href="#send-a-history-report">Send a history report</a></li>
+<li><a href="#open-website">Open website</a></li>
+<li><a href="#save-history-in-a-file">Save history in a file</a></li>
 <li><a href="#save-current-view-in-a-file">Save current view in a
-file</a>.</li>
+file</a></li>
 </ul></li>
-<li><a href="#bonus-features">Bonus features</a>.
+<li><a href="#bonus-features">Bonus features</a>
 <ul>
-<li><a href="#audio-streams">Audio streams</a>.</li>
-<li><a href="#table-topic">Table topic</a>.</li>
+<li><a href="#audio-streams">Audio streams</a></li>
+<li><a href="#table-topic">Table topic</a></li>
 </ul></li>
-<li><a href="#further-documents">Further documents</a>.</li>
-<li><a href="#credits">Credits</a>.</li>
-<li><a href="#for-translators">For translators</a>.</li>
+<li><a href="#further-documents">Further documents</a></li>
+<li><a href="#credits">Credits</a></li>
+<li><a href="#for-translators">For translators</a></li>
 </ol>
 <h2 id="disclaimer">Disclaimer</h2>
 <p>This documentation is completely unofficial. It has no connection to
@@ -921,8 +918,8 @@ in your system tray. The system tray can be accessed with Insert+F11 if
 using Jaws, or Windows+B if using NVDA. If you find the Playroom icon
 there, you can press enter to maximize it again, or open the context
 menu with the applications key to close it completely.</p>
-<p>Note: There is a known issue causing the Playroom to still stay
-focused after pressing Alt+F4 with this option enabled. Just press
+<p>Note: With NVDA, there is a known issue causing the Playroom to still
+stay focused after pressing Alt+F4 with this option enabled. Just press
 Alt+tab to move away from the Playroom window, and the window should
 completely disappear.</p>
 <p>This option is disabled by default.</p>
@@ -996,6 +993,28 @@ href="#history-views-and-channels">Channels and views section</a>.</p>
 Playroom messages. This list is not customizable, but how a certain
 channel is displayed is. Pressing enter on a channel will open the
 options menu for that channel.</p>
+<p>The following is a list of all the channels currently available, and
+which messages they contain:</p>
+<ul>
+<li>System messages: Important global Playroom notifications, such as an
+incoming server reboot or other technical maintenance.</li>
+<li>Game messages: Everything related to a game, such as the turns of
+each player or score announcements.</li>
+<li>Public chat: The chat messages written on a table.</li>
+<li>Private messages: Private messages you received or sent.</li>
+<li>Invitations: Any invitations to a table you may have received.</li>
+<li>Table messages: Messages about who joined or left a table, as well
+as any other messages related to table participation</li>
+<li>Global messages: The main room messages informing about table
+creations, joining or leaving, as well as messages informing about the
+disconnections/reconnections of each player.</li>
+<li>Notifications: Important notifications, such as when it is your turn
+in a game.</li>
+<li>Friends: Messages about incoming friend requests or their status, as
+well as about your friends leaving/entering the Playroom.</li>
+<li>Administration: Any messages you may have received from the Playroom
+staff, or responses to your messages.</li>
+</ul>
 <h5 id="channel-options">Channel options</h5>
 <p>Once you choose a channel to customize, you have the following
 options:</p>
