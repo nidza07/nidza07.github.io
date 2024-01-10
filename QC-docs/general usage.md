@@ -1,86 +1,86 @@
 # Quentin C's Playroom - General usage
 ## Table of contents
-1. [Disclaimer](#disclaimer).
-2. [Introduction](#introduction).
-3. [Getting started](#getting-started).
-    - [Familiarizing yourself with the community rules](#familiarizing-yourself-with-the-community-rules).
-    - [Playing from Windows](#playing-from-windows).
-        - [The connection dialog](#the-connection-dialog).
-4. [The Playroom interface](#the-playroom-interface).
-    - [First letter navigation](#first-letter-navigation).
-5. [Playing a game](#playing-a-game).
-    - [General table management tips](#general-table-management-tips).
-6. [Watching games](#watching-games).
-7. [The list of online users](#the-list-of-online-users).
-8. [Chatting](#chatting).
-    - [Private messaging](#private-messaging).
-        - [Replying to a private message](replying-to-a-private-message).
-        - [Writing to the same person more than once](#writing-to-the-same-person-more-than-once).
-    - [Chat commands](#chat-commands).
-9. [History reading and management](#history-reading-and-management).
-    - [Quick history reading](#quick-history-reading).
-    - [History views and channels](#history-views-and-channels).
-    - [Clearing or copying your history](#clearing-or-copying-your-history).
-10. [Arcade games](#arcade-games).
-    - [Accessing an arcade game](#accessing-an-arcade-game).
-    - [Game download and start](#game-download-and-start).
-11. [Playroom options](#playroom-options).
-    - [Language](#language).
-    - [General options](#general-options).
-        - [Ask a confirmation before exiting](#ask-a-confirmation-before-exiting).
-        - [Minimize to taskbar](#minimize-to-taskbar).
-        - [Auto login at startup](#auto-login-at-startup).
-        - [Automatically save histories](#automatically-save-histories).
-    - [Audio and text-to-speech](#audio-and-text-to-speech).
-        - [Sound volume](#sound-volume).
-        - [Sound audio output](#sound-audio-output).
-        - [Duck notification sounds when arcade mode is active](#duck-notification-sounds-when-arcade-mode-is-active).
-        - [Disable interface sounds](#disable-interface-sounds).
-        - [Use direct sound instead of WASAPI](#use-direct-sound-instead-of-wasapi).
-    - [Reading and appearance](#reading-and-appearance).
-        - [Channels](#channels).
-            - [Channel options](#channel-options).
-        - [Views](#views).
-            - [View options](#view-options).
-        - [Colors](#colors).
-        - [Enable tooltips](#enable-tooltips).
-        - [Use embedded web view](#use-embedded-web-view).
-    - [Security](#security).
-        - [Use only secure connections](#use-only-secure-connections).
-        - [Remember passwords](#remember-passwords).
-    - [Privacy](#privacy).
-    - [Restore default settings](#restore-default-settings).
-12. [Additional features](#additional-features).
-    - [Your inbox](#your-inbox).
-        - [Starting a new discussion](#starting-a-new-discussion).
-        - [Reviewing discussions](#reviewing-discussions).
-        - [Subscribing to this forum](#subscribing-to-this-forum).
-    - [Friends list](#friends-list).
-        - [Adding people](#adding-people).
-        - [Accepting requests](#accepting-requests).
-        - [Favorites](#favorites).
-    - [Blocked users list](#blocked-users-list).
-    - [Status messages](#status-messages).
-    - [Open forum](#open-forum).
-        - [Creating a topic](#creating-a-topic).
-        - [Viewing existing topics](#viewing-existing-topics).
-        - [Topic score](#topic-score).
-            - [Voting on a post](#voting-on-a-post).
-                - [Quick voting](#quick-voting).
-        - [Topic labels](#topic-labels).
-        - [Polls](#polls).
-        - [Editing your message](#editing-your-message).
-        - [Forum subscriptions](#forum-subscriptions).
-    - [Send a history report](#send-a-history-report).
-    - [Open website](#open-website).
-    - [Save history in a file](#save-history-in-a-file).
-    - [Save current view in a file](#save-current-view-in-a-file).
-13. [Bonus features](#bonus-features).
-    - [Audio streams](#audio-streams).
-    - [Table topic](#table-topic).
-14. [Further documents](#further-documents).
-15. [Credits](#credits).
-16. [For translators](#for-translators).
+1. [Disclaimer](#disclaimer)
+2. [Introduction](#introduction)
+3. [Getting started](#getting-started)
+    - [Familiarizing yourself with the community rules](#familiarizing-yourself-with-the-community-rules)
+    - [Playing from Windows](#playing-from-windows)
+        - [The connection dialog](#the-connection-dialog)
+4. [The Playroom interface](#the-playroom-interface)
+    - [First letter navigation](#first-letter-navigation)
+5. [Playing a game](#playing-a-game)
+    - [General table management tips](#general-table-management-tips)
+6. [Watching games](#watching-games)
+7. [The list of online users](#the-list-of-online-users)
+8. [Chatting](#chatting)
+    - [Private messaging](#private-messaging)
+        - [Replying to a private message](replying-to-a-private-message)
+        - [Writing to the same person more than once](#writing-to-the-same-person-more-than-once)
+    - [Chat commands](#chat-commands)
+9. [History reading and management](#history-reading-and-management)
+    - [Quick history reading](#quick-history-reading)
+    - [History views and channels](#history-views-and-channels)
+    - [Clearing or copying your history](#clearing-or-copying-your-history)
+10. [Arcade games](#arcade-games)
+    - [Accessing an arcade game](#accessing-an-arcade-game)
+    - [Game download and start](#game-download-and-start)
+11. [Playroom options](#playroom-options)
+    - [Language](#language)
+    - [General options](#general-options)
+        - [Ask a confirmation before exiting](#ask-a-confirmation-before-exiting)
+        - [Minimize to taskbar](#minimize-to-taskbar)
+        - [Auto login at startup](#auto-login-at-startup)
+        - [Automatically save histories](#automatically-save-histories)
+    - [Audio and text-to-speech](#audio-and-text-to-speech)
+        - [Sound volume](#sound-volume)
+        - [Sound audio output](#sound-audio-output)
+        - [Duck notification sounds when arcade mode is active](#duck-notification-sounds-when-arcade-mode-is-active)
+        - [Disable interface sounds](#disable-interface-sounds)
+        - [Use direct sound instead of WASAPI](#use-direct-sound-instead-of-wasapi)
+    - [Reading and appearance](#reading-and-appearance)
+        - [Channels](#channels)
+            - [Channel options](#channel-options)
+        - [Views](#views)
+            - [View options](#view-options)
+        - [Colors](#colors)
+        - [Enable tooltips](#enable-tooltips)
+        - [Use embedded web view](#use-embedded-web-view)
+    - [Security](#security)
+        - [Use only secure connections](#use-only-secure-connections)
+        - [Remember passwords](#remember-passwords)
+    - [Privacy](#privacy)
+    - [Restore default settings](#restore-default-settings)
+12. [Additional features](#additional-features)
+    - [Your inbox](#your-inbox)
+        - [Starting a new discussion](#starting-a-new-discussion)
+        - [Reviewing discussions](#reviewing-discussions)
+        - [Subscribing to this forum](#subscribing-to-this-forum)
+    - [Friends list](#friends-list)
+        - [Adding people](#adding-people)
+        - [Accepting requests](#accepting-requests)
+        - [Favorites](#favorites)
+    - [Blocked users list](#blocked-users-list)
+    - [Status messages](#status-messages)
+    - [Open forum](#open-forum)
+        - [Creating a topic](#creating-a-topic)
+        - [Viewing existing topics](#viewing-existing-topics)
+        - [Topic score](#topic-score)
+            - [Voting on a post](#voting-on-a-post)
+                - [Quick voting](#quick-voting)
+        - [Topic labels](#topic-labels)
+        - [Polls](#polls)
+        - [Editing your message](#editing-your-message)
+        - [Forum subscriptions](#forum-subscriptions)
+    - [Send a history report](#send-a-history-report)
+    - [Open website](#open-website)
+    - [Save history in a file](#save-history-in-a-file)
+    - [Save current view in a file](#save-current-view-in-a-file)
+13. [Bonus features](#bonus-features)
+    - [Audio streams](#audio-streams)
+    - [Table topic](#table-topic)
+14. [Further documents](#further-documents)
+15. [Credits](#credits)
+16. [For translators](#for-translators)
 
 ## Disclaimer
 This documentation is completely unofficial. It has no connection to the Playroom staff at all, other than a link to the shortcuts reference, and a FAQ page, written by the English Playroom staff.  
@@ -388,7 +388,7 @@ If this setting is enabled, before you press alt+F4 or close the Playroom from t
 #### Minimize to taskbar
 If this setting is enabled, when pressing Alt+F4 to close the Playroom, the Playroom will stay open in the background and will remain in your system tray. The system tray can be accessed with Insert+F11 if using Jaws, or Windows+B if using NVDA. If you find the Playroom icon there, you can press enter to maximize it again, or open the context menu with the applications key to close it completely.
 
-Note: There is a known issue causing the Playroom to still stay focused after pressing Alt+F4 with this option enabled. Just press Alt+tab to move away from the Playroom window, and the window should completely disappear.  
+Note: With NVDA, there is a known issue causing the Playroom to still stay focused after pressing Alt+F4 with this option enabled. Just press Alt+tab to move away from the Playroom window, and the window should completely disappear.  
 
 This option is disabled by default.
 
@@ -441,6 +441,19 @@ This menu will let you customize everything regarding your channels and views. C
 
 #### Channels
 This menu will open a list of all the channels available for the Playroom messages. This list is not customizable, but how a certain channel is displayed is. Pressing enter on a channel will open the options menu for that channel.
+
+The following is a list of all the channels currently available, and which messages they contain:
+
+- System messages: Important global Playroom notifications, such as an incoming server reboot or other technical maintenance.
+- Game messages: Everything related to a game, such as the turns of each player or score announcements.
+- Public chat: The chat messages written on a table.
+- Private messages: Private messages you received or sent.
+- Invitations: Any invitations to a table you may have received.
+- Table messages: Messages about who joined or left a table, as well as any other messages related to table participation
+- Global messages: The main room messages informing about table creations, joining or leaving, as well as messages informing about the disconnections/reconnections of each player.
+- Notifications: Important notifications, such as when it is your turn in a game.
+- Friends: Messages about incoming friend requests or their status, as well as about your friends leaving/entering the Playroom.
+- Administration: Any messages you may have received from the Playroom staff, or responses to your messages.
 
 ##### Channel options
 Once you choose a channel to customize, you have the following options:

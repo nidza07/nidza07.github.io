@@ -1,6 +1,15 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## January 7th, 2024:
+### General usage:
+- In reading and appearance, added a list of channels and what messages they contain.
+
+## January 3rd, 2024:
+### General usage:
+- Remove dots from TOC
+- Clarify that the system tray bug happens with NVDA only
+
 ## December 8th, 2023:
 ### General usage:
 - Cleaned up the intro to the forum section a little and removed the redundant multiple mentions about the forum being similar to the inbox
