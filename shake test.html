@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Device Shake Detection</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+    }
+    #status {
+        font-size: 24px;
+        margin-top: 50px;
+    }
+</style>
+</head>
+<body>
+
+<div id="status">Shake your device!</div>
+
+<script>
+    if (typeof DeviceMotionEvent.requestPermission === 'function') {
+        DeviceMotionEvent.requestPermission()
+            .then(permissionState => {
+                if (permissionState === 'granted') {
+                    window.addEventListener('devicemotion', handleMotion);
+                } else {
+                    alert('Permission to access motion sensor denied.');
+                }
+            })
+            .catch(console.error);
+    } else {
+        window.addEventListener('devicemotion', handleMotion);
+    }
+
+    function handleMotion(event) {
+        // Get acceleration values
+        var acceleration = event.accelerationIncludingGravity;
+
+        // Calculate total acceleration
+        var totalAcceleration = Math.sqrt(
+            Math.pow(acceleration.x, 2) +
+            Math.pow(acceleration.y, 2) +
+            Math.pow(acceleration.z, 2)
+        );
+
+        // Define threshold for shake detection
+        var shakeThreshold = 15;
+
+        // Check if the device is being shaken
+        if (totalAcceleration > shakeThreshold) {
+            document.getElementById('status').textContent = 'Device is shaking!';
+        } else {
+            document.getElementById('status').textContent = 'Shake your device!';
+        }
+    }
+</script>
+
+</body>
+</html>
