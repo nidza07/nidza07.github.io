@@ -18,21 +18,29 @@
 <body>
 
 <div id="status">Shake your device!</div>
+<button id="permissionButton">Ask for permission</button>
 
 <script>
-    if (typeof DeviceMotionEvent.requestPermission === 'function') {
-        DeviceMotionEvent.requestPermission()
-            .then(permissionState => {
-                if (permissionState === 'granted') {
-                    window.addEventListener('devicemotion', handleMotion);
-                } else {
-                    alert('Permission to access motion sensor denied.');
-                }
-            })
-            .catch(console.error);
-    } else {
-        window.addEventListener('devicemotion', handleMotion);
-    }
+    var permissionButton = document.getElementById('permissionButton');
+
+    permissionButton.addEventListener('click', function() {
+        if (typeof DeviceMotionEvent.requestPermission === 'function') {
+            DeviceMotionEvent.requestPermission()
+                .then(permissionState => {
+                    if (permissionState === 'granted') {
+                        window.addEventListener('devicemotion', handleMotion);
+                    } else {
+                        alert('Permission to access motion sensor denied.');
+                    }
+                })
+                .catch(console.error);
+        } else {
+            window.addEventListener('devicemotion', handleMotion);
+        }
+        
+        // Disable the button after permission is requested
+        permissionButton.disabled = true;
+    });
 
     function handleMotion(event) {
         // Get acceleration values
