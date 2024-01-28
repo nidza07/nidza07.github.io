@@ -17,11 +17,14 @@
 </head>
 <body>
 
-<div id="status" aria-live="assertive">Shake your device!</div>
+<div id="status">Shake your device!</div>
 <button id="permissionButton">Ask for permission</button>
+
+<audio id="shakingSound" src="shake.m4a"></audio>
 
 <script>
     var permissionButton = document.getElementById('permissionButton');
+    var shakingSound = document.getElementById('shakingSound');
 
     permissionButton.addEventListener('click', function() {
         if (typeof DeviceMotionEvent.requestPermission === 'function') {
@@ -59,8 +62,19 @@
         // Check if the device is being shaken
         if (totalAcceleration > shakeThreshold) {
             document.getElementById('status').textContent = 'Device is shaking!';
+            playShakingSound();
         } else {
             document.getElementById('status').textContent = 'Shake your device!';
+        }
+    }
+
+    function playShakingSound() {
+        // Check if the sound is loaded
+        if (shakingSound.readyState === 4) { // 4 means the audio is loaded
+            shakingSound.currentTime = 0; // Reset sound to beginning
+            shakingSound.play();
+        } else {
+            console.error('Sound not loaded yet.');
         }
     }
 </script>
