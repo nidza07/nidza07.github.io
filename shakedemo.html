@@ -9,21 +9,18 @@
         font-family: Arial, sans-serif;
         text-align: center;
     }
-    #status {
-        font-size: 24px;
-        margin-top: 50px;
+    #permissionButton {
+        margin-bottom: 20px;
     }
 </style>
 </head>
 <body>
 
-<div id="status">Shake your device!</div>
+<div id="status">Permission not requested</div>
 <button id="permissionButton">Ask for permission</button>
 
 <script>
     var permissionButton = document.getElementById('permissionButton');
-    var speaking = false;
-    var hasSpoken = false;
 
     permissionButton.addEventListener('click', function() {
         if (typeof DeviceMotionEvent.requestPermission === 'function') {
@@ -31,6 +28,7 @@
                 .then(permissionState => {
                     if (permissionState === 'granted') {
                         window.addEventListener('devicemotion', handleMotion);
+                        document.getElementById('status').textContent = 'Permission granted';
                     } else {
                         alert('Permission to access motion sensor denied.');
                     }
@@ -38,6 +36,7 @@
                 .catch(console.error);
         } else {
             window.addEventListener('devicemotion', handleMotion);
+            document.getElementById('status').textContent = 'Permission granted';
         }
         
         // Disable the button after permission is requested
@@ -60,22 +59,8 @@
 
         // Check if the device is being shaken
         if (totalAcceleration > shakeThreshold) {
-            document.getElementById('status').textContent = 'Device is shaking!';
-            if (!speaking && !hasSpoken) {
-                speak('Device is shaking!');
-                speaking = true;
-                hasSpoken = true;
-            }
-        } else {
-            document.getElementById('status').textContent = 'Shake your device!';
-            speaking = false;
-            hasSpoken = false;
+            alert('Device is shaking!');
         }
-    }
-
-    function speak(message) {
-        var utterance = new SpeechSynthesisUtterance(message);
-        window.speechSynthesis.speak(utterance);
     }
 </script>
 
