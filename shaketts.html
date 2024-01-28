@@ -22,7 +22,7 @@
 
 <script>
     var permissionButton = document.getElementById('permissionButton');
-    var vibrationDuration = 200; // Duration of the vibration in milliseconds
+    var speaking = false;
 
     permissionButton.addEventListener('click', function() {
         if (typeof DeviceMotionEvent.requestPermission === 'function') {
@@ -60,13 +60,19 @@
         // Check if the device is being shaken
         if (totalAcceleration > shakeThreshold) {
             document.getElementById('status').textContent = 'Device is shaking!';
-            // Vibrate the device
-            if ('vibrate' in navigator) {
-                navigator.vibrate(vibrationDuration);
+            if (!speaking) {
+                speak('Device is shaking!');
+                speaking = true;
             }
         } else {
             document.getElementById('status').textContent = 'Shake your device!';
+            speaking = false;
         }
+    }
+
+    function speak(message) {
+        var utterance = new SpeechSynthesisUtterance(message);
+        window.speechSynthesis.speak(utterance);
     }
 </script>
 
