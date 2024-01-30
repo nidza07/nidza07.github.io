@@ -1,6 +1,12 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## January 30th, 2024:
+### General usage:
+- Fixed bad list sintax with the CTRL+space/enter explanations
+- Clarified friends notifications in the PM history view
+
+
 ## January 7th, 2024:
 ### General usage:
 - In reading and appearance, added a list of channels and what messages they contain.

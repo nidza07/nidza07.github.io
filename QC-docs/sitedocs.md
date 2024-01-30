@@ -1,3 +1,10 @@
+---
+generator: pandoc
+lang: en
+title: Quentin C's Playroom - Website documentation
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
+
 # Website documentation
 
 ## Table of contents

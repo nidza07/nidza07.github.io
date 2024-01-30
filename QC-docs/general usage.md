@@ -1,3 +1,10 @@
+---
+generator: pandoc
+lang: en
+title: Quentin C's Playroom - general usage
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
+
 # Quentin C's Playroom - General usage
 ## Table of contents
 1. [Disclaimer](#disclaimer)
@@ -313,7 +320,7 @@ As a screen reader user, in addition to the edit box, you have a quick way to re
 - CTRL or shift+page up: Focus on and read the first history message
 - CTRL or shift+Page down: Focus on and read the last history message
 - CTRL+space: Copy the focused history message.
-CTRL+enter: Open a link in the focused history message, if it has any links.
+- CTRL+enter: Open a link in the focused history message, if it has any links.
 
 ### History views and channels
 You may not always be interested to read every message in your history. For example, maybe you are playing a game, but you have received a private message. It might be difficult to find that message due to all the game messages arriving.  
@@ -332,7 +339,7 @@ Here are all the available views by default, as well as which messages they cont
 1. General: This view contains your entire history.
 2. Game: Contains game messages. Who played what, scores, everything related to the game...
 3. Discussion: Groups your private messages, public chats, table messages, invitations, and messages related to your friends. In short, everything related to the communication with other Playroom users.
-4. Private messages: Shows your private messages.
+4. Private messages: Shows your private messages, as well as notifications related to your friends.
 5. Invitations: Shows any game invitations you may have received.
 6. Friends: Shows the messages related to your friends, such as entering and leaving the Playroom or received/accepted friend requests.
 7. Public chat: Shows all the messages written in the public chat.
