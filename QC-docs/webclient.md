@@ -5,7 +5,6 @@ title: Quentin C's Playroom - Web client documentation
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-# Web client documentation
 
 ## Table of contents
 1. [Introduction](#introduction).

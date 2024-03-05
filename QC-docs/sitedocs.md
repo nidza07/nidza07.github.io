@@ -5,8 +5,6 @@ title: Quentin C's Playroom - Website documentation
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-# Website documentation
-
 ## Table of contents
 1. [Introduction](#introduction).
 2. [Website layout](website-layout).

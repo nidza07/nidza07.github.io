@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title>ARIA live regions demonstration</title>
+</head>
+<body>
+<h1>ARIA live region demonstration</h1>
+<form action="" id="chatctl">
+<p><label for="rate">Message rate (ms) : </label>
+<input type="text" id="rate" value="500">
+<button type="submit" id="startstop">Start</button>
+</p>
+</form>
+<div id="chatlog" aria-live="polite" aria-atomic="false" aria-relevant="additions">
+This is initial content.
+</div>
+<script type="text/javascript">
+
+var form = document.getElementById('chatctl');
+var startbtn = document.getElementById('startstop');
+var ratefld = document.getElementById('rate');
+var timer = null;
+
+var msgIndex = 0;
+var chatlog = document.getElementById('chatlog');
+
+function sendChat () {
+var msg = "This is chat message number " + (++msgIndex) + '.';
+
+if (msgIndex%50==0) chatlog.innerHTML = '';
+
+var p = document.createElement('p');
+p.appendChild(document.createTextNode(msg + '\r\n'));
+chatlog.appendChild(p);
+}
+
+
+chatctl.onsubmit = function (e) {
+if (timer) {
+clearInterval(timer);
+timer = null;
+startbtn.innerHTML = 'Start';
+}
+else {
+timer = setInterval(sendChat, parseInt(ratefld.value));
+startbtn.innerHTML = 'Stop';
+chatlog.innerHTML = 'Started.\r\n';
+}
+e.preventDefault();
+return false;
+};
+
+</script>
+
+</body></html>

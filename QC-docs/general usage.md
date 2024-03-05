@@ -5,7 +5,6 @@ title: Quentin C's Playroom - general usage
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-# Quentin C's Playroom - General usage
 ## Table of contents
 1. [Disclaimer](#disclaimer)
 2. [Introduction](#introduction)
@@ -586,7 +585,7 @@ The subscribe option will, if accessed from your inbox, just like for individual
 ### Friends list
 The Playroom offers you the ability to add the users you often talk to to your list of friends. This will give you several benefits:
 
-- You will see those users in a quick, accessible list, which is similar to a list of your contacts.  
+- You will see those users in a quick, accessible list, which is similar to a list of your contacts.
 - You can hear when they enter or leave the Playroom. Note: This is configurable, and if you do  not want this, it can be disabled. More information is available from the [privacy section](#privacy) of the [Playroom options](#playroom-options) chapter.
 - Your privacy settings can be configured so that only your friends can message you. In this case, you can communicate only with the people in this list.
 
