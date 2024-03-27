@@ -92,7 +92,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 This documentation is completely unofficial. It has no connection to the Playroom staff at all, other than a link to the shortcuts reference, and a FAQ page, written by the English Playroom staff.  
 However, an attempt was made to document all the available Playroom features, and make it as comprehensive as possible, so that every option has a clear description and explanation.
 
-As the Playroom receives frequent updates, this documentation should be kept up to date as well. If you notice something that was changed, and is no longer accurate, contact me so I can correct it. My Playroom username is Nikola, and this documentation will hopefully help you know how to send me a private, or a permanent message.
+As the Playroom receives frequent updates, this documentation should be kept up to date as well. If you notice something that has changed, and is no longer accurate, contact me so I can correct it. My Playroom username is Nikola, and this documentation will hopefully help you know how to send me a private, or a permanent message.
 
 Note: This documentation is still a work in progress. The incomplete sections I  am already aware of, or just things to do in general are in a separate [internal notes file](notes.md). You can help expand or complete them.
 
@@ -107,7 +107,7 @@ For translators to any other language, I will always keep a [Documentation chang
 Welcome to the Playroom.  
 The Playroom is a free online gaming platform, especially made to be accessible to visually impaired people.
 
-On the Playroom, you will find some of the most popular card, board and dice games, such as Uno, Poker, Farkle, Yahtzee, Chess, but also some of the less popular ones. Hopefully you will discover a new game you didn't know before, and invite your friends to play it with you!
+On the Playroom, you will find some of the most popular card, board and dice games, such as Uno, Poker, Farkle, Yahtzee, Chess, but also some of the less popular ones. Hopefully you will discover a new game you didn't know before and invite your friends to play it with you!
 
 ## Getting started
 To begin playing, you will  first need to create an account. This is a very simple process. The Playroom doesn't ask for any personal data. We need only  your username (this is a nickname that will help members of the community to recognize you), your password, and your e-mail address.  
@@ -116,9 +116,9 @@ There, fill all the data as required, and you will receive a confirmation e-mail
 
 ### Familiarizing yourself with the community rules
 Before you start  playing, it is very important to [read the rules of the community](https://qcsalon.net/en/forum5/topic3).  
-The rules aren't very long and contain some basic guidelines. Not reading the rules is not an excuse. That being said, there is no need to be afraid. You will not be permanently banned for your first offense, as long as it is clear that you aren't an intentional  spammer. Moderators are humans, just like you, and as long as you act decent and are respectful, you shouldn't face any problems.
+The rules aren't very long and contain some basic guidelines. Not reading the rules is not an excuse. That being said, there is no need to be afraid. You will not be permanently banned for your first offense, as long as it is clear that you aren't an intentional  spammer. Moderators are humans, just like you, and as long as you act decently and are respectful, you won't face any problems.
 
-As a quick summary, insults or spamming is forbidden, do not cheat or attempt to use scripts and other types of automation, and use only one account per person. In case of a family using multiple accounts, notify the staff about it, and keep in mind that checks will be performed and that unjustified accounts will be deleted.
+As a quick summary, insults or spamming is forbidden, do not cheat or attempt to use scripts and other types of automation, and use only one account per person. In the case of a family using multiple accounts, notify the staff about it, and keep in mind that checks will be performed and that unjustified accounts will be deleted.
 
 ### Playing from Windows
 The general usage document will focus on the experience you will get when playing from Windows, using the Playroom Windows client. Note that it is possible to play from other platforms as well using your web browser. This will be described in a separate document, but there are only some minor differences compared to the Windows client, so you should still be able to follow along. It is recommended to read this document, and then read the Web client documentation, which will only describe the special  features of the web client and its main differences. The web client has a few additional shortcuts and gestures for mobile users. They are described in the separate [web client documentation](webclient.html).  
@@ -126,26 +126,26 @@ The general usage document will focus on the experience you will get when playin
 If you are using Windows, your best option is to download the Windows client. This will allow you to access all the features of the Playroom, and is the fastest, most stable way to play.  
 You will always find the latest version under the quick links heading of the home page. You can also [Directly download it from here](https://qcsalon.net/autodl/qcgc-setup.exe).
 
-The client follows a standard installation procedure. The Playroom does not install any additional software or toolbars, so you can feel safe to proceed. In case your anti-virus detects the Playroom as malicious, this is most likely due to the fact a new version of the client was recently released. It can take some time before that version gains the reputation of a safe program, but in the meantime, you can report the detection as a false positive/add the Playroom as an exclusion.
+The client follows a standard installation procedure. The Playroom does not install any additional software or toolbars, so you can feel safe proceeding. In case your anti-virus detects the Playroom as malicious, this is most likely due to the fact a new version of the client was recently released. It can take some time before that version gains the reputation of a safe program, but in the meantime, you can report the detection as a false positive/add the Playroom as an exclusion.
 
 #### The connection dialog
 Once the installation is complete and you launch the client, the first thing you will see is the connection dialog. This dialog will ask you to enter your username and password. It also has a few controls we will describe here, all of which can be accessed with the tab key:
 
 - Remember my password: This checkbox will, if checked, remember your login details, so you don't have to enter them each time.
 - Auto login at startup: Described in the [Auto login at startup](#auto-login-at-startup) section of the Playroom options chapter.
-- Lost password ?: This will open a page on our website allowing you to reset your password.
+- Lost password: This will open a page on our website allowing you to reset your password.
 - Create account...: If you didn't do so already, this will open the registration page directly, allowing you to create your account.
 - About: This will display the current client version and all the relevant information about the program.
 - Service status: In case you can't connect and receive an error for a longer amount of time, this will open a page informing you whether some server maintenance is currently ongoing, or there are no issues on our side. This should help you to understand where the problem is coming from.
 - Exit: Closes the client without any connection to the server.
 
-Once you enter your username and password, you should be logged in after about a second, and you should hear a connection sound informing you about this. You will also hear a welcome message. From this point, you are in the standard Playroom interface. This will be described in the next section, and is fairly similar on the web client as well.
+Once you enter your username and password, you should be logged in after about a second, and you should hear a connection sound informing you about this. You will also hear a welcome message. From this point, you are in the standard Playroom interface. This will be described in the next section and is fairly similar on the web client as well.
 
 ## The Playroom interface
 Everything on the Playroom uses standard Windows controls you should already be familiar with. Most of those are lists, checkboxes, edit boxes or buttons. They function just like they would in any other program.  
 There are also many shortcuts to help you do things faster, but if at any point you forget some of them, all actions are also available from a context menu. Shortcuts can also easily be announced by pressing the F1 key. F1 is context sensitive (while in a game, it will announce the shortcuts for that game, on the main room, it will  announce some general shortcuts, and so on.
 
-Once you connect, you will be in a menu list box. This list will always contain the main menu you are interacting with. This is also the list you should be focused on when performing any other shortcuts. For example, when we say that ctrl+F opens your friends list, you should perform  the shortcut while you are in the menu list. Note that many shortcuts work outside of the list as well, but you will not see their result. For instance, sticking to our friends list example, if you are in the chat box and you press ctrl+F, the friends list will open, but to avoid interrupting your chat, your focus won't go anywhere and will stay in the chat, so you may think that nothing happened.  
+Once you connect, you will be in a menu list box. This list will always contain the main menu you are interacting with. This is also the list you should be focused on when pressing any other shortcuts. For example, when we say that ctrl+F opens your friends list, you should perform  the shortcut while you are in the menu list. Note that many shortcuts work outside of the list as well, but you will not see their result. For instance, sticking to our friends list example, if you are in the chat box and you press ctrl+F, the friends list will open, but to avoid interrupting your chat, your focus won't go anywhere and will stay in the chat, so you may think that nothing happened.  
 You can always quickly move to the menu list by pressing Alt+M.
 
 If you press tab from here, you will reach the chat edit box. Here you can type a message and press enter. Keep in mind that the chat box is not multiline. Pressing up or down arrow keys will move through your history of the previously written messages. The chat edit box also supports some commands. You can see what they are in the [chat commands section](#chat-commands).  
@@ -157,17 +157,17 @@ The history field can quickly be focused by using the Alt+H shortcut.
 These are all the interface elements you will encounter.  
 Once you connect, the menu list will contain some of the basic options. They are as follows:
 
-- Create a new table: Every game you create on the Playroom is a table. A table is a place where various people can sit together, and have some fun. In addition to all the available games, you also have a free table option, allowing you to just chat without playing anything.
+- Create a new table: Every game you create on the Playroom is a table. A table is a place where various people can sit together and have some fun. In addition to all the available games, you also have a free table option, allowing you to just chat without playing anything.
 - Join a table: This option will allow you to join a table already created by somebody else.
-- Restore a table: Any game on the Playroom can be saved by pressing ctrl+S while in it. Only the table master can save a game. The table master is the person who has created the table, but can be changed at any moment. This option will allow you to restore such a saved game, provided that all the players are online and in the main room. The main room is where we are located right now.
+- Restore a table: Any game on the Playroom can be saved by pressing ctrl+S while in it. Only the table master can save a game. The table master is the person who has created the table but can be changed at any moment. This option will allow you to restore such a saved game, provided that all the players are online and in the main room. The main room is where we are located right now.
 - Options: Contains all the settings of the Playroom. They are described in the [options section](#playroom-options)
 - Functions and more: Some additional functions and features, not directly related to playing games. They are described in the [additional functions section](#additional-features).
-- Leave the playroom!: Closes the client and lets you go offline.
+- Leave the playroom: Closes the client and lets you go offline.
 
 In addition to this, the Playroom offers you two context menus:
 
 - Table menu: This menu can be opened by pressing the F2 key. It contains some of the most useful options for managing a table, such as adding bots, removing bots, inviting, kicking or banning players.
-- Game menu: This menu can be opened by pressing the applications key, shift+F10 or CTRL+f9. Typically it offers useful options only  when a game is started. They will include the common actions that can be performed using shortcuts, such as drawing or discarding a card, rolling the dice, sorting your cards, and so on.
+- Game menu: This menu can be opened by pressing the applications key, shift+F10 or CTRL+f9. Typically, it offers useful options only  when a game is started. They will include the common actions that can be performed using shortcuts, such as drawing or discarding a card, rolling the dice, sorting your cards, and so on.
 
 Both of these menus do not have too many useful features while in the main room, so you should try them out when  creating or joining a table.
 
@@ -183,7 +183,7 @@ In addition to the first letter navigation, in games with standard cards, you ca
 ## Playing a game
 Once you have configured everything, the first thing you will probably want to do is start a game. Here, some general resources and tips will  be given to improve your experience.
 
-To begin playing, you can either join a table already created by somebody else, or create a new table of your own and wait for other people to join. Alternatively, if nobody is available to play with, adding bots is also an option. To add a bot to your game, press B once you have created the table.
+To begin playing, you can either join a table already created by somebody else or create a new table of your own and wait for other people to join. Alternatively, if nobody is available to play with, adding bots is also an option. To add a bot to your game, press B once you have created the table.
 
 In addition to card, board and dice games, the Playroom also supports arcade games. They are audio games, different from the games traditionally available on the platform. Since they function differently, they are described in greater detail in the [separate arcade games section](#arcade-games).
 
@@ -197,7 +197,7 @@ Here, 1000 miles of course is the game name, but (1/4) refers to the number of a
 
 Note: You may not see all 4 tables. If the privacy settings of the table master do not allow you to join, that table will not be visible in your list of tables.
 
-If a table has too many people on it, they may not be displayed in the list. Instead, you will be told about the first few people, and then the remaining total number. If you still want to view the full list, you can press the right arrow on that table to expand it and see the complete list.
+If a table has too many people on it, they may not be displayed on the list. Instead, you will be told about the first few people, and then the remaining total number. If you still want to view the full list, you can press the right arrow on that table to expand it and see the complete list.
 
 Once you focus a table in the list, you can also press the applications key on it. This will do one of the following:
 
@@ -221,18 +221,18 @@ Once you have created a table, some common tips that apply for every game will b
 You will be told several things you can do, such as pressing enter to start the game, B to add bots, shift+B to remove bots, or alt+O  to configure game options.
 
 If you don't know how to play a particular game, while at the table of that game, you can press ctrl+F1. This will open a page on our website displaying the detailed rules of that game. It will open either inside the client, in a web view, or inside your web browser, depending on your configuration.  
-Note: Some games do not have any rules written at this time. Either because it is impossible to learn  them exclusively from the Playroom (games like Chess), they are quite popular and simple (such as Battleship), or they are simply easter egg games, meant for you to discover on your own.
+Note: Some games do not have any rules written at this time. Either because it is impossible to learn  them exclusively from the Playroom (games like chess), they are quite popular and simple (such as Battleship), or they are simply easter egg games, meant for you to discover on your own.
 
-As we mentioned earlier, F1 will give you a list of shortcuts specific to that game. For example, maybe you know how to play Chess, but you don't know what is the shortcut the Playroom uses for navigating between different pieces. F1 will tell you this, and all the other shortcuts used.
+As we mentioned earlier, F1 will give you a list of shortcuts specific to that game. For example, maybe you know how to play Chess, but you don't know what the shortcut is the Playroom uses for navigating between different pieces. F1 will tell you this, and all the other shortcuts used.
 
-To invite somebody to your table, press ctrl+I while focused on their username. This can either be from the online users list (opened with ctrl+U), or from your friends list (opened with ctrl+F). Both of these lists are discussed later.
+To invite somebody to your table, press ctrl+I while focused on their username. This can either be from the online users list (opened with ctrl+U), or from your friends list (opened with ctrl+F). Both of these lists will be discussed later.
 
-In case someone is not behaving appropriately and you would not like them on your table, press ctrl+k. This will open a menu allowing you to choose who to kick from the table.  
+In case someone is not behaving appropriately, and you would not like them to your table, press ctrl+k. This will open a menu allowing you to choose who to kick from the table.  
 Ctrl+B will open a menu allowing you to choose who to ban from the table. Banning is different from kicking, in the sense that a banned person can no longer join the table at all unless they are unbanned, while a kicked person can join the table again.
 
 Ctrl+Shift+X will allow you to change the table master. Only the table master can kick, ban, invite people, or configure game options and start the game.
 
-If you would like your table to be hidden from the list of available public tables, press ctrl+H. This will make the table private. You can then invite the people you want on your table. The same shortcut will turn the table public again.
+If you would like your table to be hidden from the list of available public tables, press ctrl+H. This will make the table private. You can then invite the people you want to your table. The same shortcut will turn the table public again.
 
 In case somebody leaves a table in the middle of a game, a bot will step in to replace them, or you can use the bot as a stand-by option until you find another human player to replace the leaving player.  
 
@@ -244,18 +244,18 @@ As mentioned before, the Playroom also lets you watch games between other people
 You can watch a game by simply joining the table of a game in progress. In addition to this, the Playroom has a feature called spectator mode.
 
 To enable or disable spectator mode, press F3.  
-When this mode is enabled, even if you join a table, and a game is not in progress, once the game starts, you will not be included in the game. This mode lets you only watch a game, but not play it. Other people will also be notified if you join a table and your spectator mode is enabled.
+When this mode is enabled, even if you join a table, and a game is not in progress, once the game starts, you will not be included in the game. This mode lets you only watch a game, but not play it. Other people will also be notified if you join a table, and your spectator mode is enabled.
 
 This mode can also be toggled from the table menu.
 
 ## The list of online users
-To access the list of users currently online, press CTRL+U or CTRL+W. This will show all the users currently online, and using the same language as you.  
+To access the list of users currently online, press CTRL+U or CTRL+W. This will show all the users currently online and using the same language as you.  
 To see the list of users regardless of their language, use CTRL+shift+U or CTRL+shift+W. You can of course play with someone using a completely different language, however, the two of you need to have one common language, as the game language is always the language of the table master. So, if you join someone in a different language, keep in mind that the game will no longer use your language.
 
 Each user in this list will have a presence status, which is automatic and cannot be changed. The following statuses exist:
 
-- Available: The user is on the Playroom and is active, but is not playing a game.
-- Absent: The user is on the Playroom, but has not performed any action for 5 minutes.
+- Available: The user is on the Playroom and is active but is not playing a game.
+- Absent: The user is on the Playroom but has not performed any action for 5 minutes.
 - Busy: The user is playing a game.
 
 Each person will also have a two-letter code, which denotes the language they are using. En for English, FR for French, and so on...
@@ -271,7 +271,7 @@ This will send a message to the user Nikola.
 Private messaging works no matter whether the person you are trying to message is on your table or not. The only important thing is that they are online, and that their privacy settings allow you to message them. You will be notified if any of this is not the case.
 
 #### Replying to a private message
-Let's imagine that the user MichaelLikesChocolate1111 just sent you a private message. In order to reply, you do not have to write their username all the time at all. Simply starting your message with the at sign, and a space, followed by  your message will send the message to the last person who wrote to you.
+Let's imagine that the user MichaelLikesChocolate1111 just sent you a private message. In order to reply, you do not have to write their username all the time at all. Simply start your message with the at sign, and a space, followed by  your message. This will send the message to the last person who wrote to you.
 
 Stay careful! If you receive a message from a different person while typing, your message will still go to that person just messaging you once you press enter to send it.
 
@@ -289,7 +289,7 @@ In addition to private messaging, the chat box also offers you several commands 
 
 Here are all currently available commands:
 
-- /help followed by a message: This command will send a message to the currently connected administrators. It is used in case you need help or assistance. The message should be preceeded by a space. For example: /help hello, I have a problem, the game is frozen.
+- /help followed by a message: This command will send a message to the currently connected administrators. It is used in case you need help or assistance. The message should be preceded by a space. For example: /help hello, I have a problem, the game is frozen.
 - /me followed by a message: Sends an emote message. This means that the message will contain only your username. For example: /me is hungry this message would come out as Mark is hungry, assuming Mark is your username.
 - /invite followed by a username: Invites this user to  your table.
 - /add followed by a username: Sends a friend request to this username.
@@ -309,15 +309,15 @@ There are a few more commands, but those work only on free tables:
 These arguments should be entered after the number of sides.
 
 ## History reading and management
-As already explained in the [Playroom interface section](#the-playroom-interface), the next item after the chat edit field is the history edit box. Here, you can review every message spoken by the Playroom. This section will explain how to manage your history, easier way to filter and read only certain types of messages, as well as how to customize it to your liking.
+As already explained in the [Playroom interface section](#the-playroom-interface), the next item after the chat edit field is the history edit box. Here, you can review every message spoken by the Playroom. This section will explain how to manage your history, easier ways to filter and read only certain types of messages, as well as how to customize it to your liking.
 
 ### Quick history reading
 As a screen reader user, in addition to the edit box, you have a quick way to read your history no matter where you are in the Playroom interface. This can be used to read the history even while chatting or playing a game. The following shortcuts should be used:
 
-- Page up: Read the previous history message
-- Page down: Read the next history message
-- CTRL or shift+page up: Focus on and read the first history message
-- CTRL or shift+Page down: Focus on and read the last history message
+- Page up: Read the previous history message.
+- Page down: Read the next history message.
+- CTRL or shift+page up: Focus on and read the first history message.
+- CTRL or shift+Page down: Focus on and read the last history message.
 - CTRL+space: Copy the focused history message.
 - CTRL+enter: Open a link in the focused history message, if it has any links.
 
@@ -325,7 +325,7 @@ As a screen reader user, in addition to the edit box, you have a quick way to re
 You may not always be interested to read every message in your history. For example, maybe you are playing a game, but you have received a private message. It might be difficult to find that message due to all the game messages arriving.  
 To help with this, every message you receive on the Playroom belongs to a certain channel. For example, messages about who played what in a game belong to  the game messages channel, private messages belong to the private messages channel, and so on...
 
-By default, the channels are grouped together into several history views. History views can be used to filter the history only to focus a certain type of messages. Once you switch to a different view, using the page up and down shortcuts will focus only the history messages belonging to that view, and not go through the entire history.
+By default, the channels are grouped together into several history views. History views can be used to filter history only to focus a certain type of messages. Once you switch to a different view, using the page up and down shortcuts will focus only on the history messages belonging to that view, and not go through the entire history.
 
 To navigate between the history views, use the following shortcuts:
 
@@ -337,7 +337,7 @@ Here are all the available views by default, as well as which messages they cont
 
 1. General: This view contains your entire history.
 2. Game: Contains game messages. Who played what, scores, everything related to the game...
-3. Discussion: Groups your private messages, public chats, table messages, invitations, and messages related to your friends. In short, everything related to the communication with other Playroom users.
+3. Discussion: Groups your private messages, public chats, table messages, invitations, and messages related to your friends. In short, everything related to communication with other Playroom users.
 4. Private messages: Shows your private messages, as well as notifications related to your friends.
 5. Invitations: Shows any game invitations you may have received.
 6. Friends: Shows the messages related to your friends, such as entering and leaving the Playroom or received/accepted friend requests.
@@ -352,7 +352,7 @@ You have the option to copy your entire history, select all, or clear the histor
 ## Arcade games
 In addition to card, board and dice games, since version 3 of the Playroom client, the Playroom offers a new kind of games, arcade games. Arcade games are audio games. Unfortunately, due to their nature, they currently do not offer any text on screen for sighted people.
 
-Since they work a little different compared to the traditional games, they will separately be described here.
+Since they work a little differently compared to the traditional games, they will separately be described here.
 
 Just like in traditional games, pressing ctrl+F1 while at a table will still open the game rules, so here we will instead just focus on the interface, and some important things to keep in mind while playing.
 
@@ -370,10 +370,10 @@ Pressing enter on one will create its table. At the moment, all arcade games are
 Once you press enter while at an arcade table to start the game, the game first has to be downloaded. This should take a short amount of time, depending on your connection.  
 Once that is completed, you will hear a short chime, notifying you that you have entered the arcade mode.
 
-In the arcade mode, most standard Playroom shortcuts do not work. You can use only the game shortcuts.  
+In arcade mode, most standard Playroom shortcuts do not work. You can use only the game shortcuts.  
 A few shortcuts however do work, and they are alt+C to access the chat (so you  can chat or reply to a PM), alt+H to access the history, and alt+M  to  return  to  the menu list, in this case the arcade mode area.
 
-The game will always instruct you what to do, this should be typical to an audio  game, for example using the arrow keys to navigate a menu.
+The game will always instruct you what to do, this should be typical of an audio  game, for example using the arrow keys to navigate a menu.
 
 Note: Arcade game tables cannot be saved. It is also impossible to watch an arcade game in progress.
 
@@ -386,7 +386,7 @@ This option lets you change the Playroom language. Note that the game language i
 The language can also be changed directly from anywhere using the shortcut shift+F3.
 
 ### General options
-This menu allows you to configure several settings related to the general client behaviour.
+This menu allows you to configure several settings related to the general behavior of the client.
 
 #### Ask a confirmation before exiting
 If this setting is enabled, before you press alt+F4 or close the Playroom from the system tray, you will be asked to confirm that you are really sure you want to do this. This setting is enabled by default.  
@@ -408,7 +408,7 @@ This option is disabled by default.
 #### Automatically save histories
 If this option is enabled, everything displayed in your history will autommatically be saved to a text file. The text files are named according to the current date, so each day will have its own history.
 
-Below this option, you can also choose a folder for automatic histories saving.
+Below this option, you can also choose a folder for automatic history saving.
 
 This option is disabled by default.
 
@@ -455,7 +455,7 @@ The following is a list of all the channels currently available, and which messa
 - Public chat: The chat messages written on a table.
 - Private messages: Private messages you received or sent.
 - Invitations: Any invitations to a table you may have received.
-- Table messages: Messages about who joined or left a table, as well as any other messages related to table participation
+- Table messages: Messages about who joined or left a table, as well as any other messages related to table participation.
 - Global messages: The main room messages informing about table creations, joining or leaving, as well as messages informing about the disconnections/reconnections of each player.
 - Notifications: Important notifications, such as when it is your turn in a game.
 - Friends: Messages about incoming friend requests or their status, as well as about your friends leaving/entering the Playroom.
@@ -464,10 +464,10 @@ The following is a list of all the channels currently available, and which messa
 ##### Channel options
 Once you choose a channel to customize, you have the following options:
 
-- Speech: Lets you choose when should the messages of that channel automatically be spoken. The options are never, if active (speaks the message if the Playroom window is focused), if inactive (speaks the message if the Playroom window is not focused), and always.
+- Speech: Lets you choose when the messages of that channel should automatically be spoken. The options are never, if active (speaks the message if the Playroom window is focused), if inactive (speaks the message if the Playroom window is not focused), and always.
 - Sound: Offers you the same options you have for speech, but this controls when should this channel be allowed to play its sounds.
 - Sound type: Lets you choose if the sounds of this channel should belong to the standard sounds category, or the notifications.
-- Don't display in history: Completely hides the messages of this channel. They will not be shown in the history, neither in the history edit box, nor when reviewing the history with page up or down.
+- Don't display in history: Completely hides the messages of this channel. They will not be shown in history, neither in the history edit box, nor when reviewing the history with page up or down.
 - Visual options: Below this, you have a list of several options to customize the visual appearance of the channel. You can make its messages bold, underline or italic, as well as change the color of its text.
 
 #### Views
@@ -480,7 +480,7 @@ At the bottom of the menu, you also have the "add view..." option, which lets yo
 Upon opening a specific view to customize, you will first have the option  to change its name.  
 Below that, you will have a list of checkboxes. These are all  the different Playroom  message channels. This will let you choose which channels to display in that view.
 
-For example, the discussion view has the private messages, public chat, table messages and friends channels selected.
+For example, the discussion view has private messages, public chat, table messages and friends channels selected.
 
 Customizing channels and views is an extremely flexible and powerful feature of the Playroom. We strongly recommend familiarizing yourself with these options, as they can allow you to configure, in great detail, how and when messages should be read or displayed. Below, we have outlined just a few possible scenarios, to demonstrate why this feature can be extremely helpful.
 
@@ -489,7 +489,7 @@ Customizing channels and views is an extremely flexible and powerful feature of 
 3. You may want to hear a sound every time it is your turn in a game. By default, this sound will  play only when you are outside of the Playroom window. To have it always playing, set the notifications channel to always play its sounds.
 
 #### Colours...
-Lets you configure the different colors. In addition to customizing the appearance of each color, you can also change the Text color, Background color, Text color of selected element, Background color of selected element, Grayed text color, Use predefined colors for light/white background, or Use predefined colors for dark/black background. The same customizations can be applied to the font of the text.
+Lets you configure the different colors. In addition to customizing the appearance of each color, you can also change the text color, background color, text color of selected element, background color of selected element, grayed text color, use predefined colors for light/white background or use predefined colors for dark/black background. The same customizations can be applied to the font of the text.
 
 #### Enable tooltips
 This option is only useful for sighted users. Blind people do not need to change this setting.  
@@ -506,7 +506,7 @@ This option is enabled by default.
 In addition to configuring this, once a page is opened inside the client web view, shift+N or shift+enter on a link will open that link  inside your default web browser.
 
 ### Security
-This section contains a few options to make the experience on the Playroom as secure as possible.
+This section contains a few options to make the experience of the Playroom as secure as possible.
 
 #### Use only secure connections
 Normally, the connection to the Playroom server is encrypted, and made using SSl. However, this secure connection may fail, because of an expired certificate, or a problem on your side. In the worst case, your connection may even be compromised.  
@@ -538,8 +538,8 @@ Here are the different privacy options available to you:
 - Who can send me invitations?
 - Who can join my public tables?
 - Who can send me permanent private messages?
-- Notify connections?: This will let you choose who to be notified about when they enter the Playroom.
-- Notify table creations?: This will  let you choose when to be notified  in the main room about somebody creating or joining a table.
+- Notify connections: This will let you choose who to be notified about when they enter the Playroom.
+- Notify table creations: This will  let you choose when to be notified  in the main room about somebody creating or joining a table.
 
 
 Keep in mind that the private and permanent message privacy options apply to both sides. For example, if you choose to have only your friends messaging you, then you can similarly message only your friends.
@@ -570,24 +570,24 @@ Note: For special cases, you can contact the administration so that more partici
 The only other two fields that are required here are typing a subject (a short and concise summary of your message topic), and the message itself. After you did this, pressing send should send your message to the specified participants, if everything was done correctly. If not, you will  be told what the problem is and will have the opportunity to correct it.
 
 #### Reviewing discussions
-Once you created your first discussion, it should already appear in your inbox. Pressing enter on it will open the discussion, and give you a few more options:  
+Once you have created your first discussion, it should already appear in your inbox. Pressing enter on it will open the discussion and give you a few more options:  
 - All the messages of the discussion will be in the list. If the discussion is too long, you will also have the next page item to view older messages. The list will show only a small part of the message, press enter or the right arrow to have it read completely.
 
 - Reply: Send a reply to the discussion. This will open the same menu as the one for starting a new discussion, except that it will only have the message field, since you are replying to an already existing message. You can also use CTRL+R to access the reply option quickly.
-- List of participants: This will read out every user participating in this discussion. You can use CTRL+T to get this information quickly.
-- Leave the discussion: This will delete the discussion from your inbox and you will no longer be a part of it. Other participants will also be able to see that you left. You can also use the delete key on any discussion in your inbox to do this more quickly.
-- Subscribe to this topic: Doing this will cause every new message to arrive to the e-mail address you have specified when creating your Playroom account.
-- Open this discussion on the web: This will open the discussion directly on our website. From the web, you can access even more features if you are the owner of the discussion, such as inviting more people to it, or kicking out certain participants if you no longer want them in the discussion. These features are not available from the client at this time.
+- List of participants: This will show every user participating in this discussion. You can use CTRL+T to get this information quickly.
+- Leave the discussion: This will delete the discussion from your inbox, and you will no longer be a part of it. Other participants will also be able to see that you left. You can also use the delete key on any discussion in your inbox to do this more quickly.
+- Subscribe to this topic: Doing this will cause every new message to arrive at the e-mail address you have specified when creating your Playroom account.
+- Open this discussion on the web: This will open the discussion directly on our website. From the web, you can access even more features if you are the owner of the discussion, such as inviting more people to it, or kicking out certain participants if you no longer want them in the discussion. These features are not available via the client at this time.
 
 #### Subscribing to this forum
-The subscribe option will, if accessed from your inbox, just like for individual discussions, cause an e-mail to arrive to your mailbox every time a new discussion is created and you are a part of it.
+The subscribe option will, if accessed from your inbox, just like for individual discussions, cause an e-mail to arrive to your mailbox every time a new discussion is created, and you are a part of it.
 
 ### Friends list
 The Playroom offers you the ability to add the users you often talk to to your list of friends. This will give you several benefits:
 
 - You will see those users in a quick, accessible list, which is similar to a list of your contacts.
 - You can hear when they enter or leave the Playroom. Note: This is configurable, and if you do  not want this, it can be disabled. More information is available from the [privacy section](#privacy) of the [Playroom options](#playroom-options) chapter.
-- Your privacy settings can be configured so that only your friends can message you. In this case, you can communicate only with the people in this list.
+- Your privacy settings can be configured so that only your friends can message you. In this case, you can communicate only with the people on this list.
 
 To access your list of friends from anywhere on the Playroom, press CTRL+F.
 
@@ -617,7 +617,7 @@ If you choose this, the person will now be in your favorites. This will give you
 If somebody is particularly annoying or spamming you, you have the option to block them. This option will let you see your blocked users, as well as allow you to block someone.  
 A blocked user can no longer send you private messages, permanent messages or invitations. They also can't join your table as long as you are the master. Of course, a blocked user can't send you a friend request, and if you have previously been friends, blocking a user will remove them from your  friends list.
 
-Note: At any time,, you can unblock anybody you previously blocked.
+Note: At any time, you can unblock anybody you previously blocked.
 
 ### Status messages
 Choosing the option "Change your status message" will  allow you to set your status message.  
@@ -632,7 +632,7 @@ Here, only the main differences between the forum and the inbox will be highligh
 
 Note: Some more features are available when using the forum from the Playroom website. These are discussed in the [website documentation](/sitedocs).  
 
-To access the forum from anywhere on the Playroom, use CTRL+shift+F to open  it directly in the client, or CTRL+F2 to open it on our website.
+To access the forum from anywhere on the Playroom, use CTRL+shift+F to open  it directly via the client, or CTRL+F2 to open it on our website.
 
 #### Creating a topic
 Once you open the forum, it will display a list of categories. These will be:
@@ -654,7 +654,7 @@ This is similar to your inbox as well, except that here you only need to type yo
 Just like in your inbox, opening any category will show you a list of topics. Reading or replying to messages here works exactly the same. The forum offers you a few more features, and they will be discussed here.
 
 #### Topic score
-Below the option to open the discussion on the web, you will see an item displaying the current topic score. This score increases whenever a community member votes the topic as useful, or decreases if the topic is voted as useless.  
+Below the option to open the discussion on the web, you will see an item displaying the current topic score. This score increases whenever a community member votes the topic as useful or decreases if the topic is voted as useless.  
 The options to vote are located below the topic score.
 
 ##### Voting on a post
@@ -684,16 +684,16 @@ If you noticed that one of your messages has a mistake, you have the option to e
 To do so, press the applications key or open the context menu on that message. As long as this was a message you posted, the menu will contain an option to edit it.  
 You can also use the shift+E shortcut on your message to access the edit feature directly.
 
-Keep in mind that you can not post multiple messages in a row until a few hours pass. If you have something to add to your last message, you can edit it.
+Keep in mind that you cannot post multiple messages in a row until a few hours pass. If you have something to add to your last message, you can edit it.
 
-Note: All the functions mentioned above such as editing, voting, or labeling a topic require you to exit out of a topic and then come back to it to see the changes you have made. This is a limitation exclusive to the forum inside the Playroom client
+Note: All the functions mentioned above such as editing, voting, or labeling a topic require you to exit out of a topic and then come back to it to see the changes you have made. This is a limitation exclusive to the forum inside the Playroom client.
 
 #### Forum subscriptions
 Unlike in your inbox, subscribing to a topic or a forum won't send any e-mails. In this case, the topic or topics from a forum will  be accessible in your subscriptions section. Use this to access any favorite or useful topics more quickly.
 
 ### Send a history report
 This option is the only recommended way to report something to the Playroom staff. It is the easiest way for you to send us your history, as well as for us to review it.  
-When you select this option, you will be asked what do you want to send. Both options are explained there. Send a discussion report to report something that happened in a public chat or in private messages, or a game report to report a bug.
+When you select this option, you will be asked what you want to send. Both options are explained there. Send a discussion report to report something that happened in a public chat or in private messages, or a game report to report a bug.
 
 Note: This option will only send your current history, since the time you have connected to the Playroom. You cannot use this option to report something that happened several days ago, since only the current history will be sent.
 
@@ -707,7 +707,7 @@ Bad comment:
 
 > Bob insulted me, ban him.
 
-Keep in mind that most problems with a particular individual can be resolved by simply blocking the person in question. In many cases, an intervention from the staff is not necessary. However, we are of course here in  case of repeating offenses, or if blocking the person becomes insufficient, for instance someone crashing your speech synthesizer or creating multiple accounts.
+Keep in mind that most problems with a particular individual can be resolved by simply blocking the person in question. In many cases, intervention from the staff is not necessary. However, we are of course here in  case of repeating offenses, or if blocking the person becomes insufficient, for instance someone crashing your speech synthesizer or creating multiple accounts.
 
 //Todo: Probably consult the helpers for wording and general suggestions regarding this section.
 
@@ -721,12 +721,12 @@ This option will let you save your entire history to a TXT file. It will open th
 ### Save current view in a file
 This option will  let you save only one view of the history to a file. The currently focused view will be saved. Very useful if you only want to save a discussion or game messages! For more information on what are the views and how to use them, check the [Views section](#history-views-and-channels).
 
-Below this option, you also have an option to only copy the current view to the clipboard, in  case you  do not want to save it right away but still want to keep it.
+Below this option, you also have an option to copy the current view to the clipboard, in  case you  do not want to save it right away but still want to keep it.
 
 ## Bonus features
 
 ### Audio streams
-The Playroom offers you an option to propose an audio stream while being at a table. To do this, a few conditions must be fulfilled:
+The Playroom offers you an option to propose an audio stream while at a table. To do this, a few conditions must be fulfilled:
 
 - You must be the table master,
 - The link to the audio stream must directly lead to the audio file. It cannot be a web page, for example, that first requires you to click  a download button, or find a link to a player. These are typically not direct links to the audio file.
@@ -761,10 +761,10 @@ To conclude this documentation, I would like to thank the following people:
 - The Playroom staff, for writing Markdown documentation.
 - The English staff: They have prepared the shortcuts reference, as well  as the Frequently asked questions page. They have been copied here only to have a more complete documentation page, but they are not my work at all.
 - All the Playroom administrators, helpers and translators, for keeping the place running smoothly.
-- Everybody else who read and checked this documentation, and reported any errors with it.
+- Everybody else who read and checked this documentation and reported any errors with it.
 
 Hopefully this document helped you familiarize yourself with the Playroom, and don't be afraid to reach out if you still have any questions!
 
 # For translators
 If you would like to translate this documentation into your language, you can always view the raw Markdown version [here](general usage.md).
-You can then translate this version, and use something like Pandoc to convert it to HTML. If you need any help with this, feel free to contact me, and in case it is easier, I can do the conversion process.
+You can then translate this version and use something like Pandoc to convert it to HTML. If you need any help with this, feel free to contact me, and in case it is easier, I can do the conversion process.

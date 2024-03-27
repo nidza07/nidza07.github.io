@@ -1,6 +1,10 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## March 27th, 2024:
+### General usage
+- Some grammar fixes. No new content.
+
 ## January 30th, 2024:
 ### General usage:
 - Fixed bad list sintax with the CTRL+space/enter explanations
