@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Chess - Quentin C’s Playroom</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Chess - Quentin C’s Playroom</h1>
+</header>
+<p>Chess is one of the most popular board games, played by millions of
+people worldwide. It is played on an 8X8 Chess board, with each player
+controlling 16 pieces.</p>
+<p>The goal of the game is to <em>checkmate</em> the opponent’s king,
+that is, threatening the king with a capture that is impossible to
+escape.</p>
+<p>Today, international Chess competitions are organized by FIDE
+(Fédération Internationale des Échecs), and tournaments are played all
+across the world.</p>
+<h1 id="game-rules">Game rules</h1>
+<p>The two players in a Chess game are called “White” and “black”. The
+white player always takes the first turn, and plays with the white
+pieces. The black player follows, and plays with the black pieces. Both
+players have the same number of pieces, and they are as follows:</p>
+<ul>
+<li>One king,</li>
+<li>One queen,</li>
+<li>Two rooks,</li>
+<li>Two bishops,</li>
+<li>Two knights,</li>
+<li>Eight pawns.</li>
+</ul>
+<p>The table below illustrates the Chess board, and the initial
+positions of every piece:</p>
+<p>a|b|c|d|e|f|g|h 1: White rook|1: White knight|1: White bishop|1:
+White queen|1: White king|1: White bishop|1: White knight|1: White rook
+2: White pawn|2: White pawn|2: White pawn|2: White pawn|2: White pawn|2:
+White pawn|2: White pawn|2: White pawn 3|3|3|3|3|3|3|3 4|4|4|4|4|4|4|4
+5|5||5|5|5|5|5|5 6|6|6|6|6|6|6|6 7: Black pawn|7: Black pawn|7: Black
+pawn|7: Black pawn|7: Black pawn|7: Black pawn|7: Black pawn|7: Black
+pawn 8: Black rook|8: Black knight|8: Black bishop|8: Black queen|8:
+Black king|8: Black bishop|8: Black knight|8: Black rook</p>
+<p>In competitive games, the color is usually decided by the organizer.
+On the Playroom, the table master is always white, but it is possible to
+change this as soon as the game starts and before making the first
+move.</p>
+<h2 id="moving">Moving</h2>
+<p>Each player can move only one piece at a time. The only exception is
+the castling (see below) where two pieces move at once.<br />
+The white player starts the first move.</p>
+<p>Each piece can be moved to either a free square, or a square occupied
+by an opponent’s piece. In that case, that piece is captured and removed
+from the board.<br />
+The only move allowing to capture a piece without moving to its square
+is called “en passant”, see below.</p>
+<p>A player is never allowed to skip a turn, even if the only move
+available is disadvantageous.</p>
+<p>Every Chess piece has its own way of moving. Here are the rules for
+movement of the different pieces:</p>
+<ul>
+<li>A king can move vertically, horizontally, or diagonally in any
+direction, but only one move at a time. The king also takes part in a
+special move called “castle. It is the most valuable piece in the game:
+If the attack on a king cannot be countered, the game is lost.</li>
+<li>A rook can move any number of squares, but only vertically or
+horizontally, and never jumping over other pieces. The rook is involved
+together with the king in the castling move</li>
+<li>A bishop can move any number of squares, but only diagonally, and
+never jumping over other pieces</li>
+<li>A queen combines the powers of the rook and the bishop, and can move
+diagonally or vertically, any number of squares, but never jumping over
+other pieces.</li>
+<li>A knight moves in an l-shaped pattern: Either two squares vertically
+and one square horizontally, or two squares horizontally and one square
+vertically. The knight is the only piece that can jump over other
+pieces.</li>
+<li>A pawn can move one square vertically. On its first move, a pawn can
+advance two squares, assuming both squares are free. To capture a piece,
+a pawn must move forward diagonally to the square where that piece is.
+In the same turn, it is not possible for a pawn to both advance forward,
+and then capture a piece by advancing diagonally. The pawn also has two
+special moves, en passant capture and the promotion (see below).</li>
+</ul>
+<h2 id="check-and-checkmate">Check and Checkmate</h2>
+<p>When a king is under attack, he is said to be in “check”. It is
+allowed to respond to a check and move the king somewhere else, as long
+as it does not result in the king being under attack again. There are 3
+ways to get out of a check:</p>
+<ul>
+<li>Capturing the piece threatening the king</li>
+<li>Placing your own piece between the threatening piece and the king
+(possible only if the attacking piece is a queen, rook or bishop and
+there is a square between that piece and the king)</li>
+<li>Moving the king to a square not under attack.</li>
+</ul>
+<p>While in check, you are not allowed to castle. Similarly, you are
+never allowed to make a move that would result in a situation where your
+king ends up in check.</p>
+<p>The goal of the game is to checkmate your opponent’s king. This means
+that your opponent’s king is in check, and there is no way for the king
+to escape it.</p>
+<h2 id="castling">Castling</h2>
+<p>Once in a game, each player can make a move known as castling.<br />
+This move consists of moving the king two squares toward a rook of the
+same color, located in the same row, and then placing the rook on the
+square the king crossed.</p>
+<p>Castling is allowed only under the following conditions:</p>
+<ul>
+<li>Neither the king nor the rook made any moves before the
+castling</li>
+<li>No other pieces are located between the king and the rook</li>
+<li>The king is not in chec and will not pass through a square or end up
+on a square attacked by an enemy piece</li>
+</ul>
+<p>Note that castling is allowed if the rook is under attack, or if the
+rook is passing an attacked square/will arrive on one.</p>
+<p>There are two kinds of castling:</p>
+<ul>
+<li>Short castle: Moving the white king to G1 or the black king to G8
+and the rook moves to F1/f8</li>
+<li>Long castle: Moving the white king to C1 or the black king to C8 and
+the white rook moves to D1/d8</li>
+</ul>
+<h2 id="en-passant">En passant</h2>
+<p>When one pawn moves two squares forward from its starting position,
+and an enemy pawn is located one square next to the destination square
+of the advancing pawn horizontally, that enemy pawn can capture it en
+passant (“in passing).<br />
+To perform such a capture, the pawn must move to the square just passed
+by the target pawn.</p>
+<p>For example, if black pawn moves from G7 to G5, and there is a white
+pawn on F5, the white pawn can capture it by moving from F5 to G6.<br />
+Note that this move must be made immediately after the pawn advances two
+squares. If you do not make the move on the first available turn, you
+lose this possibility.</p>
+<h2 id="promotion">Promotion</h2>
+<p>When a pawn advances to rank eight (square 8 for white/square 1 for
+black), it must be promoted to another piece of the same colour. This
+piece can be either a queen, a bishop, a rook or a knight.<br />
+The pawn is then exchanged for that new piece.</p>
+<p>Typically, the pawn is promoted to a queen, although promoting to a
+different piece may also be useful. This is called “underpromotion”.</p>
+<p>There are no restrictions on how many pawns can be promoted, and it
+is perfectly allowed to have more pieces than at the start of the game,
+for example two queens.</p>
+<h2 id="end-of-the-game">End of the game</h2>
+<p>A game can end with either a clear winner, or as a draw.</p>
+<p>The game can be won in the following ways:</p>
+<ul>
+<li>Via a Checkmate</li>
+<li>One player resigning the game (giving up)</li>
+</ul>
+<p>A game can end as a draw under the following conditions:</p>
+<ul>
+<li>Stalemate: If the player has no legal moves to make, but his king is
+not in check, the position is called a stalemate and the game is a
+draw</li>
+<li>Dead position: If there is no theoretical possible Checkmate, but
+the players can make legal moves, the game is also considered a draw.
+For example, if the players have only two kings on their board.</li>
+<li>Mutual agreement: The players can agree to a draw.</li>
+</ul>
+<p>Note: Official Chess rules add a few more situations under which the
+game is declared as a draw, such as three repeated moves for both
+players or the fifty moves with no progress rule. These rules are
+currently not implemented on the Playroom.</p>
+<h2 id="time-limit">Time limit</h2>
+<p>At the beginning of the game, you can optionally configure a time
+limit.<br />
+This will add a clock for each player.<br />
+You should enter the time in seconds, and, when looking at the clocks,
+each player will be able to see their remaining time. The time is the
+total amount they will have for the entire game, and not the time per
+move, unlike in other games.</p>
+<h2 id="notations">Notations</h2>
+<p>When using the shortcuts to import/export the game, you will
+encounter two types of notations. They are standard Chess notations, so
+they will not be described here in detail, this page will only describe
+their purpose. For more information, you can find various resources on
+the Internet describing the notations.</p>
+<ul>
+<li>FEN: This notation is used to record the entire position of the
+board. All the pieces, whether castling is allowed for a player, and so
+on…</li>
+<li>PGN: This notation indicates the Chess moves a player made so far.
+It is also used to enter a new move.</li>
+</ul>
+<h2 id="keyboard-shortcuts">Keyboard shortcuts</h2>
+<ul>
+<li>Quick navigation between the pieces:
+<ul>
+<li>K: Moves to the next king on the board</li>
+<li>R: Moves to the next rook on the board</li>
+<li>B: Moves to the next bishop on the board</li>
+<li>N: Moves to the next knight on the board</li>
+<li>D: Moves to the next queen on the board</li>
+<li>P: Moves to the next pawn on the board</li>
+</ul></li>
+<li>Moving pieces:
+<ul>
+<li>To move a piece, press enter on its square, and then enter again on
+its destination square</li>
+<li>Using the mouse, you can also hold the left click on a piece and
+drag it to the desired position, then release the click</li>
+</ul></li>
+<li>C: Look at the clocks (if the time limit is not configured, the
+total time for each player, if the time limit is configured, the
+remaining time)</li>
+<li>E: View threats for that square, or for a piece located on the
+square</li>
+<li>V: View all the possible moves for a piece</li>
+<li>H at the beginning of a game only: Swap colours (white plays as
+black and black plays as white)</li>
+<li>Space: Enter a move manually in PGN notation (see the notations
+section)</li>
+<li>Shift+N: Request a draw game (the other player must confirm with
+Shift+A)</li>
+<li>Shift+M: Resign the game (confirmation with Shift+A is
+necessary)</li>
+<li>CTRL+O: Import/export in FEN format (see the notations section)</li>
+<li>Shift+H: Look at the moves history in PGN format (see the notations
+section)</li>
+<li>CTRL+Z: Undo a move (request to undo if playing with a human, or
+automatically undo if playing with a bot). Note that games with undone
+moves won’t be counted in the statistics</li>
+<li>Numbers 1 or 2: If you are a spectator, switch the board orientation
+to either white or black</li>
+<li>T: See whose turn it is</li>
+</ul>
+</body>
+</html>
