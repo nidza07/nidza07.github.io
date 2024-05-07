@@ -1,6 +1,10 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## May 7th, 2024:
+### General usage
+- Mention that it is now possible to kick a bot to remove it from the game.
+
 ## March 27th, 2024:
 ### General usage
 - Some grammar fixes. No new content.

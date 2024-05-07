@@ -235,6 +235,7 @@ Ctrl+Shift+X will allow you to change the table master. Only the table master ca
 If you would like your table to be hidden from the list of available public tables, press ctrl+H. This will make the table private. You can then invite the people you want to your table. The same shortcut will turn the table public again.
 
 In case somebody leaves a table in the middle of a game, a bot will step in to replace them, or you can use the bot as a stand-by option until you find another human player to replace the leaving player.  
+If you do not want this bot and would rather continue the game with less players, you can kick the bot from the table to remove it from the game. Keep in mind that this is possible only in games which do not depend on the exact number of players. In other words, this is not possible in games which support teams, or games which deal a certain number of cards depending on the number of players, for example.
 
 In case you forget any of these shortcuts, every function listed here is also accessible from the table menu.
 
