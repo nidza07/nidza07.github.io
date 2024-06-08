@@ -1,5 +1,4 @@
 General usage:
-Monitor people leaving and being replaced by a bot, may change in an upcoming update.
 Suggest renaming audio and text-to-speech to audio, as it has no speech settings anymore.
 Report a bug with interface sounds and their first time usage.
 Report a bug with history saving, no extension since V3.

@@ -1,6 +1,17 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## June 6th, 2024:
+- Clarify that NumPad enter can't be used to activate items inside arcade game menus
+
+## May 25th, 2024:
+### Web client:
+- Started updating the web client documentation, a big part will probably need reorganizing. Removed TOC until we figure out a definite layout.
+
+## May 18th, 2024:
+### General usage
+- Added documentation of the new options system (WIP). Not published yet, waiting for the first release outside of the beta.
+
 ## May 7th, 2024:
 ### General usage
 - Mention that it is now possible to kick a bot to remove it from the game.
@@ -44,7 +55,7 @@ Note: The items below are considered the internal changelog. This means that the
 
 ### Web client:
 - Added the quick focus shortcuts, alt+M, alt+T, alt+C  and alt+H
-- The shortcut to adjust the streams volume  is back.
+- The shortcut to adjust the streams volume  is back. Maybe mention that it has a conflict with a MacOS system shortcut?
 
 ## November 2nd, 2023:
 ### General usage:

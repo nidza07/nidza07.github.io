@@ -10,7 +10,7 @@ Three finger double tap|Toggle mute|In reality, this toggles speech on and off. 
 Three finger triple tap|Toggle screen curtain|none
 Three finger quadruple tap|Copy speech to clipboard|none
 Four finger single tap|Unchanged|I would love to assign this to something, but doing that used to break the commands to tap with 4 fingers near the top or bottom to move to the first or last item, and the only way to fix them again was to completely reset your commands, so I am not messing with this.
-Four finger double tap|Show item chooser|None
+Four finger double tap|Copy|None
 Four finger triple tap|Open VoiceOver settings|None
 Four finger quadruple tap|Paste|None
 Two finger swipe up|Scroll down|I prefer the way we scroll on Android, with 2 instead of 3 fingers, so to avoid pasting all of them, all my two finger swipes scroll in appropriate directions.

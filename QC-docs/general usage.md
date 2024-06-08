@@ -16,6 +16,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
     - [First letter navigation](#first-letter-navigation)
 5. [Playing a game](#playing-a-game)
     - [General table management tips](#general-table-management-tips)
+    - [Configuring game options](#configuring-game-options)
 6. [Watching games](#watching-games)
 7. [The list of online users](#the-list-of-online-users)
 8. [Chatting](#chatting)
@@ -104,7 +105,7 @@ One of the possible frequent questions might be if this documentation will ever 
 For translators to any other language, I will always keep a [Documentation changelog](changelog.md), which will list any changes to the documentation and when they were made. This will make it easy for you to update your translations accordingly. Note: The changelog is in Markdown.
 
 ## Introduction
-Welcome to the Playroom.  
+Welcome to the Playroom!  
 The Playroom is a free online gaming platform, especially made to be accessible to visually impaired people.
 
 On the Playroom, you will find some of the most popular card, board and dice games, such as Uno, Poker, Farkle, Yahtzee, Chess, but also some of the less popular ones. Hopefully you will discover a new game you didn't know before and invite your friends to play it with you!
@@ -197,28 +198,18 @@ Here, 1000 miles of course is the game name, but (1/4) refers to the number of a
 
 Note: You may not see all 4 tables. If the privacy settings of the table master do not allow you to join, that table will not be visible in your list of tables.
 
-If a table has too many people on it, they may not be displayed on the list. Instead, you will be told about the first few people, and then the remaining total number. If you still want to view the full list, you can press the right arrow on that table to expand it and see the complete list.
+If a table has too many people on it, they may not be displayed in the list. Instead, you will be told about the first few people, and then the remaining total number. If you still want to view the full list, you can press the right arrow on that table to expand it and see the complete list.
 
 Once you focus a table in the list, you can also press the applications key on it. This will do one of the following:
 
 1. If this is a table of a game already in progress, it will tell  you the current score whenever a game supports this, without having to join the table first.
-2. If this is not a game in progress, it will instead tell you the configured game rules.
-
-Almost every game has a set of optional rules you can enable or disable. For example, in Monopoly, these can be some common extra rules such as additional money on free parking, double salary when landing on start, and so on.  
-If you press alt+O after creating your table, you can configure the game. If you do this in advance, when a player presses the applications key on your table in the list of available tables, they will see those configured rules. This can encourage more players who like your rules to join.
-
-Note: At this time, every game does not support configuring the rules in advance.  
-If a game does not support this, alt+O will simply do nothing.
-
-You will often be asked to choose whether you want a score limit or not.  
-If you answer yes, you will be asked to type the score to reach.  
-Every game typically has a minimum score limit that has to be entered. In 1000 miles, for example, this is 100 points. If you enter anything below this limit, the game will instead be played either using a limited number of rounds you have entered, or, if this is not suitable for the current game, using no score limit. The limit is always spoken when a game is started and you press the letter S to check the scores, no matter if it is a score limit, or a rounds limit.
+2. If this is not a game in progress, it will instead tell you the configured game rules. For more information about configuring optional rules, please see the [configuring game options section](#configuring-game-options).
 
 If a game has multiple rounds, once a round ends, you have to wait 15 seconds for a new one. If you are the table master, during this waiting period, you can press shift+P to pause the game. The new round won't start until you press the same shortcut again to resume the game.
 
 ### General table management tips
 Once you have created a table, some common tips that apply for every game will be listed here.  
-You will be told several things you can do, such as pressing enter to start the game, B to add bots, shift+B to remove bots, or alt+O  to configure game options.
+You will be told several things you can do, such as pressing enter to start the game, B to add bots, shift+B to remove bots, or alt+O  to configure game options. For more information about configuring game options, please see the [configuring game options section](#configuring-game-options).
 
 If you don't know how to play a particular game, while at the table of that game, you can press ctrl+F1. This will open a page on our website displaying the detailed rules of that game. It will open either inside the client, in a web view, or inside your web browser, depending on your configuration.  
 Note: Some games do not have any rules written at this time. Either because it is impossible to learn  them exclusively from the Playroom (games like chess), they are quite popular and simple (such as Battleship), or they are simply easter egg games, meant for you to discover on your own.
@@ -227,7 +218,7 @@ As we mentioned earlier, F1 will give you a list of shortcuts specific to that g
 
 To invite somebody to your table, press ctrl+I while focused on their username. This can either be from the online users list (opened with ctrl+U), or from your friends list (opened with ctrl+F). Both of these lists will be discussed later.
 
-In case someone is not behaving appropriately, and you would not like them to your table, press ctrl+k. This will open a menu allowing you to choose who to kick from the table.  
+In case someone is not behaving appropriately, and you would not like them to stay at your table, press ctrl+k. This will open a menu allowing you to choose who to kick from the table.  
 Ctrl+B will open a menu allowing you to choose who to ban from the table. Banning is different from kicking, in the sense that a banned person can no longer join the table at all unless they are unbanned, while a kicked person can join the table again.
 
 Ctrl+Shift+X will allow you to change the table master. Only the table master can kick, ban, invite people, or configure game options and start the game.
@@ -238,6 +229,32 @@ In case somebody leaves a table in the middle of a game, a bot will step in to r
 If you do not want this bot and would rather continue the game with less players, you can kick the bot from the table to remove it from the game. Keep in mind that this is possible only in games which do not depend on the exact number of players. In other words, this is not possible in games which support teams, or games which deal a certain number of cards depending on the number of players, for example.
 
 In case you forget any of these shortcuts, every function listed here is also accessible from the table menu.
+
+### Configuring game options
+Almost every game has a set of optional rules you can enable or disable. For example, in Monopoly, these can be some common extra rules such as additional money on free parking, double salary when landing on start, and so on.  
+If you press alt+O after creating your table, you can configure the game. If you do this in advance, when a player presses the applications key on your table in the list of available tables, they will see those configured rules. This can encourage more players who like your rules to join. The options menu for a game will also always open the first time you press enter to start the game. Once the game is configured (either via Alt+O or on first start), this menu won't show up when trying to start the game and your configured rules will be remembered. If you want to change your options, press Alt+O to show the menu again.
+
+Note: At this time, every game does not support configuring the rules in advance.  
+If a game does not support this, alt+O will simply do nothing. 
+
+There are two systems of configuring the game:
+
+- The new system: A submenu of options will open, allowing you to change each option as many times as you want. This system is documented in this section.
+- The old system: You will be asked a series of yes/no questions, or will be given a selection for an option. If you make a mistake, you have to start configuring from scratch.
+
+All Playroom games are progressively being converted to the new options system. At this time, this process is not completed. The shortcuts and functions described below work only in games which use the new system.
+
+When the options menu of a given game opens, you will have a list of options. The following shortcuts can be used:
+
+- Left and right arrows: For an option with several choices (time limit, score limit, game variant), allows to quickly cycle between the available choices without opening a new menu.
+- Shift+A: Check or uncheck all checkboxes.
+- Shift+I: Invert the selection of checkboxes (everything currently checked becomes unchecked, and vice versa).
+- Applications key or Shift+D: Read the description for the currently focused option (if any).
+
+Keep in mind that some options depend on another setting. For example, it's impossible to enable super interceptions if interceptions aren't enabled. In such a case, if you attempt to enable an option that depends on a previous setting which is currently disabled, that setting will automatically become enabled and you will be notified.
+
+You will often be asked to choose whether you want a score limit or not. In many cases, the options menu will also offer you a choice to enter a rounds limit.
+If you configure both a score and a rounds limit, the game will finish as soon as one of the limits is reached. If you don't want a score limit, for example, make sure to enter 0 in the score limit dialog. The same procedure applies for the rounds limit.
 
 ## Watching games
 As mentioned before, the Playroom also lets you watch games between other people, as long as they are public, you have the right to join, or you have been invited.
@@ -317,8 +334,8 @@ As a screen reader user, in addition to the edit box, you have a quick way to re
 
 - Page up: Read the previous history message.
 - Page down: Read the next history message.
-- CTRL or shift+page up: Focus on and read the first history message.
-- CTRL or shift+Page down: Focus on and read the last history message.
+- CTRL or shift+page up: Read the first history message.
+- CTRL or shift+Page down: Read the last history message.
 - CTRL+space: Copy the focused history message.
 - CTRL+enter: Open a link in the focused history message, if it has any links.
 
@@ -374,7 +391,7 @@ Once that is completed, you will hear a short chime, notifying you that you have
 In arcade mode, most standard Playroom shortcuts do not work. You can use only the game shortcuts.  
 A few shortcuts however do work, and they are alt+C to access the chat (so you  can chat or reply to a PM), alt+H to access the history, and alt+M  to  return  to  the menu list, in this case the arcade mode area.
 
-The game will always instruct you what to do, this should be typical of an audio  game, for example using the arrow keys to navigate a menu.
+The game will always instruct you what to do, this should be typical of an audio  game, for example using the arrow keys to navigate a menu. At this time, to activate options inside a menu of an arcade game, please don't use the NumPad enter key. Use the standard enter key instead.
 
 Note: Arcade game tables cannot be saved. It is also impossible to watch an arcade game in progress.
 
@@ -393,7 +410,7 @@ This menu allows you to configure several settings related to the general behavi
 If this setting is enabled, before you press alt+F4 or close the Playroom from the system tray, you will be asked to confirm that you are really sure you want to do this. This setting is enabled by default.  
 
 #### Minimize to taskbar
-If this setting is enabled, when pressing Alt+F4 to close the Playroom, the Playroom will stay open in the background and will remain in your system tray. The system tray can be accessed with Insert+F11 if using Jaws, or Windows+B if using NVDA. If you find the Playroom icon there, you can press enter to maximize it again, or open the context menu with the applications key to close it completely.
+If this setting is enabled, when pressing Alt+F4 to close the Playroom, the Playroom will stay open in the background and will remain in your system tray. The system tray can be accessed with Insert+F11 if using Jaws, or Windows+B if using NVDA. If you find the Playroom icon there, you can press enter to maximize it again, or open the context menu with the applications key to close it completely. Note: It might be necessary to first show all the hidden icons in the system tray, depending on your Windows settings.
 
 Note: With NVDA, there is a known issue causing the Playroom to still stay focused after pressing Alt+F4 with this option enabled. Just press Alt+tab to move away from the Playroom window, and the window should completely disappear.  
 
@@ -417,7 +434,7 @@ This option is disabled by default.
 In this menu, you can customize various audio settings.  
 
 #### Sound volume
-This option will display your sound volume. X will be replaced by the current percentage. You can  press left or right arrows to change the volume here.
+This option will display your sound volume. You can  press left or right arrows to change the volume here.
 
 To quikly adjust the volume from anywhere on the Playroom, first press F6 to change the volume type you want to adjust, and then use F7 to decrease that volume, or F8 to increase it.
 
@@ -432,7 +449,7 @@ This option is enabled by default.
 
 #### Disable interface sounds
 While moving across the menus, closing or opening a menu, you will hear small clicks. This option will let you disable those clicks, if you don't like them.  
-Note: There is an issue preventing this option from working the first time it is enabled. Toggling it once more should fix it.
+Note: There is an issue preventing this option from working the first time it is enabled. Restarting the client after toggling it, then toggling it once more should fix it.
 
 This option is disabled by default, meaning that you will hear the interface sounds.  
 
