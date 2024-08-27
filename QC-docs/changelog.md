@@ -1,6 +1,16 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## August 28th, 2024
+- A small note that the labels can be forum specific (changed after the latest update)
+
+## August 2nd, 2024
+- Removed consult helpers comment for fairly obvious reasons.
+- Removed the mention of the old options system, all games are using the new system now.
+
+## June 8th, 2024:
+- With the official release of the new options system, published the latest documentation updates
+
 ## June 6th, 2024:
 - Clarify that NumPad enter can't be used to activate items inside arcade game menus
 

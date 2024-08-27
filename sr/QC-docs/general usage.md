@@ -1,27 +1,27 @@
 ---
 generator: pandoc
-lang: en
-title: Quentin C's Playroom - general usage
+lang: sr
+title: Quentin C's Playroom - korisničko uputstvo
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-## Table of contents
-1. [Disclaimer](#disclaimer)
-2. [Introduction](#introduction)
-3. [Getting started](#getting-started)
-    - [Familiarizing yourself with the community rules](#familiarizing-yourself-with-the-community-rules)
-    - [Playing from Windows](#playing-from-windows)
-        - [The connection dialog](#the-connection-dialog)
-4. [The Playroom interface](#the-playroom-interface)
-    - [First letter navigation](#first-letter-navigation)
-5. [Playing a game](#playing-a-game)
-    - [General table management tips](#general-table-management-tips)
-    - [Configuring game options](#configuring-game-options)
-6. [Watching games](#watching-games)
-7. [The list of online users](#the-list-of-online-users)
-8. [Chatting](#chatting)
-    - [Private messaging](#private-messaging)
-        - [Replying to a private message](replying-to-a-private-message)
+## Sadržaj
+1. [Upozorenje](#upozorenje)
+2. [Uvod](#uvod)
+3. [Početni koraci](#početni-koraci)
+    - [Upoznajte se sa pravilima zajednice](#upoznajte-se-sa-pravilima-zajednice)
+    - [Igranje sa Windowsa](#igranje-sa-windowsa)
+        - [Dijalog povezivanja](#dijalog-povezivanja)
+4. [Interfejs Igraonice](#interfejs-igraonice)
+    - [Navigacija prvim slovom](#navigacija-prvim-slovom)
+5. [Igranje igre](#igranje-igre)
+    - [Opšti saveti upravljanja stolom](#opšti-saveti-upravljanja-stolom)
+    - [Podešavanje igre](#podešavanje-igre)
+6. [Gledanje igara](#gledanje-igara)
+7. [Lista korisnika na mreži](#lista-korisnika-na-mreži)
+8. [Ćaskanje](#Ćaskanje)
+    - [Privatne poruke](#privatne-poruke)
+        - [Odgovaranje na privatnu poruku](odgovaranje-na-privatnu-poruku)
         - [Writing to the same person more than once](#writing-to-the-same-person-more-than-once)
     - [Chat commands](#chat-commands)
 9. [History reading and management](#history-reading-and-management)
@@ -678,8 +678,7 @@ The following shortcuts work on a focused post, and allow you to vote more quick
 #### Topic labels
 A topic can have a label. Only the creator of the topic can add a label to it. You will find an item to do this when you open  the topic.  
 Labels are used to quickly add a tag to a topic. They can be used in case of a bug report, to mark it as solved, or in case of a tournament, to mark it as full, ongoing, cancelled, and so on.  
-All of the labels should be self-explanatory. The labels may differ depending on the forum, for example it doesn't make sense to have not a bug as a label in the forums where we don't report any bugs, such as the tournaments forum.
-
+All of the labels should be self-explanatory.
 
 #### Polls
 A topic can have a poll you can vote on. They can also often be surveys, posted by the developer of  the Playroom to gather opinions about a feature, or something upcoming.  
