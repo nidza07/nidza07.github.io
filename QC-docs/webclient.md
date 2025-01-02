@@ -10,7 +10,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 ## Introduction
 The web client allows you to play from any device, as long  as it has an up to date browser.  
-Such devices include phones, tablets, Macs...
+Such devices include phones, tablets, Macs, or any other devices with a modern Web browser...
 
 You must keep a couple of important points in mind before using the web client, or reporting any issues with it:  
 
@@ -30,7 +30,7 @@ To connect to the web client, click the play menu item located in the main menu 
 If you are not logged in  already, the first thing you will be asked to do is type your account credentials.
 
 Once you have successfully connected, you should hear a welcome message, and your focus should be in the game toolbar. To use the web client, make sure that any virtual cursor/browse mode of your screen reader is disabled. Normally, this should already happen automatically.  
-The browse mode is what is used to navigate a website with single  letters, such as K  for link, H for heading, and so on. However, on the web client, this will interfere with single-letter shortcuts, and thus for the best experience it should be disabled. With VoiceOver, disable quick nav or single letter navigation. With Jaws, use Jaws+Z to toggle virtual cursor, and with NVDA, use NVDA+space to toggle browse mode.
+The browse mode is what is used to navigate a website with single  letters, such as K  for link, H for heading, and so on. However, on the web client, this will interfere with single-letter shortcuts, and thus for the best experience it should be disabled. With VoiceOver, disable quick nav or single letter navigation. With Jaws, use Jaws+Z to toggle virtual cursor, and with NVDA, use NVDA+space to switch to focus mode.
 
 The game toolbar is exactly the same as the menu list described in the general usage document. Any shortcut should be performed from this toolbar. You can also use Alt+M to switch to it.
 
@@ -80,6 +80,8 @@ When configuring channels and views on the web client, keep the following differ
 1. Inside channel options, you will find a speech priority setting. This setting will determine the kind of message (live region) to be sent to your screen reader. If the priority is critical or high, some screen readers may react differently, such as playing a special sound or announcing "alert!" at the end of the message. It is best to experiment with your screen reader, and find which option will work best.
 2. It is not possible to customize the discussion or game views on the Web client.
 
+
+### Web Options
 
 ## Keyboard shortcut differences
 Even though almost every shortcut works the same as it does on the Windows client, the Web client has a few differences:  

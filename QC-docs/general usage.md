@@ -97,7 +97,7 @@ As the Playroom receives frequent updates, this documentation should be kept up 
 
 Note: This documentation is still a work in progress. The incomplete sections I  am already aware of, or just things to do in general are in a separate [internal notes file](notes.md). You can help expand or complete them.
 
-Similarly, as I'm not a native speaker, if you notice a grammar/spelling error, feel free to reach out as well and let me know. If you find any section confusing or unclear, feel free to get in  touch as well and make suggestions.
+Similarly, as I'm not a native speaker, if you notice a grammar/spelling error, feel free to reach out as well and let me know. If you find any section confusing or unclear, feel free to get in  touch as well and suggest changes.
 
 One of the possible frequent questions might be if this documentation will ever get the official status. Personally, I have no objections to this. However, you must keep in mind that the official and native language of the Playroom's developer is French, so the priority would be to translate this documentation to French. This is a huge amount of work requiring quite a lot of time, so I do not expect this to be done in the near future. Note: Official status to be considered only after all the to do sections are completed. Not finished as of this time.
 
@@ -130,12 +130,12 @@ You will always find the latest version under the quick links heading of the hom
 The client follows a standard installation procedure. The Playroom does not install any additional software or toolbars, so you can feel safe proceeding. In case your anti-virus detects the Playroom as malicious, this is most likely due to the fact a new version of the client was recently released. It can take some time before that version gains the reputation of a safe program, but in the meantime, you can report the detection as a false positive/add the Playroom as an exclusion.
 
 #### The connection dialog
-Once the installation is complete and you launch the client, the first thing you will see is the connection dialog. This dialog will ask you to enter your username and password. It also has a few controls we will describe here, all of which can be accessed with the tab key:
+Once the installation is complete and you launch the client, the first thing you will see is the connection dialog. This dialog will ask you to enter your username and password. It also has a few controls we will describe here, all of which can be accessed with the ```tab``` key:
 
 - Remember my password: This checkbox will, if checked, remember your login details, so you don't have to enter them each time.
 - Auto login at startup: Described in the [Auto login at startup](#auto-login-at-startup) section of the Playroom options chapter.
 - Lost password: This will open a page on our website allowing you to reset your password.
-- Create account...: If you didn't do so already, this will open the registration page directly, allowing you to create your account.
+- Create account: If you didn't do so already, this will open the registration page directly, allowing you to create your account.
 - About: This will display the current client version and all the relevant information about the program.
 - Service status: In case you can't connect and receive an error for a longer amount of time, this will open a page informing you whether some server maintenance is currently ongoing, or there are no issues on our side. This should help you to understand where the problem is coming from.
 - Exit: Closes the client without any connection to the server.
@@ -144,47 +144,47 @@ Once you enter your username and password, you should be logged in after about a
 
 ## The Playroom interface
 Everything on the Playroom uses standard Windows controls you should already be familiar with. Most of those are lists, checkboxes, edit boxes or buttons. They function just like they would in any other program.  
-There are also many shortcuts to help you do things faster, but if at any point you forget some of them, all actions are also available from a context menu. Shortcuts can also easily be announced by pressing the F1 key. F1 is context sensitive (while in a game, it will announce the shortcuts for that game, on the main room, it will  announce some general shortcuts, and so on.
+There are also many shortcuts to help you do things faster, but if at any point you forget some of them, all actions are also available from a context menu. Shortcuts can also easily be announced by pressing the ```F1``` key. ```F1``` is context sensitive (while in a game, it will announce the shortcuts for that game, on the main room, it will  announce some general shortcuts, and so on.
 
-Once you connect, you will be in a menu list box. This list will always contain the main menu you are interacting with. This is also the list you should be focused on when pressing any other shortcuts. For example, when we say that ctrl+F opens your friends list, you should perform  the shortcut while you are in the menu list. Note that many shortcuts work outside of the list as well, but you will not see their result. For instance, sticking to our friends list example, if you are in the chat box and you press ctrl+F, the friends list will open, but to avoid interrupting your chat, your focus won't go anywhere and will stay in the chat, so you may think that nothing happened.  
-You can always quickly move to the menu list by pressing Alt+M.
+Once you connect, you will be in a menu list box. This list will always contain the main menu you are interacting with. This is also the list you should be focused on when pressing any other shortcuts. For example, when we say that ```CTRL+F``` opens your friends list, you should perform  the shortcut while you are in the menu list. Note that many shortcuts work outside of the list as well, but you will not see their result. For instance, sticking to our friends list example, if you are in the chat box and you press ```CTRL+F```, the friends list will open, but to avoid interrupting your chat, your focus won't go anywhere and will stay in the chat, so you may think that nothing happened.  
+You can always quickly move to the menu list by pressing ```Alt+M```.
 
-If you press tab from here, you will reach the chat edit box. Here you can type a message and press enter. Keep in mind that the chat box is not multiline. Pressing up or down arrow keys will move through your history of the previously written messages. The chat edit box also supports some commands. You can see what they are in the [chat commands section](#chat-commands).  
-You can focus the chat box quickly by using the Alt+C shortcut.
+If you press ```Tab``` from here, you will reach the chat edit box. Here you can type a message and press ```Enter```. Keep in mind that the chat box is not multiline. Pressing ```up``` or ```down``` arrow keys will move through your history of the previously written messages. The chat edit box also supports some commands. You can see what they are in the [chat commands section](#chat-commands).  
+You can focus the chat box quickly by using the ```Alt+C``` shortcut.
 
 Tabbing once more will focus you on the read-only history edit box. This will contain every message automatically spoken by the Playroom, such as a chat message, a private message, or game messages. You can review any messages you missed here.  
-The history field can quickly be focused by using the Alt+H shortcut.
+The history field can quickly be focused by using the ```Alt+H``` shortcut.
 
 These are all the interface elements you will encounter.  
 Once you connect, the menu list will contain some of the basic options. They are as follows:
 
 - Create a new table: Every game you create on the Playroom is a table. A table is a place where various people can sit together and have some fun. In addition to all the available games, you also have a free table option, allowing you to just chat without playing anything.
 - Join a table: This option will allow you to join a table already created by somebody else.
-- Restore a table: Any game on the Playroom can be saved by pressing ctrl+S while in it. Only the table master can save a game. The table master is the person who has created the table but can be changed at any moment. This option will allow you to restore such a saved game, provided that all the players are online and in the main room. The main room is where we are located right now.
-- Options: Contains all the settings of the Playroom. They are described in the [options section](#playroom-options)
+- Restore a table: Any game on the Playroom can be saved by pressing ```CTRL+S``` while in it. Only the table master can save a game. The table master is the person who has created the table but can be changed at any moment. This option will allow you to restore such a saved game, provided that all the players are online and in the main room. The main room is where we are located right now.
+- Options: Contains all the settings of the Playroom. They are described in the [options section](#playroom-options).
 - Functions and more: Some additional functions and features, not directly related to playing games. They are described in the [additional functions section](#additional-features).
 - Leave the playroom: Closes the client and lets you go offline.
 
 In addition to this, the Playroom offers you two context menus:
 
-- Table menu: This menu can be opened by pressing the F2 key. It contains some of the most useful options for managing a table, such as adding bots, removing bots, inviting, kicking or banning players.
-- Game menu: This menu can be opened by pressing the applications key, shift+F10 or CTRL+f9. Typically, it offers useful options only  when a game is started. They will include the common actions that can be performed using shortcuts, such as drawing or discarding a card, rolling the dice, sorting your cards, and so on.
+- Table menu: This menu can be opened by pressing the ```F2``` key. It contains some of the most useful options for managing a table, such as adding bots, removing bots, inviting, kicking or banning players.
+- Game menu: This menu can be opened by pressing the ```Applications key```, ```Shift+F10``` or ```CTRL+F9```. Typically, it offers useful options only  when a game is started. They will include the common actions that can be performed using shortcuts, such as drawing or discarding a card, rolling the dice, sorting your cards, and so on.
 
 Both of these menus do not have too many useful features while in the main room, so you should try them out when  creating or joining a table.
 
 ### First letter navigation
-On the Playroom, you can use the first letter navigation to move to an item starting with the letter you have pressed. It works exactly the same as it does globally in Windows lists, meaning that you can also press multiple letters in quick succession to move to an item with these letters.  
+On the Playroom, you can use  first letter navigation to move to an item starting with the letter you have pressed. It works exactly the same as it does globally in Windows lists, meaning that you can also press multiple letters in quick succession to move to an item with these letters.  
 It is important to keep the following two items in mind:
 
 1. First letter navigation does not work in menus where single letter shortcuts to get information are used. For example, it does not work in games, since letters like S are used to check the scores.
-2. In menus where only a few very common actions are used, pressing the first letter will directly activate an item. Currently, these are all  the yes/no questions, where you can press Y or N to answer quickly, or the colour selection in Uno, where the first letter of a colour will select it.
+2. In menus where only a few very common actions are used, pressing the first letter will directly activate an item. Currently, these are all  the yes/no questions, where you can press Y or N to answer quickly, or the color selection in Uno, where the first letter of a color will select it.
 
-In addition to the first letter navigation, in games with standard cards, you can use the left and right arrow keys to navigate to the previous or next card suit in your hand. This will only work in games where cards are sorted according to their suit.
+In addition to  first letter navigation, in games with standard cards, you can use the ```Left``` and ```Right``` arrow keys to navigate to the previous or next card suit in your hand. This will only work in games where cards are sorted according to their suit.
 
 ## Playing a game
 Once you have configured everything, the first thing you will probably want to do is start a game. Here, some general resources and tips will  be given to improve your experience.
 
-To begin playing, you can either join a table already created by somebody else or create a new table of your own and wait for other people to join. Alternatively, if nobody is available to play with, adding bots is also an option. To add a bot to your game, press B once you have created the table.
+To begin playing, you can either join a table already created by somebody else or create a new table of your own and wait for other people to join. Alternatively, if nobody is available to play with, adding bots is also an option. To add a bot to your game, press ```B``` once you have created the table.
 
 In addition to card, board and dice games, the Playroom also supports arcade games. They are audio games, different from the games traditionally available on the platform. Since they function differently, they are described in greater detail in the [separate arcade games section](#arcade-games).
 
@@ -198,25 +198,25 @@ Here, 1000 miles of course is the game name, but (1/4) refers to the number of a
 
 Note: You may not see all 4 tables. If the privacy settings of the table master do not allow you to join, that table will not be visible in your list of tables.
 
-If a table has too many people on it, they may not be displayed in the list. Instead, you will be told about the first few people, and then the remaining total number. If you still want to view the full list, you can press the right arrow on that table to expand it and see the complete list.
+If a table has too many people on it, they may not be displayed in the list. Instead, you will be told about the first few people, and then the remaining total number. If you still want to view the full list, you can press the ```Right arrow``` on that table to expand it and see the complete list.
 
-Once you focus a table in the list, you can also press the applications key on it. This will do one of the following:
+Once you focus a table in the list, you can also press the ```Applications key``` on it. This will do one of the following:
 
 1. If this is a table of a game already in progress, it will tell  you the current score whenever a game supports this, without having to join the table first.
 2. If this is not a game in progress, it will instead tell you the configured game rules. For more information about configuring optional rules, please see the [configuring game options section](#configuring-game-options).
 
-If a game has multiple rounds, once a round ends, you have to wait 15 seconds for a new one. If you are the table master, during this waiting period, you can press shift+P to pause the game. The new round won't start until you press the same shortcut again to resume the game.
+If a game has multiple rounds, once a round ends, you have to wait 15 seconds for a new one. If you are the table master, during this waiting period, you can press ```Shift+P``` to pause the game. The new round won't start until you press the same shortcut again to resume the game.
 
 ### General table management tips
 Once you have created a table, some common tips that apply for every game will be listed here.  
-You will be told several things you can do, such as pressing enter to start the game, B to add bots, shift+B to remove bots, or alt+O  to configure game options. For more information about configuring game options, please see the [configuring game options section](#configuring-game-options).
+You will be told several things you can do, such as pressing ```Enter``` to start the game, ```B``` to add bots, ```Shift+B``` to remove bots, or ```Alt+O```  to configure game options. For more information about configuring game options, please see the [configuring game options section](#configuring-game-options).
 
-If you don't know how to play a particular game, while at the table of that game, you can press ctrl+F1. This will open a page on our website displaying the detailed rules of that game. It will open either inside the client, in a web view, or inside your web browser, depending on your configuration.  
-Note: Some games do not have any rules written at this time. Either because it is impossible to learn  them exclusively from the Playroom (games like chess), they are quite popular and simple (such as Battleship), or they are simply easter egg games, meant for you to discover on your own.
+If you don't know how to play a particular game, while at the table of that game, you can press ```CTRL+F1```. This will open a page on our website displaying the detailed rules of that game. It will open either inside the client, in a web view, or inside your web browser, depending on your configuration.  
+Note: Some games do not have any rules written at this time. Either because it is difficult to explain and learn  them exclusively on the Playroom (games like chess), they are quite popular and simple (such as Battleship), or they are simply easter egg games, meant for you to discover on your own.
 
-As we mentioned earlier, F1 will give you a list of shortcuts specific to that game. For example, maybe you know how to play Chess, but you don't know what the shortcut is the Playroom uses for navigating between different pieces. F1 will tell you this, and all the other shortcuts used.
+As we mentioned earlier, ```F1``` will give you a list of shortcuts specific to that game. For example, maybe you know how to play Chess, but you don't know what the shortcut is the Playroom uses for navigating between different pieces. ```F1``` will tell you this, and all the other shortcuts used.
 
-To invite somebody to your table, press ctrl+I while focused on their username. This can either be from the online users list (opened with ctrl+U), or from your friends list (opened with ctrl+F). Both of these lists will be discussed later.
+To invite somebody to your table, press ```CTRL+I``` while focused on their username. This can either be from the online users list (opened with ```CTRL+U```), or from your friends list (opened with ```CTRL+F```). Both of these lists will be discussed later.
 
 In case someone is not behaving appropriately, and you would not like them to stay at your table, press ctrl+k. This will open a menu allowing you to choose who to kick from the table.  
 Ctrl+B will open a menu allowing you to choose who to ban from the table. Banning is different from kicking, in the sense that a banned person can no longer join the table at all unless they are unbanned, while a kicked person can join the table again.
@@ -414,7 +414,7 @@ Note: In case of an error, such as incorrect credentials due to a nickname chang
 This option is disabled by default.
 
 #### Automatically save histories
-If this option is enabled, everything displayed in your history will autommatically be saved to a text file. The text files are named according to the current date, so each day will have its own history.
+If this option is enabled, everything displayed in your history will automatically be saved to a text file. The text files are named according to the current date, so each day will have its own history.
 
 Below this option, you can also choose a folder for automatic history saving.
 
@@ -426,7 +426,7 @@ In this menu, you can customize various audio settings.
 #### Sound volume
 This option will display your sound volume. You can  press left or right arrows to change the volume here.
 
-To quikly adjust the volume from anywhere on the Playroom, first press F6 to change the volume type you want to adjust, and then use F7 to decrease that volume, or F8 to increase it.
+To quickly adjust the volume from anywhere on the Playroom, first press F6 to change the volume type you want to adjust, and then use F7 to decrease that volume, or F8 to increase it.
 
 #### Sound audio output:
 This will let you change the output device for general Playroom sounds. By default, it follows your default Windows output device.
@@ -496,7 +496,7 @@ Customizing channels and views is an extremely flexible and powerful feature of 
 2. You may not want to have messages about your friends leaving and entering the Playroom as a part of your discussion view. Achieving this is possible by customizing the discussion view, and unchecking the friends channel, which will no longer be a part of that view.
 3. You may want to hear a sound every time it is your turn in a game. By default, this sound will  play only when you are outside of the Playroom window. To have it always playing, set the notifications channel to always play its sounds.
 
-#### Colours...
+#### Colors...
 Lets you configure the different colors. In addition to customizing the appearance of each color, you can also change the text color, background color, text color of selected element, background color of selected element, grayed text color, use predefined colors for light/white background or use predefined colors for dark/black background. The same customizations can be applied to the font of the text.
 
 #### Enable tooltips
