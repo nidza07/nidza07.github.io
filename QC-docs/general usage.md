@@ -35,6 +35,8 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
     - [Language](#language)
     - [General options](#general-options)
         - [Ask a confirmation before exiting](#ask-a-confirmation-before-exiting)
+        - [Maximize the window on open](#maxizime-the-window-on-open)
+        - [Open the window in full screen](#open-the-window-in-full-screen)
         - [Minimize to taskbar](#minimize-to-taskbar)
         - [Auto login at startup](#auto-login-at-startup)
         - [Automatically save histories](#automatically-save-histories)
@@ -45,12 +47,15 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
         - [Disable interface sounds](#disable-interface-sounds)
         - [Use direct sound instead of WASAPI](#use-direct-sound-instead-of-wasapi)
     - [Reading and appearance](#reading-and-appearance)
+        - [Profile](#profile)
         - [Channels](#channels)
             - [Channel options](#channel-options)
         - [Views](#views)
             - [View options](#view-options)
         - [Colors](#colors)
+        - [Visual theme](visual-theme)
         - [Enable tooltips](#enable-tooltips)
+        - [Announce additional information of selected element](#announce-additional-information-of-selected-element)
         - [Use embedded web view](#use-embedded-web-view)
     - [Security](#security)
         - [Use only secure connections](#use-only-secure-connections)
@@ -104,6 +109,7 @@ One of the possible frequent questions might be if this documentation will ever 
 
 For translators to any other language, I will always keep a [Documentation changelog](changelog.md), which will list any changes to the documentation and when they were made. This will make it easy for you to update your translations accordingly. Note: The changelog is in Markdown.
 
+
 ## Introduction
 Welcome to the Playroom!  
 The Playroom is a free online gaming platform, especially made to be accessible to visually impaired people.
@@ -134,6 +140,7 @@ Once the installation is complete and you launch the client, the first thing you
 
 - Remember my password: This checkbox will, if checked, remember your login details, so you don't have to enter them each time.
 - Auto login at startup: Described in the [Auto login at startup](#auto-login-at-startup) section of the Playroom options chapter.
+Note: Due to an issue with the library used for our graphical user interface, if you set your [visual theme](#visual-theme) to dark, these two checkboxes will be announced as buttons for screen reader users. It will thus be impossible to know their current state. To resolve this, temporarily switch back to the light theme.
 - Lost password: This will open a page on our website allowing you to reset your password.
 - Create account: If you didn't do so already, this will open the registration page directly, allowing you to create your account.
 - About: This will display the current client version and all the relevant information about the program.
@@ -372,16 +379,15 @@ To play an arcade game, you must be using the Windows client (preferably always 
 Once you create a new table, if you meet this requirement, you  will have an option below the cancel item called arcade games. This menu can always be accessed quickly by pressing the right arrow.  
 This will present a list of all the currently available arcade games. The left arrow will  return you to the traditional, classic games.
 
-Pressing enter on one will create its table. At the moment, all arcade games are created as private tables by default, since the multiplayer mode currently does not work. Thus, you can currently only compete with other players on a global scoreboard for each game, but not play directly against them.
+Pressing enter on one will create its table. At the moment, all arcade games are created as private tables by default, since there are no multiplayer features. Thus, you can currently only compete with other players on a global scoreboard for each game, but not play directly against them.
 
 ### Game download and start
 Once you press enter while at an arcade table to start the game, the game first has to be downloaded. This should take a short amount of time, depending on your connection.  
 Once that is completed, you will hear a short chime, notifying you that you have entered the arcade mode.
 
-In arcade mode, most standard Playroom shortcuts do not work. You can use only the game shortcuts.  
-A few shortcuts however do work, and they are alt+C to access the chat (so you  can chat or reply to a PM), alt+H to access the history, and alt+M  to  return  to  the menu list, in this case the arcade mode area.
+In arcade mode, most standard Playroom shortcuts do not work. You can use only the game shortcuts. Typically, while you are in the main menu of an arcade game and you haven't started playing yet, the ```Tab``` key will still let you move to the chat and the history areas, so you can continue communicating with other players. The ```Tab``` key won't move the focus to these areas once the game starts.
 
-The game will always instruct you what to do, this should be typical of an audio  game, for example using the arrow keys to navigate a menu. At this time, to activate options inside a menu of an arcade game, please don't use the NumPad enter key. Use the standard enter key instead.
+The game will always instruct you what to do, this should be typical of an audio  game, for example using the arrow keys to navigate a menu.
 
 Note: Arcade game tables cannot be saved. It is also impossible to watch an arcade game in progress.
 
@@ -399,10 +405,16 @@ This menu allows you to configure several settings related to the general behavi
 #### Ask a confirmation before exiting
 If this setting is enabled, before you press alt+F4 or close the Playroom from the system tray, you will be asked to confirm that you are really sure you want to do this. This setting is enabled by default.  
 
+#### Maximize the window on open
+If this setting is enabled, the Playroom client's window will always be maximized when it is launched. The window will also be maximized as soon as you enable this setting.  
+This option is disabled by default. You may consider enabling it if you notice strange issues with your screen reader not reading the history box, for example, or if you simply prefer the window to always be maximized.
+
+#### Open the window in full screen
+If this option is enabled, the Playroom client's window will always be in the full screen view.  
+This option is disabled by default.
+
 #### Minimize to taskbar
 If this setting is enabled, when pressing Alt+F4 to close the Playroom, the Playroom will stay open in the background and will remain in your system tray. The system tray can be accessed with Insert+F11 if using Jaws, or Windows+B if using NVDA. If you find the Playroom icon there, you can press enter to maximize it again, or open the context menu with the applications key to close it completely. Note: It might be necessary to first show all the hidden icons in the system tray, depending on your Windows settings.
-
-Note: With NVDA, there is a known issue causing the Playroom to still stay focused after pressing Alt+F4 with this option enabled. Just press Alt+tab to move away from the Playroom window, and the window should completely disappear.  
 
 This option is disabled by default.
 
@@ -438,8 +450,7 @@ When  playing an arcade game, each notification you receive can be quite disturb
 This option is enabled by default.
 
 #### Disable interface sounds
-While moving across the menus, closing or opening a menu, you will hear small clicks. This option will let you disable those clicks, if you don't like them.  
-Note: There is an issue preventing this option from working the first time it is enabled. Restarting the client after toggling it, then toggling it once more should fix it.
+While moving across the menus, closing or opening a menu, or encountering checked checkboxes, you will hear small clicks. This option will let you disable those clicks, if you don't like them.  
 
 This option is disabled by default, meaning that you will hear the interface sounds.  
 
@@ -452,6 +463,12 @@ Unless you are experiencing problems with sound playback, you do not need to cha
 
 ### Reading and appearance
 This menu will let you customize everything regarding your channels and views. Channels and views have been explained later, so we will not re-explain this concept here, rather all the options available to you will be explained. To check out what are channels and views, read the [Channels and views section](#history-views-and-channels).
+
+#### Profile
+This option will let you choose the currently active profile, or reading and appearance preset.  
+All options explained below are, by default, saved to the default profile. However, if you often change your channel and view settings, for example, you may want to have multiple profiles available.
+
+Using this menu item, you can create, rename or delete profiles. If a profile is active, all your reading and appearance setting changes will apply only to that profile.
 
 #### Channels
 This menu will open a list of all the channels available for the Playroom messages. This list is not customizable, but how a certain channel is displayed is. Pressing enter on a channel will open the options menu for that channel.
@@ -477,6 +494,13 @@ Once you choose a channel to customize, you have the following options:
 - Sound type: Lets you choose if the sounds of this channel should belong to the standard sounds category, or the notifications.
 - Don't display in history: Completely hides the messages of this channel. They will not be shown in history, neither in the history edit box, nor when reviewing the history with page up or down.
 - Visual options: Below this, you have a list of several options to customize the visual appearance of the channel. You can make its messages bold, underline or italic, as well as change the color of its text.
+- Don't display in braille: If this option is checked, messages of the selected channel won't flash on your Braille display. By default, all channels display their messages in Braille.
+- Disable when arcade mode is active: If this option is checked, when you are in the [arcade mode](#arcade-games), messages of the selected channel won't automatically be spoken. All messages are automatically spoken by default, even when in arcade mode.
+- Show timestamp: When this option is checked, the arrival time will be shown for each message of the selected channel. By default, messages of all channels have their timestamps disabled.
+- Send Windows notification: If this option is checked, for each new message in the selected channel, you will receive a standard Windows notification, but only if the Playroom's window is not focused.
+    - These notifications can be reviewed in the notifications center on Windows 11 (Windows+N), or the actions center on Windows 10 (Windows+A).
+    - The main advantage of receiving these notifications is that the system settings are followed, for example, if you enable do not disturb, you also won't be interrupted by messages coming from the Playroom.
+    - The main disadvantage is that these notifications may be overly verbose compared to the typical Playroom announcements. Similiarly, you will probably want to disable speech when the window isn't active, otherwise, you will have double announcements.
 
 #### Views
 This will open a list containing all your history views. This list is customizable. Pressing shift+Up or down arrow keys lets you move that view up or down, and pressing delete lets you delete it.  
@@ -490,20 +514,44 @@ Below that, you will have a list of checkboxes. These are all  the different Pla
 
 For example, the discussion view has private messages, public chat, table messages and friends channels selected.
 
+You can also change several options which control how the view will behave:
+
+- Use independent review cursor: If this option is checked, the history view will have its own independent cursor when using the shortcuts to read the history messages.
+    - For example, if your discussion view has this option enabled, even if you move to the general history view, and use ```CTRL+Page down``` to move to the bottom of the history, when you switch back to the discussion view, your cursor will stay where it was last time when the discussion view was used.
+    - By default, all history views have this option unchecked.
+- Announce position: If this option is enabled, your screen reader will announce the index of the current message, as well as the total number of messages in a view when navigating the history.
+    - For example, with this option enabled, at the end of a message, you will hear, "15 of 25", where 15 means that you are currently on the 15th message in this view, and there are 25 of them in total.
+    - By default, this option is unchecked for all views.
+
 Customizing channels and views is an extremely flexible and powerful feature of the Playroom. We strongly recommend familiarizing yourself with these options, as they can allow you to configure, in great detail, how and when messages should be read or displayed. Below, we have outlined just a few possible scenarios, to demonstrate why this feature can be extremely helpful.
 
 1. By default, when at a table, chats will be read and will play a sound only when you are focused on the Playroom window. You may dislike this and not want to miss messages. You can achieve this by customizing the public chat channel, and setting its speech and sounds to always.
 2. You may not want to have messages about your friends leaving and entering the Playroom as a part of your discussion view. Achieving this is possible by customizing the discussion view, and unchecking the friends channel, which will no longer be a part of that view.
 3. You may want to hear a sound every time it is your turn in a game. By default, this sound will  play only when you are outside of the Playroom window. To have it always playing, set the notifications channel to always play its sounds.
 
-#### Colors...
-Lets you configure the different colors. In addition to customizing the appearance of each color, you can also change the text color, background color, text color of selected element, background color of selected element, grayed text color, use predefined colors for light/white background or use predefined colors for dark/black background. The same customizations can be applied to the font of the text.
+#### Colors
+Lets you configure the different colors. In addition to customizing the appearance of each color, you can also change the text color, background color, text color of selected element, background color of selected element, grayed text color, use predefined colors for light/white background or use predefined colors for dark/black background. Using the item below, you can also change the font.
+
+#### Visual theme
+Using this option, you can choose your preferred theme between auto (uses your system settings to determine the right theme), light or dark.
+
+Whenever you change your theme, you will get a warning dialog which will ask you whether you want the colors to automatically change with the theme. If you have customized your colors, answering yes in this dialog will cause you to lose all your customizations.  
+However, with customized colors, you may experience combinations which are hard to read, or which may cause discomfort (for example, a completely dark Playroom interface, but a light history). It is advisable to choose yes here, unless you know exactly what you have customized, and prefer to keep colors as they are regardless of the theme.
 
 #### Enable tooltips
+
 This option is only useful for sighted users. Blind people do not need to change this setting.  
 When this option is enabled, if the text of a list item is too large to fit on the screen, a tooltip will be shown once the mouse is hovered over it, displaying the full item text. It is also possible to configure the delay after which this tooltip will appear.
 
 This option is disabled by default.
+
+#### Announce additional information of selected element
+This option is the inverse of the tooltips option above, and it is only useful for blind users.  
+If it is enabled, if you are focused on an item which has additional descriptive information, this information will automatically be announced after a delay. This delay is also configurable using the item below.
+
+Regardless of the status of this option, such descriptions can always be read manually as well by using the context menu (applications key). They are often descriptions of what different cards can do and their effects, or descriptions of different game options.
+
+This option is enabled by default.
 
 #### Use embedded web view
 Normally, when you press CTRL+F1 inside a game to open its rules or activate the context menu item to do this, the rules will open directly inside the Playroom client. They will be shown in an embedded web view, allowing you to read the rules without moving away from the client.  

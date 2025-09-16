@@ -1,6 +1,9 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## September 7th, 2025:
+- Updated documentation to reflect the new Windows client release
+
 ## August 28th, 2024
 - A small note that the labels can be forum specific (changed after the latest update)
 
