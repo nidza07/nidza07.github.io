@@ -35,7 +35,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
     - [Language](#language)
     - [General options](#general-options)
         - [Ask a confirmation before exiting](#ask-a-confirmation-before-exiting)
-        - [Maximize the window on open](#maxizime-the-window-on-open)
+        - [Maximize the window on open](#maximize-the-window-on-open)
         - [Open the window in full screen](#open-the-window-in-full-screen)
         - [Minimize to taskbar](#minimize-to-taskbar)
         - [Auto login at startup](#auto-login-at-startup)
