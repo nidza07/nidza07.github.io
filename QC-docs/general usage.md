@@ -115,7 +115,7 @@ If you choose to join a table, you may see something like this:
 
 Here, 1000 miles of course is the game name, but (1/4) refers to the number of available tables. The first number, 1, means that only one table is waiting for players. The second number, 4, means that there are 4 tables in total. Those other 3 remaining tables are already playing a game in progress, and you can of course join to watch the game.
 
-Note: You may not see all 4 tables. If the privacy settings of the table master do not allow you to join, that table will not be visible in your list of tables.
+Note: You may not see all 4 tables. If the privacy settings of the table master do not allow you to join, or the table master blocked you, that table will not be visible in your list of tables.
 
 If a table has too many people on it, they may not be displayed in the list. Instead, you will be told about the first few people, and then the remaining total number. If you still want to view the full list, you can press the ```Right arrow``` on that table to expand it and see the complete list.
 
@@ -362,7 +362,7 @@ When  playing an arcade game, each notification you receive can be quite disturb
 This option is enabled by default.
 
 ### Disable interface sounds
-While moving across the menus, closing or opening a menu, or encountering checked checkboxes, you will hear small clicks. This option will let you disable those clicks, if you don't like them.  
+While moving across the menus, closing or opening a menu, as well as encountering checked checkboxes, you will hear small clicks. This option will let you disable those clicks, if you don't like them.  
 
 This option is disabled by default, meaning that you will hear the interface sounds.  
 
@@ -374,7 +374,7 @@ However, some sound devices may experience distortion, or poor sound playback. I
 Unless you are experiencing problems with sound playback, you do not need to change this option.
 
 ## Reading and appearance
-This menu will let you customize everything regarding your channels and views. Channels and views have been explained later, so we will not re-explain this concept here, rather all the options available to you will be explained. To check out what are channels and views, read the [Channels and views section](#history-views-and-channels).
+This menu will let you customize everything regarding your channels and views. Channels and views have been explained earlier, so this concept won't be explained again, rather all the options available to you will be described. To check out what are channels and views, read the [Channels and views section](#history-views-and-channels).
 
 ### Profile
 This option will let you choose the currently active profile, or reading and appearance preset.  
@@ -558,6 +558,8 @@ The Playroom offers you the ability to add the users you often talk to to your l
 - Your privacy settings can be configured so that only your friends can message you. In this case, you can communicate only with the people on this list.
 
 To access your list of friends from anywhere on the Playroom, press CTRL+F.
+
+You can add up to 200 users to your friends list.
 
 ### Adding people
 To add someone to your list of friends, use the "add a friend..." option.  
