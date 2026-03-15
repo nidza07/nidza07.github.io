@@ -43,7 +43,9 @@ As a quick summary, insults or spamming is forbidden, do not cheat or attempt to
 The general usage document will focus on the experience you will get when playing from Windows, using the Playroom Windows client. Note that it is possible to play from other platforms as well using your web browser. This will be described in a separate document, but there are only some minor differences compared to the Windows client, so you should still be able to follow along. It is recommended to read this document, and then read the Web client documentation, which will only describe the special  features of the web client and its main differences. The web client has a few additional shortcuts and gestures for mobile users. They are described in the separate [web client documentation](webclient.html).  
 
 If you are using Windows, your best option is to download the Windows client. This will allow you to access all the features of the Playroom, and is the fastest, most stable way to play.  
-You will always find the latest version under the quick links heading of the home page. You can also [Directly download it from here](https://qcsalon.net/autodl/qcgc-setup.exe).
+You will always find the latest version under the downloads heading of the home page. You can also [Directly download it from here](https://qcsalon.net/autodl/qcgc-setup.exe).
+
+Note that the latest client version only supports 64-bit versions of Windows. An older, 32-bit client version can still be used on old systems, it is available from the downloads heading. You can also [directly download the 32-bit version here](https://qcsalon.net/autodl/qcgc-3.0.7-setup.exe).
 
 The client follows a standard installation procedure. The Playroom does not install any additional software or toolbars, so you can feel safe proceeding. In case your anti-virus detects the Playroom as malicious, this is most likely due to the fact a new version of the client was recently released. It can take some time before that version gains the reputation of a safe program, but in the meantime, you can report the detection as a false positive/add the Playroom as an exclusion.
 

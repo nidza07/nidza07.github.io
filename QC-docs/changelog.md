@@ -1,6 +1,10 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
 
+## March 15th, 2026
+- Remove quick links reference, we use the downloads heading now.
+- Add a link to the 32-bit client.
+
 ## September 7th, 2025:
 - Updated documentation to reflect the new Windows client release
 
