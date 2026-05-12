@@ -1,5 +1,8 @@
 # Playroom documentation changelog
 Note: The items below are considered the internal changelog. This means that the changes below have been written even before the first version of this documentation was published anywhere at all, so they are much less detailed, personal notes I have used for myself. Future changes will be much more accurate and precise.
+## May 12th, 2026
+- Added a profile section to the functions menu, explaining the new profile settings page.
+- Linking to the profile section from the registration section to explain the optional gender/birth date data.
 
 ## March 15th, 2026
 - Remove quick links reference, we use the downloads heading now.

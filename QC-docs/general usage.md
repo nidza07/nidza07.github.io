@@ -29,7 +29,8 @@ The Playroom is a free online gaming platform, especially made to be accessible 
 On the Playroom, you will find some of the most popular card, board and dice games, such as Uno, Poker, Farkle, Yahtzee, Chess, but also some of the less popular ones. Hopefully you will discover a new game you didn't know before and invite your friends to play it with you!
 
 # Getting started
-To begin playing, you will  first need to create an account. This is a very simple process. The Playroom doesn't ask for any personal data. We need only  your username (this is a nickname that will help members of the community to recognize you), your password, and your e-mail address.  
+To begin playing, you will  first need to create an account. This is a very simple process. The Playroom doesn't ask for any personal data. We need only  your username (this is a nickname that will help members of the community to recognize you), your password, and your e-mail address. After you register, you can also optionally provide your gender and date of birth to customize certain features. For more details, read the [profile section](#profile-1).
+
 To create your account, visit [The registration page](https://qcsalon.net/en/register).  
 There, fill all the data as required, and you will receive a confirmation e-mail on the address you have specified during your registration. Either enter the code on the page which just opened, or just click the link in your e-mail, and the account will be activated. From this point on, you can start playing!
 
@@ -594,6 +595,16 @@ Note: At any time, you can unblock anybody you previously blocked.
 ## Status messages
 Choosing the option "Change your status message" will  allow you to set your status message.  
 A status message can have 90 characters at most. This message is only visible to your friends. It is a kind of mood message, and you can express anything here, as long as it follows the Playroom rules.
+
+## Profile
+This option will let you change your profile data. At the moment, you can adjust the following:
+
+- Gender: allows games and interfaces of the Playroom to address you properly, using the appropriate pronouns and verb/adjective endings (in languages which use them).
+- Birthdate: used for compliance with the laws of certain countries. If you don't enter your date of birth, or if you are a minor, some features may be blocked in countries which restrict social networks for child safety reasons. Your date of birth is not visible to anybody, and the Playroom administration doesn't have access to it either. Currently, no functions are restricted, this is a future proofing system.
+You should enter your date of birth in the chosen date format. You can choose your preferred date format on the website, in the [display settings](https://qcsalon.net/en/display).
+When you activate the menu item to set your birthday, the client will also show you an example in your current format so you can understand how to enter it, for example, 18.5.2003 may be shown if the format is date.month.year.
+
+You can open your profile settings from anywhere by pressing ```CTRL+Shift+I```.
 
 ## Open forum
 This option will open the Playroom forum directly in your client.  

@@ -6,6 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Quentin C’s Playroom - general usage</title>
   <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     html {
       color: #1a1a1a;
       background-color: #fdfdfd;
@@ -88,6 +91,7 @@
       color: #606060;
     }
     code {
+      white-space: pre-wrap;
       font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
@@ -107,8 +111,8 @@
      overflow: visible;
     }
     hr {
-      background-color: #1a1a1a;
       border: none;
+      border-top: 1px solid #1a1a1a;
       height: 1px;
       margin: 1em 0;
     }
@@ -151,7 +155,6 @@
     #TOC a:not(:hover) {
       text-decoration: none;
     }
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
@@ -384,37 +387,39 @@ class="toc-section-number">12.2.3</span> Favorites</a></li>
 class="toc-section-number">12.3</span> Blocked users list</a></li>
 <li><a href="#status-messages" id="toc-status-messages"><span
 class="toc-section-number">12.4</span> Status messages</a></li>
+<li><a href="#profile-1" id="toc-profile-1"><span
+class="toc-section-number">12.5</span> Profile</a></li>
 <li><a href="#open-forum" id="toc-open-forum"><span
-class="toc-section-number">12.5</span> Open forum</a>
+class="toc-section-number">12.6</span> Open forum</a>
 <ul>
 <li><a href="#creating-a-topic" id="toc-creating-a-topic"><span
-class="toc-section-number">12.5.1</span> Creating a topic</a></li>
+class="toc-section-number">12.6.1</span> Creating a topic</a></li>
 <li><a href="#viewing-existing-topics"
 id="toc-viewing-existing-topics"><span
-class="toc-section-number">12.5.2</span> Viewing existing
+class="toc-section-number">12.6.2</span> Viewing existing
 topics</a></li>
 <li><a href="#topic-score" id="toc-topic-score"><span
-class="toc-section-number">12.5.3</span> Topic score</a></li>
+class="toc-section-number">12.6.3</span> Topic score</a></li>
 <li><a href="#topic-labels" id="toc-topic-labels"><span
-class="toc-section-number">12.5.4</span> Topic labels</a></li>
+class="toc-section-number">12.6.4</span> Topic labels</a></li>
 <li><a href="#polls" id="toc-polls"><span
-class="toc-section-number">12.5.5</span> Polls</a></li>
+class="toc-section-number">12.6.5</span> Polls</a></li>
 <li><a href="#editing-your-message" id="toc-editing-your-message"><span
-class="toc-section-number">12.5.6</span> Editing your message</a></li>
+class="toc-section-number">12.6.6</span> Editing your message</a></li>
 <li><a href="#forum-subscriptions" id="toc-forum-subscriptions"><span
-class="toc-section-number">12.5.7</span> Forum subscriptions</a></li>
+class="toc-section-number">12.6.7</span> Forum subscriptions</a></li>
 </ul></li>
 <li><a href="#send-a-history-report"
 id="toc-send-a-history-report"><span
-class="toc-section-number">12.6</span> Send a history report</a></li>
+class="toc-section-number">12.7</span> Send a history report</a></li>
 <li><a href="#open-website" id="toc-open-website"><span
-class="toc-section-number">12.7</span> Open website</a></li>
+class="toc-section-number">12.8</span> Open website</a></li>
 <li><a href="#save-history-in-a-file"
 id="toc-save-history-in-a-file"><span
-class="toc-section-number">12.8</span> Save history in a file</a></li>
+class="toc-section-number">12.9</span> Save history in a file</a></li>
 <li><a href="#save-current-view-in-a-file"
 id="toc-save-current-view-in-a-file"><span
-class="toc-section-number">12.9</span> Save current view in a
+class="toc-section-number">12.10</span> Save current view in a
 file</a></li>
 </ul></li>
 <li><a href="#bonus-features" id="toc-bonus-features"><span
@@ -481,9 +486,11 @@ class="header-section-number">3</span> Getting started</h1>
 <p>To begin playing, you will first need to create an account. This is a
 very simple process. The Playroom doesn’t ask for any personal data. We
 need only your username (this is a nickname that will help members of
-the community to recognize you), your password, and your e-mail
-address.<br />
-To create your account, visit <a
+the community to recognize you), your password, and your e-mail address.
+After you register, you can also optionally provide your gender and date
+of birth to customize certain features. For more details, read the <a
+href="#profile-1">profile section</a>.</p>
+<p>To create your account, visit <a
 href="https://qcsalon.net/en/register">The registration page</a>.<br />
 There, fill all the data as required, and you will receive a
 confirmation e-mail on the address you have specified during your
@@ -1626,8 +1633,32 @@ set your status message.<br />
 A status message can have 90 characters at most. This message is only
 visible to your friends. It is a kind of mood message, and you can
 express anything here, as long as it follows the Playroom rules.</p>
-<h2 data-number="12.5" id="open-forum"><span
-class="header-section-number">12.5</span> Open forum</h2>
+<h2 data-number="12.5" id="profile-1"><span
+class="header-section-number">12.5</span> Profile</h2>
+<p>This option will let you change your profile data. At the moment, you
+can adjust the following:</p>
+<ul>
+<li>Gender: allows games and interfaces of the Playroom to address you
+properly, using the appropriate pronouns and verb/adjective endings (in
+languages which use them).</li>
+<li>Birthdate: used for compliance with the laws of certain countries.
+If you don’t enter your date of birth, or if you are a minor, some
+features may be blocked in countries which restrict social networks for
+child safety reasons. Your date of birth is not visible to anybody, and
+the Playroom administration doesn’t have access to it either. Currently,
+no functions are restricted, this is a future proofing system. You
+should enter your date of birth in the chosen date format. You can
+choose your preferred date format on the website, in the <a
+href="https://qcsalon.net/en/display">display settings</a>. When you
+activate the menu item to set your birthday, the client will also show
+you an example in your current format so you can understand how to enter
+it, for example, 18.5.2003 may be shown if the format is
+date.month.year.</li>
+</ul>
+<p>You can open your profile settings from anywhere by pressing
+<code>CTRL+Shift+I</code>.</p>
+<h2 data-number="12.6" id="open-forum"><span
+class="header-section-number">12.6</span> Open forum</h2>
 <p>This option will open the Playroom forum directly in your
 client.<br />
 In fact, when we talked about the inbox earlier, the inbox is also a
@@ -1644,8 +1675,8 @@ documentation</a>.</p>
 <p>To access the forum from anywhere on the Playroom, use CTRL+shift+F
 to open it directly via the client, or CTRL+F2 to open it on our
 website.</p>
-<h3 data-number="12.5.1" id="creating-a-topic"><span
-class="header-section-number">12.5.1</span> Creating a topic</h3>
+<h3 data-number="12.6.1" id="creating-a-topic"><span
+class="header-section-number">12.6.1</span> Creating a topic</h3>
 <p>Once you open the forum, it will display a list of categories. These
 will be:</p>
 <ul>
@@ -1668,27 +1699,27 @@ A topic can be posted only in a language specific forum.</p>
 discussion option will let you start a new topic.</p>
 <p>This is similar to your inbox as well, except that here you only need
 to type your subject, and the message.</p>
-<h3 data-number="12.5.2" id="viewing-existing-topics"><span
-class="header-section-number">12.5.2</span> Viewing existing topics</h3>
+<h3 data-number="12.6.2" id="viewing-existing-topics"><span
+class="header-section-number">12.6.2</span> Viewing existing topics</h3>
 <p>Just like in your inbox, opening any category will show you a list of
 topics. Reading or replying to messages here works exactly the same. The
 forum offers you a few more features, and they will be discussed
 here.</p>
-<h3 data-number="12.5.3" id="topic-score"><span
-class="header-section-number">12.5.3</span> Topic score</h3>
+<h3 data-number="12.6.3" id="topic-score"><span
+class="header-section-number">12.6.3</span> Topic score</h3>
 <p>Below the option to open the discussion on the web, you will see an
 item displaying the current topic score. This score increases whenever a
 community member votes the topic as useful or decreases if the topic is
 voted as useless.<br />
 The options to vote are located below the topic score.</p>
-<h4 data-number="12.5.3.1" id="voting-on-a-post"><span
-class="header-section-number">12.5.3.1</span> Voting on a post</h4>
+<h4 data-number="12.6.3.1" id="voting-on-a-post"><span
+class="header-section-number">12.6.3.1</span> Voting on a post</h4>
 <p>In addition to voting on a topic, you can vote on individual posts as
 well. To do so, open the context menu (applications key) on the post you
 want to vote on. This will show its current score, as well as allow you
 to upvote or downvote it.</p>
-<h5 data-number="12.5.3.1.1" id="quick-voting"><span
-class="header-section-number">12.5.3.1.1</span> Quick voting</h5>
+<h5 data-number="12.6.3.1.1" id="quick-voting"><span
+class="header-section-number">12.6.3.1.1</span> Quick voting</h5>
 <p>The following shortcuts work on a focused post, and allow you to vote
 more quickly without having to open the context menu:</p>
 <ul>
@@ -1697,8 +1728,8 @@ Y.</li>
 <li>Shift+X: Downvote a post.</li>
 <li>Shift+Z: Undo or reset your vote.</li>
 </ul>
-<h3 data-number="12.5.4" id="topic-labels"><span
-class="header-section-number">12.5.4</span> Topic labels</h3>
+<h3 data-number="12.6.4" id="topic-labels"><span
+class="header-section-number">12.6.4</span> Topic labels</h3>
 <p>A topic can have a label. Only the creator of the topic can add a
 label to it. You will find an item to do this when you open the
 topic.<br />
@@ -1709,8 +1740,8 @@ All of the labels should be self-explanatory. The labels may differ
 depending on the forum, for example it doesn’t make sense to have not a
 bug as a label in the forums where we don’t report any bugs, such as the
 tournaments forum.</p>
-<h3 data-number="12.5.5" id="polls"><span
-class="header-section-number">12.5.5</span> Polls</h3>
+<h3 data-number="12.6.5" id="polls"><span
+class="header-section-number">12.6.5</span> Polls</h3>
 <p>A topic can have a poll you can vote on. They can also often be
 surveys, posted by the developer of the Playroom to gather opinions
 about a feature, or something upcoming.<br />
@@ -1723,8 +1754,8 @@ whether the answers are anonymous.</p>
 <p>Note: To create a poll yourself, you must use the website. This
 process is described further in the <a href="/sitedocs">website
 documentation</a></p>
-<h3 data-number="12.5.6" id="editing-your-message"><span
-class="header-section-number">12.5.6</span> Editing your message</h3>
+<h3 data-number="12.6.6" id="editing-your-message"><span
+class="header-section-number">12.6.6</span> Editing your message</h3>
 <p>If you noticed that one of your messages has a mistake, you have the
 option to edit it.<br />
 To do so, press the applications key or open the context menu on that
@@ -1739,14 +1770,14 @@ can edit it.</p>
 labeling a topic require you to exit out of a topic and then come back
 to it to see the changes you have made. This is a limitation exclusive
 to the forum inside the Playroom client.</p>
-<h3 data-number="12.5.7" id="forum-subscriptions"><span
-class="header-section-number">12.5.7</span> Forum subscriptions</h3>
+<h3 data-number="12.6.7" id="forum-subscriptions"><span
+class="header-section-number">12.6.7</span> Forum subscriptions</h3>
 <p>Unlike in your inbox, subscribing to a topic or a forum won’t send
 any e-mails. In this case, the topic or topics from a forum will be
 accessible in your subscriptions section. Use this to access any
 favorite or useful topics more quickly.</p>
-<h2 data-number="12.6" id="send-a-history-report"><span
-class="header-section-number">12.6</span> Send a history report</h2>
+<h2 data-number="12.7" id="send-a-history-report"><span
+class="header-section-number">12.7</span> Send a history report</h2>
 <p>This option is the only recommended way to report something to the
 Playroom staff. It is the easiest way for you to send us your history,
 as well as for us to review it.<br />
@@ -1781,17 +1812,17 @@ intervention from the staff is not necessary. However, we are of course
 here in case of repeating offenses, or if blocking the person becomes
 insufficient, for instance someone crashing your speech synthesizer or
 creating multiple accounts.</p>
-<h2 data-number="12.7" id="open-website"><span
-class="header-section-number">12.7</span> Open website</h2>
+<h2 data-number="12.8" id="open-website"><span
+class="header-section-number">12.8</span> Open website</h2>
 <p>This option will open our website in your default browser. From the
 main room, this can also be done by pressing CTRL+F1.</p>
-<h2 data-number="12.8" id="save-history-in-a-file"><span
-class="header-section-number">12.8</span> Save history in a file</h2>
+<h2 data-number="12.9" id="save-history-in-a-file"><span
+class="header-section-number">12.9</span> Save history in a file</h2>
 <p>This option will let you save your entire history to a TXT file. It
 will open the standard save as dialog, allowing you to choose the
 location and type the name.</p>
-<h2 data-number="12.9" id="save-current-view-in-a-file"><span
-class="header-section-number">12.9</span> Save current view in a
+<h2 data-number="12.10" id="save-current-view-in-a-file"><span
+class="header-section-number">12.10</span> Save current view in a
 file</h2>
 <p>This option will let you save only one view of the history to a file.
 The currently focused view will be saved. Very useful if you only want
