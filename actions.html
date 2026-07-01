@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ARIA Actions Example</title>
+</head>
+<body>
+
+    <div role="tab" 
+         tabindex="0" 
+         aria-label="Settings" 
+         aria-actions="action-edit action-delete">
+        Settings Tab
+    </div>
+
+    <div id="actions-container" hidden>
+        <button id="action-edit" onclick="editItem()">Edit</button>
+        <button id="action-delete" onclick="deleteItem()">Delete</button>
+    </div>
+
+    <script>
+        function editItem() { console.log("Editing..."); }
+        function deleteItem() { console.log("Deleting..."); }
+    </script>
+</body>
+</html>
