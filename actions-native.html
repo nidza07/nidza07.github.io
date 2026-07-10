@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ARIA Actions Example (Native Button)</title>
+</head>
+<body>
+
+    <button aria-label="Settings"
+            aria-actions="action-edit action-delete">
+        Settings Button
+    </button>
+
+    <div id="actions-container" hidden>
+        <button id="action-edit" onclick="editItem()">Edit</button>
+        <button id="action-delete" onclick="deleteItem()">Delete</button>
+    </div>
+
+    <script>
+        function announce(message) {
+            const settingsButton = document.querySelector('[aria-actions]');
+            if (typeof settingsButton.ariaNotify === "function") {
+                settingsButton.ariaNotify(message, { priority: "high" });
+            } else {
+                console.log("aria-notify not supported, would announce:", message);
+            }
+        }
+
+        function editItem() {
+            console.log("Editing...");
+            announce("Edit activated");
+        }
+
+        function deleteItem() {
+            console.log("Deleting...");
+            announce("Delete activated");
+        }
+    </script>
+</body>
+</html>
