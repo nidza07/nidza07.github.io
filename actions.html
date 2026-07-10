@@ -18,8 +18,24 @@
     </div>
 
     <script>
-        function editItem() { console.log("Editing..."); }
-        function deleteItem() { console.log("Deleting..."); }
+        function announce(message) {
+            const settingsButton = document.querySelector('[aria-actions]');
+            if (typeof settingsButton.ariaNotify === "function") {
+                settingsButton.ariaNotify(message, { priority: "high" });
+            } else {
+                console.log("aria-notify not supported, would announce:", message);
+            }
+        }
+
+        function editItem() {
+            console.log("Editing...");
+            announce("Edit activated");
+        }
+
+        function deleteItem() {
+            console.log("Deleting...");
+            announce("Delete activated");
+        }
     </script>
 </body>
 </html>
