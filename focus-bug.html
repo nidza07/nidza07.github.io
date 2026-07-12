@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ARIA Live Region Focus Example</title>
+</head>
+<body>
+
+    <div id="live-region" role="status" aria-live="polite"></div>
+
+    <button id="move-focus-btn" onclick="moveFocus()">Move focus</button>
+    <button id="focus-target-btn">Focus goes here</button>
+    <button id="test-btn" onclick="testLiveRegion()">Test</button>
+
+    <script>
+        const liveRegion = document.getElementById('live-region');
+
+        function announce(message) {
+            liveRegion.textContent = message;
+        }
+
+        function moveFocus() {
+            announce('Moving the focus to the second button');
+            document.getElementById('focus-target-btn').focus();
+        }
+
+        function testLiveRegion() {
+            announce('Live regions test!');
+        }
+    </script>
+</body>
+</html>
